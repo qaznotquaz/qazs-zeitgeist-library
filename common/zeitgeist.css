@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Ubuntu, sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap");
+}
+
+:root {
+    font-family: Ubuntu, sans-serif;
+    font-size: 11pt;
+    color: var(--text-col);
+    background: var(--prim-bg);
+}
+
+body {
+    padding: 50px;
+}
+
+.page {
+    margin: 25px auto;
+    width: 400px;
+    min-height: 10px;
+    padding: 18px 18px 0;
+    border-left: 4px solid var(--prim-acct);
+    background: var(--scnd-bg);
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+p {
+    margin-top: 0;
+    padding-bottom: 18px;
+}
+
+i {
+    color: var(--prim-acct);
+}
+
+b {
+    color: var(--scnd-acnt)
+}
