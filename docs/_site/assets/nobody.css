@@ -1,0 +1,21 @@
+@font-face { font-family: Ubuntu, sans-serif; src: url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap"); }
+
+:root { font-family: Ubuntu, sans-serif; }
+
+body { background: #e7e7e7; }
+
+p { margin-top: 0; }
+
+i, em { color: #bbf; }
+
+b, strong { color: #88f; }
+
+.section { width: 50%; margin: 25px auto; border-left: 4px solid #bbf; background: #d7d7d7; text-align: justify; text-justify: inter-word; }
+
+.section button { font-family: Ubuntu, sans-serif; font-size: 14pt; background-color: #232323; padding: 9px; cursor: pointer; width: 100%; border: none; outline: none; text-align: left; }
+
+.section div { padding: 0 18px; max-height: 0; overflow: hidden; font-size: 12pt; color: #232323; }
+
+/* .active, .collapsible:hover { background-color: #ccc; } */
+
+/*# sourceMappingURL=nobody.css.map */
