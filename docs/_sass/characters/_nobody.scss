@@ -1,21 +1,29 @@
 $font: Ubuntu, sans-serif;
-$bg-1: rgba(0, 0, 0, 0);
+$bg-1: #e7e7e7;
 $bg-2: #d7d7d7;
 $bg-3: #232323;
 $text-color: #232323;
-$acc-1: #bbf;
-$acc-2: #88f;
+$acc-1: #88f;
+$acc-2: #aef;
 
-.nobody-particle-container {
+.main-content {
   width: 100%;
   height: 100%;
-  overflow: hidden;
-  position: relative;
+
+  :before {
+    content: "";
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+  }
 }
 
 .circle-container {
   $particleNum: 200;
-  $particleColor: hsl(180, 100%, 80%);
+  $particleColor: $acc-2;
 
   position: absolute;
   transform: translateY(-10vh);
@@ -28,12 +36,12 @@ $acc-2: #88f;
     border-radius: 50%;
     mix-blend-mode: screen;
     background-image: radial-gradient(
-                    hsl(180, 100%, 10%),
-                    hsl(180, 100%, 5%) 10%,
-                    hsla(180, 100%, 80%, 0) 56%
+                    $acc-2,
+                    $acc-2 10%,
+                    hsla(0, 0, 0, 0) 56%
     );
 
-    animation: fadein-frames 200ms infinite, scale-frames 2s infinite;
+    animation: fadein-frames 2000ms infinite, scale-frames 7s infinite;
 
     @keyframes fade-frames {
       0% {
@@ -64,8 +72,7 @@ $acc-2: #88f;
     }
   }
 
-  $particleBaseSize: 8;
-
+  $particleBaseSize: 12;
 
   @for $i from 1 through $particleNum {
     &:nth-child(#{$i}) {
