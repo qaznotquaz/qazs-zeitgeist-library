@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0635ef0d-6d4d-431d-acad-eaa5978b113b" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="0635ef0d-6d4d-431d-acad-eaa5978b113b" name="Default Changelist" comment="gave nobody particles">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,11 +43,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets\nobody" />
       <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets\vivian" />
       <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets\ip3-k" />
       <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets" />
       <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_ip3-k" />
-      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\_sass\characters" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets\vivian" />
@@ -63,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606098250988</updated>
-      <workItem from="1606098252065" duration="65211000" />
+      <workItem from="1606098252065" duration="67556000" />
     </task>
     <task id="LOCAL-00001" summary="basics working!&#10;- base snippet format set up&#10;- a few sample snippets created&#10;&#10;todo: homepage, header+sidebar, navigation between related snippets">
       <created>1607411968916</created>
@@ -86,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607412474973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hopefully fixing css">
+      <created>1607413005303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607413005303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gave nobody particles">
+      <created>1607423442435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607423442435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +114,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basics working!&#10;- base snippet format set up&#10;- a few sample snippets created&#10;&#10;todo: homepage, header+sidebar, navigation between related snippets" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="hopefully fixing css" />
+    <MESSAGE value="gave nobody particles" />
+    <option name="LAST_COMMIT_MESSAGE" value="gave nobody particles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="256" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607334120139">
@@ -141,10 +159,10 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="310" y="77" key="SettingsEditor/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607408768471" />
-    <state x="394" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607412481039">
+    <state x="394" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607423745501">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
-    <state x="394" y="165" key="Vcs.Push.Dialog.v2/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607412481039" />
+    <state x="394" y="165" key="Vcs.Push.Dialog.v2/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607423745501" />
     <state x="619" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607412447092">
       <screen x="65" y="0" width="1471" height="864" />
     </state>

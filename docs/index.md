@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: snippet
 title: ""
 character: nobody
 ---
