@@ -1,5 +1,5 @@
 ---
-layout: snippet
+layout: nobody
 title: Hallowed Halls
 character: nobody
 ---
