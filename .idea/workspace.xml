@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0635ef0d-6d4d-431d-acad-eaa5978b113b" name="Default Changelist" comment="" />
+    <list default="true" id="0635ef0d-6d4d-431d-acad-eaa5978b113b" name="Default Changelist" comment="basics working!&#10;- base snippet format set up&#10;- a few sample snippets created&#10;&#10;todo: homepage, header+sidebar, navigation between related snippets">
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/02/8cba7a207c0064f593ae7ecec078caa8a72449b55676fd3eaa6d6c2ff23694" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/04/b5d2616cb5e423bc1a752accc4a17ac9f55f0fe5d9aa02ca2f782680cc0451" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0e/bbbc1e5f56cca97c1e5d517e71c15ab3ac0c149443b639a78ebe2efbc019ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/28/2b0f9ea8c821875b6162f29a170521f4e63dfd7707a6d0fbf39c8ea6f3c84d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2b/01db0c402f871c0608660aeffdcb2cf1e5632140d1c1fa2ed75a2e781bb04a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2e/0ff6f255d7926939555e3f7c3ea616b86935db4848eeafab3ad9ea19658cd8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2e/b4c070d2a7e271e4b5fb673f23edd94c5e1d6541c4971dab3034c4029aaff1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/39/2c21e6f3d5d05ca1945f1038e3ba139a5f49bd23114b909db8e8a4ef1feb7e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/39/73e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/45/148380f5c4c5447b9feca73cb4731d8616b69366210cf668d2b8f133654487" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/52/0cd94368c45576f51f748183d15eab1555d89d0cb6de76a288bdefd67613f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/64/d16cafd892ed0a035d478f9e7960f3323452707e9e362cab7184c928d1d22e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/beafaf365ec36e39dd3bce340d44c06af608a8efdb635d4f3f3de95c41eecd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7d/7722fdeb262bd70ca74cc939bd5d1de9ebf595500980f526860bb2f635f66d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7f/1cda2c66590e3b0a7228e33130e451b6bc7d0cdcd3e63ad44042fc61957b60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/82/eb84776d565bc37ecab106467780c6b1af7e401bf07349b6bdafc6222b9cb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/86/8e07ffc23964c853f20a03046d7ac8e00077089ca2ed7623195e11e2b910cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9c/103fa84645671996be272f7c322f0f09a9a6ab4dcd0cb00a067713798eeb89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a4/06629956ac86c8d905e8d5f140a14dd84848efa5a548b226a2e24a52047a1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a7/6a78eb68244708f03616d75c6ec79b18dd1d0582e1feb3e0b40acbc41bdcd5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/af/42a05c590ce1d8efae939d4c42429af869a13b14e5985849860673ced75b8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b4/16130621029f50165a0dc2241064b6870a99c42ca3ba34ff86851ee5d6473d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bf/694f69c139897717aad373ddd0666c9edb443ca7313035b1f813632caabe36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d5/fdb41697951a1d9edd3bacbdb07d131ecc6536ddfa9906ed3fc0228ca61734" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e2/0c6ec5ecd79e8b9cf29c8a898dce0c6b8b71407f5665cc6ef2e27ae2b0b802" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ed/4edb0102594a29d3eb1b2bfc80cd6af43ec3105bbdfe8b19108e85f9654cb7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_includes/collapsible.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_sass/_zeitgeist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_sass/characters/_ip3-k.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_sass/characters/_nobody.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_sass/characters/_vivian.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/fonts/vtks-foolish-things/1001fonts-vtks-foolish-things-eula.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/fonts/vtks-foolish-things/Vtks-Foolish-Things-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/fonts/vtks-foolish-things/Vtks-Foolish-Things.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/images/paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/ip3-k.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/ip3-k.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/nobody.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/nobody.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/vivian.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/assets/vivian.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/snippets/hallowed-halls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/snippets/ip3-k/low-battery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_site/snippets/vivian/fountain-pen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/fonts/vtks-foolish-things/1001fonts-vtks-foolish-things-eula.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/fonts/vtks-foolish-things/Vtks-Foolish-Things-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/fonts/vtks-foolish-things/Vtks-Foolish-Things.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/images/paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/ip3-k.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/nobody.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/vivian.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/snippets/_snippets/hallowed-halls.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/snippets/_snippets/ip3-k/low-battery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/snippets/_snippets/vivian/fountain-pen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/snippets/_snippets/vivian/interview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zeitgeist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zeitgeist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/dark-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/light-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/zeitgeist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/ip3-k/ip3-k.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/ip3-k/low-battery.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +85,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kfisAFwBA1pvBPZRWf2CPNmCLH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +98,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/snippets/_snippets/vivian" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -32,10 +106,23 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets\vivian" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets\ip3-k" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_ip3-k" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\_sass\characters" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\common" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\snippets\_snippets\vivian" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\_sass\characters" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\assets" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\_posts" />
+      <recent name="C:\Users\JasonEaton\WebstormProjects\zeitgeist\docs\_includes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,11 +133,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606098250988</updated>
-      <workItem from="1606098252065" duration="7656000" />
+      <workItem from="1606098252065" duration="64182000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gemspec" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basics working!&#10;- base snippet format set up&#10;- a few sample snippets created&#10;&#10;todo: homepage, header+sidebar, navigation between related snippets" />
+    <option name="LAST_COMMIT_MESSAGE" value="basics working!&#10;- base snippet format set up&#10;- a few sample snippets created&#10;&#10;todo: homepage, header+sidebar, navigation between related snippets" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607334120139">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="256" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607334120139" />
+    <state x="563" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607406300144">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="563" y="234" key="#com.intellij.fileTypes.FileTypeChooser/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607406300144" />
+    <state x="167" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607334845153">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="167" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607334845153" />
+    <state x="532" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607335376527">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="532" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607335376527" />
+    <state x="471" y="210" key="EditFileWatcherDialog" timestamp="1606333739876">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="471" y="210" key="EditFileWatcherDialog/65.0.1471.864@65.0.1471.864" timestamp="1606333739876" />
+    <state x="74" y="342" width="1445" height="390" key="Github.ShareDialog" timestamp="1606299425724">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="74" y="342" width="1445" height="390" key="Github.ShareDialog/65.0.1471.864@65.0.1471.864" timestamp="1606299425724" />
+    <state x="601" y="137" key="Github.UntrackedFilesDialog" timestamp="1606299434198">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="601" y="137" key="Github.UntrackedFilesDialog/65.0.1471.864@65.0.1471.864" timestamp="1606299434198" />
+    <state x="310" y="77" key="SettingsEditor" timestamp="1607408768471">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="310" y="77" key="SettingsEditor/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607408768471" />
+    <state x="619" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606299982920">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="619" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.0.1471.864@65.0.1471.864" timestamp="1606299982920" />
+    <state x="458" y="197" key="run.anything.popup" timestamp="1607407261194">
+      <screen x="65" y="0" width="1471" height="864" />
+    </state>
+    <state x="458" y="197" key="run.anything.popup/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607407261194" />
   </component>
 </project>

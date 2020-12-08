@@ -1,0 +1,6 @@
+<div class="section">
+    <button type="button" class="collapsible"><b>{{ include.title | default: "-" }}</b></button>
+    <div>
+        {{ include.content | default: "-" | markdownify }}
+    </div>
+</div>

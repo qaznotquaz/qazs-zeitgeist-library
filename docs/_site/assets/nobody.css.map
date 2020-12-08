@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "nobody.css",
+	"sources": [
+		"nobody.scss",
+		"_sass/characters/_nobody.scss",
+		"_sass/_zeitgeist.scss"
+	],
+	"sourcesContent": [
+		"@import \"characters/nobody\";\n@import \"zeitgeist\";\n",
+		"$font: Ubuntu, sans-serif;\r\n$bg-1: #e7e7e7;\r\n$bg-2: #d7d7d7;\r\n$bg-3: #232323;\r\n$text-color: #232323;\r\n$acc-1: #bbf;\r\n$acc-2: #88f;",
+		"@font-face {\n  font-family: Ubuntu, sans-serif;\n  src: url(\"https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap\");\n}\n\n$font: Ubuntu, sans-serif !default;\n$text-size-1: 12pt !default;\n$text-size-2: 14pt !default;\n\n:root {\n  font-family: $font;\n}\n\nbody {\n  background: $bg-1;\n}\n\np {\n  margin-top: 0;\n}\n\ni, em{\n  color: $acc-1;\n}\n\nb, strong {\n  color: $acc-2;\n}\n\n.section {\n  width: 50%;\n  margin: 25px auto;\n  border-left: 4px solid $acc-1;\n  background: $bg-2;\n  text-align: justify;\n  text-justify: inter-word;\n\n  button {\n    font-family: $font;\n    font-size: $text-size-2;\n    background-color: $bg-3;\n    padding: 9px;\n    cursor: pointer;\n    width: 100%;\n    border: none;\n    outline: none;\n    text-align: left;\n  }\n\n  div {\n    padding: 0 18px;\n    max-height: 0;\n    overflow: hidden;\n    font-size: $text-size-1;\n    color: $text-color;\n  }\n}\n\n/*\n.active, .collapsible:hover {\n  background-color: #ccc;\n}\n*/"
+	],
+	"names": [],
+	"mappings": "AEAA,UAAU,GACR,WAAW,EAAE,kBAAkB,EAC/B,GAAG,EAAE,gFAAgF;;CAOtF,AAAD,IAAK,CAAC,EACJ,WAAW,EDVN,MAAM,EAAE,UAAU,GCWxB;;AAED,AAAA,IAAI,CAAC,EACH,UAAU,EDbL,OAAO,GCcb;;AAED,AAAA,CAAC,CAAC,EACA,UAAU,EAAE,CAAC,GACd;;AAED,AAAA,CAAC,EAAE,EAAE,CAAA,EACH,KAAK,EDjBC,IAAI,GCkBX;;AAED,AAAA,CAAC,EAAE,MAAM,CAAC,EACR,KAAK,EDpBC,IAAI,GCqBX;;AAED,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,GAAG,EACV,MAAM,EAAE,SAAS,EACjB,WAAW,EAAE,GAAG,CAAC,KAAK,CD3BhB,IAAI,EC4BV,UAAU,ED/BL,OAAO,ECgCZ,UAAU,EAAE,OAAO,EACnB,YAAY,EAAE,UAAU,GAqBzB;;AA3BD,AAQE,QARM,CAQN,MAAM,CAAC,EACL,WAAW,EDtCR,MAAM,EAAE,UAAU,ECuCrB,SAAS,EAhCC,IAAI,EAiCd,gBAAgB,EDrCb,OAAO,ECsCV,OAAO,EAAE,GAAG,EACZ,MAAM,EAAE,OAAO,EACf,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,EACZ,OAAO,EAAE,IAAI,EACb,UAAU,EAAE,IAAI,GACjB;;AAlBH,AAoBE,QApBM,CAoBN,GAAG,CAAC,EACF,OAAO,EAAE,MAAM,EACf,UAAU,EAAE,CAAC,EACb,QAAQ,EAAE,MAAM,EAChB,SAAS,EA/CC,IAAI,EAgDd,KAAK,EDlDI,OAAO,GCmDjB;;AAGH,6DAIE"
+}
