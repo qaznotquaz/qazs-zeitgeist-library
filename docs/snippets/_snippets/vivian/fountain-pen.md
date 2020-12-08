@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: snippet
 title: Fountain Pen
 character: vivian
 ---
