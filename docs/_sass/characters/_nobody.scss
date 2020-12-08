@@ -1,5 +1,5 @@
 $font: Ubuntu, sans-serif;
-$bg-1: #e7e7e7;
+$bg-1: rgba(0, 0, 0, 0);
 $bg-2: #d7d7d7;
 $bg-3: #232323;
 $text-color: #232323;
@@ -28,8 +28,8 @@ $acc-2: #88f;
     border-radius: 50%;
     mix-blend-mode: screen;
     background-image: radial-gradient(
-                    hsl(180, 100%, 80%),
-                    hsl(180, 100%, 80%) 10%,
+                    hsl(180, 100%, 10%),
+                    hsl(180, 100%, 5%) 10%,
                     hsla(180, 100%, 80%, 0) 56%
     );
 
