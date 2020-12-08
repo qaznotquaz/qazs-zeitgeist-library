@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0635ef0d-6d4d-431d-acad-eaa5978b113b" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zeitgeist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zeitgeist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/nobody.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_layouts/nobody.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/characters/_nobody.scss" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sass/characters/_nobody.scss" afterDir="false" />
-    </list>
+    <list default="true" id="0635ef0d-6d4d-431d-acad-eaa5978b113b" name="Default Changelist" comment="give nobody particles!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606098250988</updated>
-      <workItem from="1606098252065" duration="74297000" />
+      <workItem from="1606098252065" duration="74827000" />
     </task>
     <task id="LOCAL-00001" summary="basics working!&#10;- base snippet format set up&#10;- a few sample snippets created&#10;&#10;todo: homepage, header+sidebar, navigation between related snippets">
       <created>1607411968916</created>
@@ -149,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607425480814</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="give nobody particles!">
+      <created>1607430818814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607430818814</updated>
+    </task>
+    <task id="LOCAL-00013" summary="give nobody particles!">
+      <created>1607430948213</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607430948213</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +171,8 @@
     <MESSAGE value="gave nobody particles" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="give nobody particles!" />
+    <option name="LAST_COMMIT_MESSAGE" value="give nobody particles!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="256" y="87" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607334120139">
@@ -207,10 +215,10 @@
       <screen x="65" y="0" width="1471" height="864" />
     </state>
     <state x="310" y="77" key="SettingsEditor/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607408768471" />
-    <state x="394" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607425484716">
+    <state x="394" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607430951497">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
-    <state x="394" y="165" key="Vcs.Push.Dialog.v2/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607425484716" />
+    <state x="394" y="165" key="Vcs.Push.Dialog.v2/65.0.1471.864/-516.1080.1378.900/924.1110.1280.738@65.0.1471.864" timestamp="1607430951497" />
     <state x="619" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607424789933">
       <screen x="65" y="0" width="1471" height="864" />
     </state>
