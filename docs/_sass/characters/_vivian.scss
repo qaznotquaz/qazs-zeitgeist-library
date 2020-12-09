@@ -25,7 +25,7 @@ $background-image: url('images/paper.jpg');
   }
 }
 
-.main-content:before {
+#main-content:before {
   filter: saturate(30%) opacity(80%);
 }
 

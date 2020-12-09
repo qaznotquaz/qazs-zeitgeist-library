@@ -151,7 +151,7 @@ b, strong {
 }
 
 @if variable-exists(background-image) {
-  .main-content:before {
+  #main-content:before {
     content: "";
     position: fixed;
     top: 0;
