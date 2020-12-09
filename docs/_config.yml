@@ -6,7 +6,12 @@ description: Welcome to the Zeitgeist.
 collections:
   snippets:
     output: true
+  profiles:
+    output: false
+  navigation:
+    output: true
+    permalink: /:name/
 
-collections_dir: snippets
+collections_dir: pages
 
 permalink: /:collection/:categories/:slug/

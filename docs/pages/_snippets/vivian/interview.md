@@ -1,6 +1,6 @@
 ---
-layout: snippet
-title: Fountain Pen
+layout: vivian
+title: Interview
 character: vivian
 ---
 {% include collapsible.html title="Is this thing on?" content="
@@ -11,7 +11,7 @@ character: vivian
 {% include collapsible.html title="Click." content="
 One second. The street noise is loud. A building is to the left - clean glass and dark metal. Reflections spark across it, from the street. A street is to the right - blurs of motion and neon. Streetlights glisten down. Reflections spark off the sidewalk. It's starting to rain.
 
-Two seconds. The reporter smiles. She's got an umbrella and an overcoat - both ***ink-dark*** and slick with rain. Her braided hair drapes down her left shoulder, also ***ink-dark*** and slick. Her **voice** is clear, quick, and squeaky as she speaks into her headset.
+Two seconds. The reporter smiles. She's got an umbrella and an overcoat - both ink-dark and slick with rain. Her braided hair drapes down her left shoulder, also ink-dark and slick. Her **voice** is clear, quick, and squeaky as she speaks into her headset.
 
 Three seconds." %}
 
@@ -57,7 +57,7 @@ Sixty-eight seconds. *Question*, answer, *question*, answer.
 " %}
 
 {% include collapsible.html title="Seventy-nine seconds." content="
-Vivian is *yelling* over the noise. The rainwater is ***ink-dark*** beneath her. *She is getting her story.*
+Vivian is *yelling* over the noise. The rainwater is ink-dark beneath her. *She is getting her story.*
 
 Eighty seconds. *Question*, answer, *question*, answer.
 

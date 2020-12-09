@@ -3,9 +3,41 @@
   src: url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap");
 }
 
-$font: Ubuntu, sans-serif !default;
-$text-size-1: 12pt !default;
-$text-size-2: 14pt !default;
+$default-font: Ubuntu, sans-serif !default;
+$default-text-size-1: 12pt;
+$default-text-size-2: 14pt;
+
+$font: $default-font !default;
+$text-size-1: $default-text-size-1 !default;
+$text-size-2: $default-text-size-2 !default;
+$section-bg: $bg-2 !default;
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
 
 :root {
   font-family: $font;
@@ -13,6 +45,61 @@ $text-size-2: 14pt !default;
 
 body {
   background: $bg-1;
+  margin: 0;
+}
+
+@mixin tab {
+  font-family: $default-font;
+  font-size: $default-text-size-2;
+  background-color: #e7e7e7;
+  padding: 9px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+}
+
+header {
+  width: 100%;
+}
+
+#top-nav {
+  @include tab;
+  border-left: 4px solid #88f;
+  border-bottom: 4px solid $acc-1;
+  display: flex;
+  align-items: center;
+
+  #home {
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      $size: 21px;
+      float: left;
+      height: $size;
+      width: $size;
+      cursor: pointer;
+      border: 2px solid;
+      margin: 0 5px;
+    }
+  }
+}
+
+#title {
+  padding: 12px 0 12px 24px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  backdrop-filter: blur(5px) brightness(90%);
+  font-size: $text-size-2*1.5;
+  $title-color: $acc-2 !default;
+  color: $title-color;
 }
 
 p {
@@ -28,23 +115,19 @@ b, strong {
 }
 
 .section {
-  width: 50%;
+  width: 75%;
   margin: 25px auto;
   border-left: 4px solid $acc-1;
-  background: $bg-2;
+  background: $section-bg;
   text-align: justify;
   text-justify: inter-word;
 
   button {
+    @include tab;
     font-family: $font;
     font-size: $text-size-2;
     background-color: $bg-3;
-    padding: 9px;
     cursor: pointer;
-    width: 100%;
-    border: none;
-    outline: none;
-    text-align: left;
   }
 
   div {
@@ -53,6 +136,24 @@ b, strong {
     overflow: hidden;
     font-size: $text-size-1;
     color: $text-color;
+  }
+}
+
+@if variable-exists(background-image) {
+  .main-content:before {
+    content: "";
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+
+    display: block;
+    background-image: $background-image;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: cover;
   }
 }
 
