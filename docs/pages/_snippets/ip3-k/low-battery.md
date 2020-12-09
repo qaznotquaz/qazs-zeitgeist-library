@@ -1,5 +1,5 @@
 ---
-layout: snippet
+layout: characters/ip3-k
 title: 0% battery remaining. the device will now shut down.
 character: ip3-k
 ---

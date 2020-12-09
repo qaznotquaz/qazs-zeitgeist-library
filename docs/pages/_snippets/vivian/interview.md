@@ -1,5 +1,5 @@
 ---
-layout: vivian
+layout: characters/vivian
 title: Interview
 character: vivian
 ---

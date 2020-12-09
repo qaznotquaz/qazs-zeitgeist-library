@@ -114,8 +114,19 @@ b, strong {
   color: $acc-2;
 }
 
+@media screen and (max-width: 700px) {
+  .section {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .section {
+    width: 75%;
+  }
+}
+
 .section {
-  width: 75%;
   margin: 25px auto;
   border-left: 4px solid $acc-1;
   background: $section-bg;

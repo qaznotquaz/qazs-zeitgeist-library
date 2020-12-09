@@ -5,3 +5,23 @@ $bg-3: #1a1a1a;
 $text-color: #eee;
 $acc-1: #ff8;
 $acc-2: #0f9;
+$section-bg: rgba($bg-2, 0.4);
+$background-image: radial-gradient(circle at top right, rgba(121, 68, 154, 0.13), transparent),
+  radial-gradient(circle at 20% 80%, rgba(41, 196, 255, 0.13), transparent);
+
+.section {
+  backdrop-filter: blur(5px);
+}
+
+#astral-particles {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+
+  display: block;
+  overflow: hidden;
+}
