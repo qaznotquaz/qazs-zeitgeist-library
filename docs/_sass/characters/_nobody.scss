@@ -1,13 +1,8 @@
 $font: Ubuntu, sans-serif;
-$bg-1: #e7e7e7;
-$bg-2: #d7d7d7;
-$bg-3: #232323;
-$text-color: #232323;
-$acc-1: #88f;
-$title-color: $acc-1;
-$acc-2: #aef;
 $background-image: url('images/cloud.jpg');
-$section-bg: rgba($bg-2, 0.4);
+$section-bg: rgba($bg-2, 0.7);
+
+$title-color: $acc-1;
 
 #nobody-particles {
   content: "";

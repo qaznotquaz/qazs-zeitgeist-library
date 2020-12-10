@@ -1,5 +1,7 @@
 ---
+character: vivian
 ---
 
+{% include character.scss character=page.character %}
 @import "characters/vivian";
 @import "default";

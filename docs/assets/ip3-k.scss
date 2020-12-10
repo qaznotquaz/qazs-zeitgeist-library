@@ -1,5 +1,7 @@
 ---
+character: ip3-k
 ---
 
+{% include character.scss character=page.character %}
 @import "characters/ip3-k";
 @import "default";

@@ -1,0 +1,35 @@
+ip3-k:
+  character: ip3-k
+  fullname: IP3-K
+  bg-1: '#000'
+  bg-2: '#232323'
+  bg-3: '#1a1a1a'
+  text-color: '#eee'
+  acc-1: '#ff8'
+  acc-2: '#0f9'
+  secret: false
+
+vivian:
+  character: vivian
+  fullname: Vivian Vivlio
+  bg-1: '#666'
+  bg-2: '#dca'
+  bg-3: '#975'
+  text-color: '#222'
+  acc-1: '#000'
+  acc-2: '#000'
+  secret: false
+
+nobody:
+  character: nobody
+  fullname: Nobody
+  bg-1: '#e7e7e7'
+  bg-2: '#d7d7d7'
+  bg-3: '#232323'
+  text-color: '#232323'
+  acc-1: '#88f'
+  acc-2: '#aef'
+  secret: false
+
+birdie:
+  secret: true
