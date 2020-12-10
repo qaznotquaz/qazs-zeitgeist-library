@@ -1,5 +1,5 @@
 <div class="section">
-    <button type="button" class="collapsible"><b>{{ include.title | default: "-" }}</b></button>
+    <button type="button" class="section-button"><b>{{ include.title | default: "-" }}</b></button>
     <div>
         {{ include.content | default: "-" | markdownify }}
     </div>
