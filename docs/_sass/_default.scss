@@ -119,18 +119,6 @@ header {
   color: $title-color;
 }
 
-p {
-  margin-top: 0;
-}
-
-i, em{
-  color: $acc-1;
-}
-
-b, strong {
-  color: $acc-2;
-}
-
 @media screen and (max-width: 700px) {
   .section {
     width: 100%;
@@ -149,6 +137,18 @@ b, strong {
   background: $section-bg;
   text-align: justify;
   text-justify: inter-word;
+
+  p {
+    margin-top: 0;
+  }
+
+  i, em{
+    color: $acc-1;
+  }
+
+  b, strong {
+    color: $acc-2;
+  }
 
   button {
     @include tab;
