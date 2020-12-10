@@ -79,13 +79,30 @@ header {
     padding: 0;
 
     li {
-      $size: 21px;
+      $size: 27px;
       float: left;
       height: $size;
       width: $size;
       cursor: pointer;
       border: 2px solid;
       margin: 0 5px;
+      transition: width 0.1s ease-in-out;
+      font-size: 10pt;
+      display: flex;
+      align-items: center;
+      font-weight: bold;
+      padding: 5px;
+      white-space: nowrap;
+
+      div {
+        display: none;
+      }
+
+      &:hover {
+        div {
+          display: block;
+        }
+      }
     }
   }
 }
