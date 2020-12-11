@@ -11,7 +11,7 @@ setting: Untitled Setting.
 - *a recipe*
 
 - *birdie*<span class='note'>*</span>
-- *POT1 1014*
+- *POTI 1014*
 - *professor epans*<span class='note'>*</span>
 - <s>DATE REDACTED</s>
 " %}
