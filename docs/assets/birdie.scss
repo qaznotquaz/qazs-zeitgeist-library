@@ -1,0 +1,7 @@
+---
+character: birdie
+---
+
+{% include character.scss character=page.character %}
+@import "characters/birdie";
+@import "default";

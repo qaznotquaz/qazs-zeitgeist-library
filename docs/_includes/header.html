@@ -1,7 +1,10 @@
+{% assign setting=include.setting %}
+
 <header>
     <div id="top-nav">
-        <span id="home">{{ include.setting | default: "Zeitgeist" }}</span>
+        <span id="home">{{ setting | default: "Zeitgeist" }}</span>
         <ul>
+            {% unless setting %}
             {% for keyvaluepair in site.data.characters %}
                 {% assign charrie = keyvaluepair[1] %}
                 {% if charrie.secret == true %}
@@ -14,6 +17,7 @@
                     <div>{{ charrie.fullname | upcase }}</div>
                 </li>
             {% endfor %}
+            {% endunless %}
         </ul>
     </div>
     <div id="title">{{ page.title }}</div>

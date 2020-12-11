@@ -32,4 +32,12 @@ nobody:
   secret: false
 
 birdie:
+  character: birde
+  fullname: birdie
+  bg-1: '#fff'
+  bg-2: '#e7e7e7'
+  bg-3: '#aaf'
+  text-color: '#232323'
+  acc-1: '#34f'
+  acc-2: '#00a'
   secret: true

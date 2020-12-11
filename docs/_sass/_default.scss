@@ -1,6 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap");
 @font-face {
   font-family: Ubuntu, sans-serif;
-  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap");
 }
 
 $default-font: Ubuntu, sans-serif !default;
@@ -133,7 +133,7 @@ header {
 
 .section {
   margin: 25px auto;
-  border-left: 4px solid $acc-1;
+  border-left: 4px solid $acc-2;
   background: $section-bg;
   text-align: justify;
   text-justify: inter-word;
@@ -195,9 +195,3 @@ header {
     background-size: cover;
   }
 }
-
-/*
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-*/
