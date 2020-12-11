@@ -138,18 +138,6 @@ header {
   text-align: justify;
   text-justify: inter-word;
 
-  p {
-    margin-top: 0;
-  }
-
-  i, em{
-    color: $acc-1;
-  }
-
-  b, strong {
-    color: $acc-2;
-  }
-
   button {
     @include tab;
     font-family: $font;
@@ -164,6 +152,29 @@ header {
     overflow: hidden;
     font-size: $text-size-1;
     color: $text-color;
+  }
+
+  p {
+    margin-top: 0;
+  }
+
+  i, em{
+    color: $acc-1;
+  }
+
+  b, strong {
+    color: $acc-2;
+  }
+
+  .image-container {
+    position: relative;
+
+    img {
+      position: absolute;
+      width: auto;
+      display: block;
+      z-index: -1;
+    }
   }
 }
 
