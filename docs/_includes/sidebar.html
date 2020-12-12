@@ -1,17 +1,17 @@
 {% assign setting=site.data.characters[page.character].setting %}
 {% assign charrie=site.data.characters[page.character] %}
-{% assign posts=site.snippets | where: "character", page.character %}
+{% assign posts=site.snippets | where: "character", page.character | sort: "ordinal" %}
 
 <div id="sidebar" class="collapsible-hover">
     <ul>
         <li id="home">
-            <div>{{ setting | default: "Zeitgeist" }}</div>
+            <a>{{ setting | default: "Zeitgeist" }}</a>
         </li>
         {% for post in posts %}
         <li style="background: {{ charrie.bg-2 }};
                         border-color: {{ charrie.acc-1 }};
                         color: {{ charrie.text-color }}">
-            <div>{{ post.title }}</div>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>

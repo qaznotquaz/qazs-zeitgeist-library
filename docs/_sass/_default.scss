@@ -71,6 +71,22 @@ html {
   white-space: nowrap;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
 #top-nav {
   @include tab;
   border-bottom: 4px solid $acc-1;
@@ -136,7 +152,7 @@ body {
     li {
       border-top-width: 4px;
 
-      div {
+      a {
         display: block;
       }
     }
@@ -163,7 +179,7 @@ body {
       border-right: 0;
       border-bottom-width: 4px;
 
-      div {
+      a {
         display: none;
       }
     }

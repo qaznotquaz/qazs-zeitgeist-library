@@ -3,6 +3,7 @@ layout: characters/birdie
 title: Invisibility (draft)
 character: birdie
 prof-font: "'Alex Brush', cursive"
+ordinal: 2
 ---
 {% include collapsible.html title="cover page" content="
 # the university
@@ -17,14 +18,16 @@ prof-font: "'Alex Brush', cursive"
 " %}
 
 {% include collapsible.html title="intro" content="
-[DESCRIPTION NEEDED]
+as you're likely aware, last semester, i broke into the reagents storage room. i had an idea and nothing was stopping me - i'd thought through everything that might go wrong and planned my whole heist like two days in advance. given that you're likely aware of this, though, it's pretty clear i messed up somewhere. i got caught! i was seen, by another student *who was doing the same thing!* injustice aside, i would have loved to have had a way to just disappear for a little while. we could all use a break sometimes, yeah?
+
+well, that's what **invisibility** is for!
 " %}
 
 {% include collapsible.html title="you will need:" content="
 ***ingredients:***  
 \- 1 cup octopus ink *(sorry about the taste)*  
-\- at least 4 cups weak wine, beer, or similar *(has nothing to do with the magic - we just need to make this drinkable!)*  
-\- 1 tbsp bone char powder *(this is why we can't use water for that, though)*  
+\- at least 4 cups weak wine, beer, or similar *(has nothing to do with the magic - we just need to make this drinkable! i used some blackberry boxed wine, but it really doesn't matter so long as it's alcoholic)*  
+\- 1 tbsp bone char powder *(this is why we need alcohol, though)*  
 \- 1 tbsp fernseed *(i don't know what this is)*  
 \- enough liquid resin to insulate and encapsulate the solid ingredients *(should be less than 2/3 cups)*  
 \- at least 2 eyelashes *(you'll lose one)*  
@@ -75,9 +78,14 @@ shake well and wait a few moments - the resin-chocolate-ball should disappear. a
 
 ---
 
-corked and left out of direct line of sight, this should last indefinitely. it will never taste good.  
-shake well before serving.
+corked and left out of direct line of sight, this should last indefinitely. it will never taste good.
 " %}
+
+{% include collapsible.html title="serving instructions" content="
+shake well before serving. make sure not to look at the extract before or while drinking it. to keep your mind off the briny flavor *(and to not injure yourself!)*, channel **neutral energy** according to **lukas' emptiness**. don't rush it. don't fall asleep. the sooner you forget what you look like, the less draining this is going to be. you'll be fine from there. though, *stop channeling* if you forget what eye contact looks like, or what your name sounds like. no telling what your eyesight will be like if the extract runs its course while you're still channeling.
+
+enjoy!
+"%}
 
 {% include collapsible.html title="<span class='note'>professor's notes</span>" content="
 <span class='note'>
