@@ -1,6 +1,6 @@
 ---
 layout: characters/birdie
-title: Invisibility (draft)
+title: Invisibility
 character: birdie
 prof-font: "'Alex Brush', cursive"
 ordinal: 2
@@ -13,8 +13,8 @@ ordinal: 2
 
 - *birdie*
 - *LKME 1013*
-- *professor mayakovski*
-- last night
+- *professor mayakovski*<span class='note'>*</span>
+- <s>last night</s> <span class='note'>I appreciate the candor, but please use more conventional notation in the future.</span>
 " %}
 
 {% include collapsible.html title="intro" content="
@@ -31,7 +31,7 @@ well, that's what **invisibility** is for!
 \- 1 tbsp fernseed *(i don't know what this is)*  
 \- enough liquid resin to insulate and encapsulate the solid ingredients *(should be less than 2/3 cups)*  
 \- at least 2 eyelashes *(you'll lose one)*  
-\- 2\" square ripped piece of a used cloak *(i actually laughed out loud when i read about this. make sure the cloak has actually been used before)*  
+\- 2\" square ripped piece of a used cloak *(i actually laughed out loud when i read about this. <span class='underline'>make sure the cloak has actually been used before</span>)* <span class='note'> I like to sneak around in the cloak that I use - it seems to add a small sound dampening effect. Not much, but every little bit helps!</span>  
 \- 1 eye of a cat, dog, hare, deer, or similar beast *(couldn't find any way around it)*  
 \- 1 small crystal ball, triangular prism, or other clear refractor  
 \- 1 tbsp glamer glitter *(any brand will do. you can also shatter and grind the glass yourself, which is what i did because i forgot to buy any!)*  
@@ -62,7 +62,7 @@ begin melting dark chocolate.
 
 *step 3: (skip this step if you already have glamer glitter.)*  
 using the rag, take a boulder-marble-sized piece of broken glass and break it into smaller and smaller pieces.
-grind these pieces finely. in case you ignore the warnings on this stuff, by the way? don't touch it!
+grind these pieces finely. <span class='underline'>in case you ignore the warnings on this stuff, by the way? don't touch it!</span> <span class='note'>I trust that you learned why firsthand?</span>
 
 *step 4:*  
 stir bone char, fernseed, and glitter into ink.
@@ -74,7 +74,10 @@ coat resin with dark chocolate like it's candy.
 place resin-chocolate-ball into the target bottle, then add ink solution. fill remaining space with alcohol.
 
 *step 7:*  
-shake well and wait a few moments - the resin-chocolate-ball should disappear. at this point, add the mint extract and fill any remaining space with more alcohol.
+shake well and channel neutral energy through the bottle until the resin-chocolate-ball completely disperses.
+
+*step 8:*  
+add the mint extract and fill any remaining space with more alcohol.
 
 ---
 
@@ -87,25 +90,27 @@ shake well before serving. make sure not to look at the extract before or while 
 enjoy!
 "%}
 
-{% include collapsible.html title="<span class='note'>professor's notes</span>" content="
-<span class='note'>
-\- comment about misunderstanding the assignment  
-\- comment about self-harm  
-\- comment about how he showed up to class invisible  
-\- comment answering yield question  
-\- reminder that sand can be used as a weak glamer glitter in a pinch
-</span>
+{% include collapsible.html title="<span class='note'>Professor's Notes</span>" content="
+<span class='note'>You do realize this was meant to be a theoretical exercise, yes? Not a practical one? Frankly, I'm impressed you were able to both make and use this extract. I'd like to talk to you about that after class. In the future, though, be more careful when crushing glass. Or, of course, you can always use sand as a weak glamer glitter in a pinch. Either way, we wouldn’t want your invisibility ruined by blood splatter again, would we?
 
-<span class='underline note'>Grade: ---</span>
+<span class='note'>As for your query about the yield: your wine was actually an active ingredient! Well, more specifically the blackberry in it. You may have meant it to be cheap and inert, but the wine you chose was extremely effective.
+
+<span class='note'>Moving forward, we would all appreciate it if you used correct capitalization and formatting. And, of course, proper precaution. These are the only two points I can mark off of this assignment, though - well done!
+
+<span class='underline note'>Grade: 98%
+
+<span class='note'>P.S., I still keep the product of your little heist on my desk, it's a very interesting pet rock and door knocker.
 " %}
 
 {% include collapsible.html title="<span class='reread'>my reread notes</span>" content="
 <span class='reread'>wait, i learned this spell back in college? in the ***intro*** class?? they took way more from me than i thought.  
-how...</span>
+how...
 
-<span class='reread'>how do you un-learn a spell? i guess i'm glad i.. remembered..? it? why do i even have this in my bag? it's not like i need to use it, i've already re-learned this on my own.</span>
+<span class='reread'>how do you un-learn a spell? i guess i'm glad i.. remembered..? it? why do i even have this in my bag? it's not like i need to use it, i've already re-learned this on my own.
 
-<span class='reread'>... i can't believe i forgot about sand. sand! dr mayakovski probably only knew to mark me for attendance from seeing the blood dripping blood from my hand after grabbing a handful of diy \"glitter\".</span>
+<span class='reread'>on another note, are they talking about my first thunderstone? i forgot that thing even existed! i thought it barely even worked, but i guess it was worth holding onto?
 
-<span class='reread'>well, at least it worked.</span>
+<span class='reread'>...i can't believe i forgot about sand. sand! dr mayakovski probably only knew to mark me for attendance from seeing the blood dripping from my hand after grabbing a handful of diy \"glitter\".
+
+<span class='reread'>well, at least it worked.
 " %}

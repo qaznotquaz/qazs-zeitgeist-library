@@ -76,7 +76,7 @@ corked, this technically keeps indefinitely - but, the taste worsens over time.
 shake well before serving.
 " %}
 
-{% include collapsible.html title="<span class='note'>professor's notes</span>" content="
+{% include collapsible.html title="<span class='note'>Professor's Notes</span>" content="
 <span class='note'>I've taken the liberty to strike a number of unnecessary comments and instances of foolishness out of this recipe. You will be losing points for all of them because of a patent lack of professionalism.
 
 <span class='note'>You are to use your given name on future assignments. You will correctly capitalize my title and name. You will also write a legitimate date on your assignments, instead of making obscene jokes.
