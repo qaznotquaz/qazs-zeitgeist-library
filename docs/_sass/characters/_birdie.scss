@@ -1,16 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
-
-@font-face {
-  font-family: Reenie Beanie, cursive;
-}
-
-@font-face {
-  font-family: Jim Nightshade, serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 
 $font: Reenie Beanie, cursive;
-$proffont: Jim Nightshade, serif;
 $text-size-1: 20pt;
 $text-size-2: 25pt;
 
@@ -51,6 +45,10 @@ $title-color: $acc-1;
     b, strong {
       font-weight: normal;
     }
+
+    .reread {
+      font-size: 20pt;
+    }
   }
 
   s {
@@ -62,8 +60,13 @@ $title-color: $acc-1;
   }
 
   .note {
-    font-family: $proffont;
     color: red;
+  }
+
+  .reread {
+    color: #34f;
+    font-family: Nothing You Could Do, sans-serif;
+    font-size: 15pt;
   }
 }
 

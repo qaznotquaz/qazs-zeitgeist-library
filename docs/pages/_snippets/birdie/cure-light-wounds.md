@@ -2,7 +2,7 @@
 layout: characters/birdie
 title: Cure Light Wounds
 character: birdie
-setting: Untitled Setting.
+prof-font: "'Jim Nightshade', serif"
 ---
 {% include collapsible.html title="cover page" content="
 # the university
