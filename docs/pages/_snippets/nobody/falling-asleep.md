@@ -2,6 +2,7 @@
 layout: characters/nobody
 title: Falling Asleep
 character: nobody
+categories: snippets
 ---
 {% include collapsible.html title="Dear Diary," content="
 *falling asleep.*

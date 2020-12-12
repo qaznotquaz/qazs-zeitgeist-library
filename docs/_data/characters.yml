@@ -1,6 +1,7 @@
 ip3-k:
   character: ip3-k
   fullname: IP3-K
+  setting: Zeitgeist
   bg-1: '#000'
   bg-2: '#232323'
   bg-3: '#1a1a1a'
@@ -12,6 +13,7 @@ ip3-k:
 vivian:
   character: vivian
   fullname: Vivian Vivlio
+  setting: Zeitgeist
   bg-1: '#666'
   bg-2: '#dca'
   bg-3: '#975'
@@ -23,6 +25,7 @@ vivian:
 nobody:
   character: nobody
   fullname: Nobody
+  setting: Zeitgeist
   bg-1: '#e7e7e7'
   bg-2: '#d7d7d7'
   bg-3: '#232323'
@@ -32,8 +35,9 @@ nobody:
   secret: false
 
 birdie:
-  character: birde
+  character: birdie
   fullname: birdie
+  setting: Untitled Setting.
   bg-1: '#fff'
   bg-2: '#e7e7e7'
   bg-3: '#aaf'
