@@ -1,14 +1,58 @@
-ip3-k:
-  character: ip3-k
-  fullname: IP3-K
+alexa:
+  character: alexa
+  fullname: Alexandra Laskea
   setting: Zeitgeist
-  bg-1: '#000'
-  bg-2: '#232323'
-  bg-3: '#1a1a1a'
-  text-color: '#eee'
-  acc-1: '#ff8'
-  acc-2: '#0f9'
-  secret: false
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
+
+xander:
+  character: xander
+  fullname: Alexander Laskea
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
+
+admin:
+  character: admin
+  fullname: '[ADMIN]'
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
+  hide: true
+
+fate:
+  character: fate
+  fullname: Fate
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
+
+key:
+  character: key
+  fullname: Key
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 vivian:
   character: vivian
@@ -20,7 +64,61 @@ vivian:
   text-color: '#222'
   acc-1: '#000'
   acc-2: '#000'
-  secret: false
+
+anise:
+  character: anise
+  fullname: Anise
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
+
+phoebe:
+  character: phoebe
+  fullname: Phoebe
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
+
+ip3-k:
+  character: ip3-k
+  fullname: IP3-K
+  setting: Zeitgeist
+  bg-1: '#000'
+  bg-2: '#232323'
+  bg-3: '#1a1a1a'
+  text-color: '#eee'
+  acc-1: '#ff8'
+  acc-2: '#0f9'
+
+avie:
+  character: avie
+  fullname: Avie Birdsong
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
+
+honey:
+  character: honey
+  fullname: "\"honey\""
+  setting: Zeitgeist
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 nobody:
   character: nobody
@@ -32,16 +130,14 @@ nobody:
   text-color: '#232323'
   acc-1: '#88f'
   acc-2: '#aef'
-  secret: false
 
 birdie:
   character: birdie
   fullname: birdie
   setting: Untitled Setting.
-  bg-1: '#fff'
+  bg-1: '#ffe'
   bg-2: '#e7e7e7'
   bg-3: '#aaf'
   text-color: '#232323'
   acc-1: '#34f'
   acc-2: '#00a'
-  secret: true

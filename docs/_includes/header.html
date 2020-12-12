@@ -5,12 +5,19 @@
     <div id="top-nav">
         <ul>
             {% for charrie in characters %}
-                <li style="background: {{ charrie.bg-2 }};
-                        border-color: {{ charrie.acc-1 }};
-                        color: {{ charrie.text-color }}"
-                    class="collapsible-hover">
-                    <div>{{ charrie.fullname | upcase }}</div>
-                </li>
+                {% unless charrie.hide %}
+                    {% if charrie.bg-1=="#fff" %}
+                        {% assign displayname="tba" %}
+                    {% else %}
+                        {% assign displayname=charrie.fullname %}
+                    {% endif %}
+                    <li style="background: {{ charrie.bg-2 }};
+                            border-color: {{ charrie.acc-1 }};
+                            color: {{ charrie.text-color }}"
+                        class="collapsible-hover">
+                        <div>{{ displayname | upcase }}</div>
+                    </li>
+                {% endunless %}
             {% endfor %}
         </ul>
     </div>
