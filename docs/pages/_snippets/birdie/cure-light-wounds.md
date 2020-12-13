@@ -3,6 +3,8 @@ layout: characters/birdie
 title: Cure Light Wounds
 character: birdie
 prof-font: "'Jim Nightshade', serif"
+prof-font-size-big: 23pt
+prof-font-size-smol: 18pt
 ordinal: 1
 ---
 {% include collapsible.html title="cover page" content="
