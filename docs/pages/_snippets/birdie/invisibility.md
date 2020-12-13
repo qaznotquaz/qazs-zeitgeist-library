@@ -4,6 +4,8 @@ title: Invisibility
 character: birdie
 prof-font: "'Alex Brush', cursive"
 ordinal: 2
+prof-font-size-big: 24pt
+prof-font-size-smol: 18pt
 ---
 {% include collapsible.html title="cover page" content="
 # the university
@@ -14,7 +16,7 @@ ordinal: 2
 - *birdie*
 - *LKME 1013*
 - *professor mayakovski*<span class='note'>*</span>
-- <s>last night</s> <span class='note'>I appreciate the candor, but please use more conventional notation in the future.</span>
+- <span><s>last night</s> <span class='note'>I appreciate the candor, but please use more conventional notation in the future.</span></span>
 " %}
 
 {% include collapsible.html title="intro" content="

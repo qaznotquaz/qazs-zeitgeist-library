@@ -1,9 +1,9 @@
 ---
 layout: characters/birdie
-title: Boneshatter (placeholder)
+title: Chill Touch (placeholder)
 character: birdie
-prof-font: "'Times New Roman', Times, serif"
-ordinal: 4
+prof-font: "Reenie Beanie, sans-serif"
+ordinal: 5
 ---
 {% include collapsible.html title="-" content="
 <span class='note'>unwritten

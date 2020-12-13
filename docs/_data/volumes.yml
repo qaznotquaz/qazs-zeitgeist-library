@@ -1,0 +1,18 @@
+concentration:
+  name: Concentration
+  characters:
+    - birdie
+  entries:
+    - cure-light-wounds.md
+    - invisibility.md
+    - liquefy.md
+    - boneshatter.md
+    - chill-touch.md
+
+journalism:
+  name: Journalism
+  characters:
+    - vivian
+  entries:
+    - interview.md
+    - fountain-pen.md

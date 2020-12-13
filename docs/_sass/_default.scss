@@ -147,11 +147,7 @@ body {
   }
 
   &:hover ul {
-    gap: 24px;
-
     li {
-      border-top-width: 4px;
-
       a {
         display: block;
       }
@@ -167,7 +163,6 @@ body {
     align-items: center;
     width: 100%;
     gap: 0;
-    transition: gap 0.2s ease-in-out;
 
     li {
       @include swatch;

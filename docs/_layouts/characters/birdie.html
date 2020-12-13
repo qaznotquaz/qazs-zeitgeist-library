@@ -4,5 +4,8 @@ layout: snippet
 {{ content }}
 <style>
 .note {font-family: {{ page.prof-font }};}
+button .note {font-size: {{ page.prof-font-size-big | default: "initial" }};}
+p .note {font-size: {{ page.prof-font-size-smol | default: "initial" }};}
+li .note {font-size: {{ page.prof-font-size-smol | default: "initial" }};}
 </style>
 <div class="sliding-background"></div>
