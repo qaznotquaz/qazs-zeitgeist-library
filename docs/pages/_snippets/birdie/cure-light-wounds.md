@@ -85,3 +85,11 @@ shake well before serving.
 
 <span class='underline note'>Grade: 83</span>
 " %}
+
+{% include collapsible.html title="<span class='reread'>my reread notes</span>" content="
+<span class='reread'>wow, this is from FOREVER ago... it's been so long since i brewed my first potion. i love how epans couldn't find a single thing to actually dock me on besides 'professionalism'. what a joke. i've never seen a *wizard* who acts professional, much less an *alchemist*.
+
+<span class='reread'>i think he just hated me like everyone else in the university does. not that i liked him all that much either.
+
+<span class='reread'>hm. wonder where this came from anyways, it wasn't in my bag last night.
+" %}
