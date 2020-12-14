@@ -1,10 +1,10 @@
 ---
 layout: characters/birdie
-title: Chill Touch (placeholder)
+title: Mad Genius (placeholder)
 character: birdie
 prof-font: "Reenie Beanie, sans-serif"
 published: false
-ordinal: 5
+ordinal: 6
 ---
 {% include collapsible.html title="-" content="
 <span class='note'>unwritten

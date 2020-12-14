@@ -1,11 +1,11 @@
 ---
 layout: characters/birdie
-title: Chill Touch (placeholder)
+title: You Do Not Know Me. (placeholder)
 character: birdie
 prof-font: "Reenie Beanie, sans-serif"
 published: false
-ordinal: 5
+ordinal: 7
 ---
 {% include collapsible.html title="-" content="
-<span class='note'>unwritten
+<span class='note'>
 " %}
