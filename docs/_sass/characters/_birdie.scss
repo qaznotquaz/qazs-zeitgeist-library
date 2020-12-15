@@ -11,6 +11,7 @@ $text-size-2: 25pt;
 $section-bg: rgba($bg-2, 0.3);
 
 $title-color: $acc-1;
+$prof-red: #d00;
 
 .sliding-background {
   background: url('images/cloud2.jpg') repeat-x;
@@ -52,19 +53,18 @@ $title-color: $acc-1;
   }
 
   s {
-    text-decoration: line-through red;
+    text-decoration: line-through $prof-red;
   }
 
   .underline {
-    text-decoration: underline red;
+    text-decoration: underline $prof-red;
   }
 
   .note {
-    color: red;
+    color: $prof-red;
   }
 
   .reread {
-    color: #34f;
     font-family: Nothing You Could Do, sans-serif;
     font-size: 15pt;
   }
