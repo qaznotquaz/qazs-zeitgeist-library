@@ -133,7 +133,7 @@ we each did two trials on an **eight-pound block of lead**. once *without* drain
 
 - first trial
 
-preparation and imbibing of this extract both went fairly normally. the lead melted into a puddle without changing temperature, as expected. i paced around the room slowly, focusing on my channel. at the 40-second mark, i felt my indicators begin melting. i waited another five seconds before ceasing. i picked my coin-puddles up from the floor and <s>took a moment to clear my head.</s> <span class="note">You passed out.</span>
+preparation and imbibing of this extract both went fairly normally. the lead melted into a puddle without changing temperature, as expected. i paced around the room slowly, focusing on my channel. at the 40-second mark, i felt my indicators begin melting. i waited another five seconds before ceasing. i picked my coin-puddles up from the floor and <s>took a moment to clear my head.</s> <span class='note'>You passed out.</span>
 
 ---
 
