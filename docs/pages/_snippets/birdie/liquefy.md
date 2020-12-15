@@ -20,7 +20,7 @@ ordinal: 3
 " %}
 
 {% include collapsible.html title="intro" content="
-have you ever wanted to drink a pig? no? me neither!
+have you ever wanted to drink an eight-pound block of lead? no? me neither!
 
 uh. here we go.
 " %}
@@ -32,7 +32,7 @@ uh. here we go.
 \- at least two (2) gallons (7.57 liters) purest water *(how long can you hold your breath?)*  
 \- reasonable lung capacity  
 \- three (3) rat stomachs *(you need two and you'll mess up one)*  
-\- a small item with sentimental value that you're unwilling to part with *(not something fragile or weak - it will be submerged. unless you make a mistake, you should not have to part with this.)*  
+\- a small item with sentimental value that you're unwilling to part with *(not something fragile or weak - it will be submerged.)*  
 \- ten (10) grams mercury  
 \- 0.5 tsp lady lawless' transmuting tincture *(would usually prefer the powder but we can't use that here)*
 
@@ -43,7 +43,7 @@ uh. here we go.
 
 ***equipment:***  
 \- i won't tell you which specific bottles and methods of yours to use but you will need a few special items  
-\- a few small items you *are* willing to part with that don't melt at low temperatures *(i use copper coins. the exact item is irrelevant, though - these are not used in preparation directly)*  
+\- a few small items you *explicitly don't care for* that don't naturally melt at low temperatures *(i use copper coins. the exact item is irrelevant, though - these are indicators, not ingredients)*  
 \- a damp environment. if you're in a dry area, you will have to actively humidify your tools with pure water  
 \- a rag *(make sure it can fit over the mouth of your target bottle)*  
 \- an extra target bottle *(you know you're gonna break one)*  
@@ -65,7 +65,7 @@ take a deep breath and hold it - as though you might drown. do not exhale until 
 wrap up your **sentimental item** with the **rag** and place this into your *target bottle*.
 
 *step 3:*  
-begin channeling a small amount of **neutral energy** and an even smaller amount of **negative** through the **purest water** according to the *ceaseless hunger* pattern and slowly fill the **bottle** with it. continue pouring, even if overflowing, until you feel like you're about to pass out.  
+begin channeling a small amount of **neutral energy** and an even smaller amount of **negative energy** through the **purest water** according to the *ceaseless hunger* pattern and slowly fill the **bottle** with it. continue pouring, even if overflowing, until you feel like you're about to pass out.  
 ***DO NOT POUR TOO FAST.*** *if you run out of water, you will have to empty the bottle, squeeze out the rag, get more water, and restart from step one.*
 
 *step 4:*  
@@ -93,34 +93,62 @@ with caution, empty the contents of **two rat stomachs** into the same container
 while swirling, add the **transmuting tincture**.
 
 *step 10:*  
-still swirling, hold the **mercury** and **disposable items** in your hand over the container. let the mercury flow in as it melts and, as it does, channel **four parts neutral energy** and **one part negative energy** through it according to *the nameless dis-completion pattern*. you can stop channeling and discard the disposable items after all the mercury has flowed into the container.  
+still swirling, hold the **mercury** and **disposable items** in your hand over the container. let the mercury flow in as it melts and, as it does, channel **four parts neutral energy** and **one part negative energy** through it according to *the nameless dis-completion pattern*. you can stop channeling after all the mercury has flowed into the container, but hold on to those disposable items you used - we'll be watching them later.  
 *pay attention to your other items while you do this - if they begin melting, you're channeling too much negative energy. similarly, if they aren't melting, you're not channeling enough negative energy. i still don't get where the sweet spot is supposed to be.*
 
 ---
 
-- **part 3:** bottle.
+- **part 3:** bottle
 
 *step 11:*  
 empty the **target bottle**, which should've still been full of **purest water** until now, and fill it with the **acid melange**.
 
 *step 13:*  
-
+slowly fill the remaining space in the bottle with **aqua vitae** while swirling. as soon as the color shifts, cork the bottle.
 
 ---
+
+kept moist, this extract should last the whole day an extract should last before becoming inert and *beginning to dissolve its bottle*. don't forget to discard this one if you don't use it!
 
 " %}
 
 {% include collapsible.html title="serving instructions" content="
-[content unwritten]
+you have a few options for preparing to drink this extract. what you *could* do is just chug it down, but you're likely to retch while channeling which - i shouldn't need to tell you - would be disastrous. so, this is where we want that **overwhelming flavor**. produce a **whole pepper** along with the extract and chew on it until it's filled your mouth. swallow that, then chug the extract down while channeling **neutral energy** according to *the nameless dis-completion pattern*. identify your target and unseal the **drowning jar**. unless you're draining your target into the jar, you don't need to worry too much about handling it carefully at this point.
+
+if you *are* draining your target into the jar, then make sure to point the mouth of it *directly* at the target, even if that means the jar turns upside-down! the hunger should do the rest of the work - just make sure to right the bottle before ceasing channeling.
+
+either way, you'll want to produce your disposable items and hold on to them for the duration of the spell. if at any point they begin to melt, you need to stop channeling ***immediately***. you'd be next.
+
+---
+
+enjoy!
 "%}
 
 {% include collapsible.html title="experiment notes" content="
-[content unwritten]
+- description
+
+we each did two trials on an **eight-pound block of lead**. once *without* draining it into a jar, and once *with*. most students had to resort to boro beads to complete both tests in a reasonable timeframe. i refused to. they didn't let me go til last. probably a good call, in retrospect.
+
+---
+
+- first trial
+
+preparation and imbibing of this extract both went fairly normally. the lead melted into a puddle without changing temperature, as expected. i paced around the room slowly, focusing on my channel. at the 40-second mark, i felt my indicators begin melting. i waited another five seconds before ceasing. i picked my coin-puddles up from the floor and <s>took a moment to clear my head.</s> <span class="note">You passed out.</span>
+
+---
+
+- second trial
+
+personally, i think the second trial went swimmingly. my classmates wouldn't tell you as such. preparation went just fine, but my throat tried to scream while i was imbibing the extract. i held the channel together, but i couldn't speak until after class. the lead melted, again, as expected. the jar swallowed it up instantly, as expected. i didn't cease my channel as expected, though.
+
+i held it out and continued pacing. at the 30-second mark, the class fell silent. at the 36-second mark, i surveyed my classmates and grinned. at the 40-second mark, i drank the jar of lead.
+
+honestly? the taste wasn't particularly interesting.
+
 "%}
 
 {% include collapsible.html title="<span class='note'>Professor's Notes</span>" content="
 <span class='note'>[content unwritten]
-
 
 <span class='underline note'>Grade:
 " %}

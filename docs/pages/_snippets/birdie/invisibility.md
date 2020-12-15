@@ -83,7 +83,7 @@ add the mint extract and fill any remaining space with more alcohol.
 
 ---
 
-corked and left out of direct line of sight, this should last indefinitely. it will never taste good.
+corked and left out of direct line of sight, this should last the full day an extract should last before becoming inert. it will never taste good.
 " %}
 
 {% include collapsible.html title="serving instructions" content="
