@@ -1,6 +1,6 @@
 ---
 layout: characters/birdie
-title: Liquefy (draft)
+title: Liquefy
 character: birdie
 prof-font: "'Rock Salt', sans serif"
 prof-font-size-big: 12pt
@@ -29,7 +29,7 @@ uh. here we go.
 ***ingredients:***  
 \- one (1) liter **🜉** *(aqua vitae)*  
 \- 0.5 liters pitcher-plant juice or similar *(if you use something else, make sure to proportion it based on strength)*  
-\- at least two (2) gallons (7.57 liters) purest water *(how long can you hold your breath?)*  
+\- at least <span class='underline'>five (5) gallons (ca. 19 liters)</span> purest water *(how long can you hold your breath?)* <s class='note'>-3 Points: Excessive use of University Resources</s> <span class='note'>anyone with normal lung capacity only needs a fifth of the water you estimated.</span>  
 \- <span class='underline'>reasonable lung capacity</span> <span class='note'>I would say so! -3 Points. Will discuss in detail.</span>  
 \- three (3) rat stomachs *(you need two and you'll mess up one)*  
 \- a small item with sentimental value that you're unwilling to part with *(not something fragile or weak - it will be submerged.)*  
@@ -102,7 +102,7 @@ still swirling, hold the **mercury** and **disposable items** in your hand over 
 *step 11:*  
 empty the **target bottle**, which should've still been full of **purest water** until now, and fill it with the **acid melange**.
 
-*step 13:*  
+*step 12:*  
 slowly fill the remaining space in the bottle with **aqua vitae** while swirling. as soon as the color shifts, cork the bottle.
 
 ---
