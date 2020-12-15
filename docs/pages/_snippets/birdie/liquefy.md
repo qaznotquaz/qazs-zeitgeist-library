@@ -113,11 +113,11 @@ kept moist, this extract should last the whole day an extract should last before
 " %}
 
 {% include collapsible.html title="serving instructions" content="
-you have a few options for preparing to drink this extract. what you *could* do is just chug it down, but you're likely to retch while channeling which - i shouldn't need to tell you - would be disastrous. so, this is where we want that **overwhelming flavor**. produce a **whole pepper** along with the extract and chew on it until it's filled your mouth. swallow that, then chug the extract down while channeling **neutral energy** according to *the nameless dis-completion pattern*. identify your target and unseal the **drowning jar**. unless you're draining your target into the jar, you don't need to worry too much about handling it carefully at this point.
+you have a few options for preparing to drink this extract. what you *could* do is just chug it down, but you're likely to retch while channeling which - i shouldn't need to tell you - would be disastrous. so, this is where we want that **overwhelming flavor**. produce a **whole pepper** along with the extract and chew on it until the pain has filled your mouth. swallow that, then chug the extract down while channeling **neutral energy** according to *the nameless dis-completion pattern*. since you're an alchemist, you'll have to stay in contact with your target as you unseal the **drowning jar** and begin the spell. unless you're draining your target into the jar, you don't need to worry too much about handling either particularly carefully at this point.
 
-if you *are* draining your target into the jar, then make sure to point the mouth of it *directly* at the target, even if that means the jar turns upside-down! the hunger should do the rest of the work - just make sure to right the bottle before ceasing channeling.
+if you *are* draining your target into the jar, then make sure to *hold* the object, and point the mouth of the jar *directly at* the target *(even if that means the jar turns upside-down!)*. the hunger should do the rest of the work - just make sure to right the bottle before ceasing channeling.
 
-either way, you'll want to produce your disposable items and hold on to them for the duration of the spell. if at any point they begin to melt, you need to stop channeling ***immediately***. you'd be next.
+either way, you'll want to produce your disposable items once you have a free hand and hold on to them for the duration of the spell. if at any point they begin to melt, you need to stop channeling ***immediately***. you'll be next.
 
 ---
 
@@ -125,25 +125,27 @@ enjoy!
 "%}
 
 {% include collapsible.html title="experiment notes" content="
-- description
+- *description*
 
 we each did two trials on an **eight-pound block of lead**. once *without* draining it into a jar, and once *with*. most students had to resort to boro beads to complete both tests in a reasonable timeframe. i refused to. they didn't let me go til last. probably a good call, in retrospect.
 
 ---
 
-- first trial
+- *first trial*
 
-preparation and imbibing of this extract both went fairly normally. the lead melted into a puddle without changing temperature, as expected. i paced around the room slowly, focusing on my channel. at the 40-second mark, i felt my indicators begin melting. i waited another five seconds before ceasing. i picked my coin-puddles up from the floor and <s>took a moment to clear my head.</s> <span class='note'>You passed out.</span>
+preparation and imbibing of this extract both went fairly normally. the lead melted into a puddle in my hand but stayed cold, as expected. i paced around the room slowly, focusing on my channel. at the 40-second mark, i felt my indicators begin melting. i waited another five seconds before ceasing. i picked my coin-puddles up from the floor and <s>took a moment to clear my head.</s> <span class='note'>You passed out.</span>
 
 ---
 
-- second trial
+- *second trial*
 
-personally, i think the second trial went swimmingly. my classmates wouldn't tell you as such. preparation went just fine, but my throat tried to scream while i was imbibing the extract. i held the channel together, but i couldn't speak until after class. the lead melted, again, as expected. the jar swallowed it up instantly, as expected. i didn't cease my channel as expected, though.
+personally, i think the second trial went swimmingly. my classmates wouldn't tell you as such. preparation went just fine, but my throat tried to scream while i was imbibing the extract. i held the channel together, but my voice was shot. the lead melted, again, as expected. the jar swallowed it up instantly, as expected. i didn't cease my channel as expected, though.
 
-i held it out and continued pacing. at the 30-second mark, the class fell silent. at the 36-second mark, i surveyed my classmates and grinned. at the 40-second mark, i drank the jar of lead.
+i held it out and continued pacing. at the 30-second mark, the class fell silent. at the 36-second mark, i surveyed my classmates and grinned. at the 40-second mark, i brought the jar of lead to my lips, slowly drinking it down.
 
-honestly? the taste wasn't particularly interesting.
+woke up in my bed at the infirmary.
+
+and, honestly? the taste wasn't particularly interesting.
 
 "%}
 
