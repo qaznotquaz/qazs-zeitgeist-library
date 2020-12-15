@@ -20,7 +20,7 @@ ordinal: 3
 " %}
 
 {% include collapsible.html title="intro" content="
-have you ever wanted to drink an eight-pound block of lead? no? <s>me neither!</s> <span class='note'>-2: Blatant falsehood.</span>
+have you ever wanted to drink an eight-pound block of lead? no? <s>me neither!</s> <span class='note'>-2 Points: Blatant falsehood.</span>
 
 uh. here we go.
 " %}
@@ -30,19 +30,18 @@ uh. here we go.
 \- one (1) liter **🜉** *(aqua vitae)*  
 \- 0.5 liters pitcher-plant juice or similar *(if you use something else, make sure to proportion it based on strength)*  
 \- at least two (2) gallons (7.57 liters) purest water *(how long can you hold your breath?)*  
-\- <span class='underline'>reasonable lung capacity</span> <span class='note'>I would say so! -3 points. Will discuss in detail.</span>  
+\- <span class='underline'>reasonable lung capacity</span> <span class='note'>I would say so! -3 Points. Will discuss in detail.</span>  
 \- three (3) rat stomachs *(you need two and you'll mess up one)*  
 \- a small item with sentimental value that you're unwilling to part with *(not something fragile or weak - it will be submerged.)*  
 \- ten (10) grams mercury  
-\- 0.5 tsp lady lawless' transmuting tincture *(would usually prefer the powder but we can't use that here)*
+\- 0.5 tsp lady lawless' transmuting tincture *(would usually prefer the powder, but we can't use that here)*
 
 ***a note about flavor***  
 \- you will not want to ingest this. because we need to keep it as pure as we do, there is no room for even vanilla extract. my recommendation is to keep something overwhelming like *dried seaweed*, or a *whole pepper*, on your person. this **will not** be going into the extract.
 
 ---
 
-***equipment:***  
-\- i won't tell you which specific bottles and methods of yours to use but you will need a few special items  
+***equipment: (i won't tell you which specific bottles and methods of yours to use but you will need a few special things)***  
 \- a few small items you *explicitly don't care for* that don't naturally melt at low temperatures *(i use copper coins. the exact item is irrelevant, though - these are indicators, not ingredients)*  
 \- a damp environment. if you're in a dry area, you will have to actively humidify your tools with pure water  
 \- a rag *(make sure it can fit over the mouth of your target bottle)*  
@@ -136,7 +135,7 @@ we each did two trials on an **eight-pound block of lead**. once *without* drain
 preparation and imbibing of this extract both went fairly normally. the lead melted into a puddle in my hand but stayed cold, as expected. i paced around the room slowly, focusing on my channel.  
 at the *40-second mark*, i felt my indicators begin softening.  
 at the *50-second mark*, i realized my indicators were leaking from my hand.  
-at the *<span class='underline'>55-second</span>* mark, i ceased and collected my coin-puddles up from the floor.  
+at the *<span class='underline'>55-second</span>* *mark*, i ceased and collected my coin-puddles up from the floor.  
 <span class='note'>Impressive channel duration.</span>
 
 after that, i <s>took a moment to clear my head.</s> <span class='note'>-3 points: Failure to document loss of consciousness. (And, -5: Loss of consciousness)</span>
@@ -163,7 +162,7 @@ and, honestly? the taste wasn't particularly interesting.
 
 <span class='note'>The average student had to hold their breath for about a minute - or, at most, two. You, on the other hand, spent seven minutes and thirty-four seconds doing this on your first extract, and eight minutes flat on your second. Not only did you distract the class with the visual spectacle of it, you also went through our entire on-hand storage of purest water. We made sure you were supplied with enough to complete your preparations, of course, but only so that the students could complete theirs.
 
-<span class='note'>More importantly, you failed to discuss this anomaly in your paper at any point. This failure is what you're being marked off for here.
+<span class='note'>More importantly, however, you failed to discuss this anomaly in your paper at any point. This failure is what you're being marked off for here.
 
 <span class='note'>-2: Minor formatting errors.  
 <span class='note'>-2: Blatant falsehood.  
@@ -176,7 +175,7 @@ and, honestly? the taste wasn't particularly interesting.
 
 <ul><li class='note' style='font-size: 11pt'>Lab</li></ul>
 
-<span class='note'>We had to scrape up your hand for reincorporation, and none of the infirmary staff enjoyed having to figure out how to remove an 8-lb block of lead from your intestines. Your vocal cords were only cured because of the sheer amount of positive energy they spent retrieving that lead.
+<span class='note'>We had to scrape up drops of your hand from the floor for reincorporation, and none of the infirmary staff enjoyed having to figure out how to remove an 8-lb block of lead from your intestines. Your vocal cords were only cured because of the sheer amount of positive energy they spent retrieving that lead.
 
 <span class='note'>Regarding your comment about the flavor of the lead... A liquefied object is not meant to be ingested. In the case that it is, the drinker is encouraged to cough up the liquid before it runs through the system for too long. Leaving it in tends to cause... disastrous side effects.
 
@@ -190,13 +189,17 @@ and, honestly? the taste wasn't particularly interesting.
 " %}
 
 {% include collapsible.html title="<span class='reread'>my reread notes</span>" content="
-<span class='reread'>i'm concerned about this. just like the last one, i don't remember learning this spell. i don't even have enough Authority to cast this spell normally right now, let alone enough to channel it for a whole minute. invisibility is draining enough, and that only has *one* channel in its preparation!  
+<span class='reread'>i'm concerned about this. just like the last one, i don't remember learning this spell. i don't even have enough Authority to cast this spell normally right now, let alone enough to channel it for a whole minute. invisibility is draining enough, and that only has *one* channel in its preparation!
+
 ...i don't think the university only took my memories. i don't know how, but they must have taken my Authority when i left too.
 
-<span class='reread'>y'know what else is chilling about this? i did this earlier today. i used my ***mad genius*** and this is the spell that resulted. or at least, i think so.  
-it was horrific. it was more than it should be, even considering the fact that i'm pushing myself a step higher than i should.
+<span class='reread'>y'know what else is chilling about this? i did this earlier today. i used my ***mad genius*** and this is the spell that resulted. or at least, i think so. it was horrific. it was more than it should be, even considering the fact that i'm pushing myself a step higher than i should.
 
-<span class='reread'>i melted a person. she was evil and deserved to die, i think, but that does not change the fact that i melted her *entire body*. i drank the extract, walked up to her, and grabbed her face. and melted her. not, like, ten pounds of her or whatever -
+<span class='reread'>i melted a person.
+
+<span class='reread'>she was evil and deserved to die, i think, but that does not change the fact that i *liquefied her entire body*. i drank the extract, walked up to her, and grabbed her face.
+<span class='reread'>and melted her.
+<span class='reread'>not, like, ten pounds of her or whatever -  
 
 <span class='reread'>*all of her*.
 
