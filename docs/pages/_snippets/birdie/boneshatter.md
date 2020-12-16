@@ -5,7 +5,6 @@ character: birdie
 prof-font: "'Times New Roman', Times, serif"
 prof-font-size-big: 17pt
 prof-font-size-smol: 13pt
-published: false
 ordinal: 4
 ---
 {% include collapsible.html title="cover page" content="
