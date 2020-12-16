@@ -5,70 +5,7 @@
   {%- include sidebar.html -%}
   {%- include content-section.html -%}
 </body>
-<script>
-  const coll = document.getElementsByClassName("section-button");
-  let i;
-
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      const content = this.nextElementSibling;
-      if (content.style.maxHeight){
-        content.style.transition = "max-height 0.2s ease, padding 0.2s ease";
-        content.style.padding = null;
-        content.style.maxHeight = null;
-      } else {
-        content.style.transition = "max-height 0.2s ease, padding 0s";
-        setTimeout(() => { content.style.padding = "18px 18px 0"; }, 1);
-        setTimeout(() => { content.style.maxHeight = content.scrollHeight + "px"; }, 2);
-      }
-    });
-  }
-</script>
-
-<script>
-  function collapseHover() {
-    const e = this
-    // get the width of the element's inner content, regardless of its actual size
-    const width = e.scrollWidth;
-
-    // temporarily disable all css transitions
-    const elementTransition = e.style.transition;
-    e.style.transition = '';
-
-    // on the next frame (as soon as the previous style change has taken effect),
-    // explicitly set the element's width to its current pixel width, so we
-    // aren't transitioning out of 'auto'
-    requestAnimationFrame(function() {
-      e.style.width = width + 'px';
-      e.style.transition = elementTransition;
-      e.style.overflow = null;
-
-      // on the next frame (as soon as the previous style change has taken effect),
-      // have the element transition to height: 0
-      requestAnimationFrame(function() {
-        e.style.width = null;
-      });
-    });
-  }
-
-  function expandHover() {
-    const e = this;
-
-    // get the width of the element's inner content, regardless of its actual size
-    const width = e.scrollWidth;
-
-    // have the element transition to the width of its inner content
-    e.style.width = width + 10 + 'px';
-
-    requestAnimationFrame(function () {
-      e.style.overflow = "hidden";
-    });
-  }
-
-  for (const element of document.getElementsByClassName('collapsible-hover')){
-    element.addEventListener('mouseenter', expandHover);
-    element.addEventListener('mouseleave', collapseHover);
-  }
-</script>
+<script src="/qazs-zeitgeist-library/assets/scripts/section-collapse-script.js"></script>
+<script src="/qazs-zeitgeist-library/assets/scripts/hover-toggle-script.js"></script>
+<script src="/qazs-zeitgeist-library/assets/scripts/censor-script.js"></script>
 </html>
