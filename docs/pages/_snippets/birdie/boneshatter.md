@@ -82,7 +82,7 @@ using the **sharpened bone** and your <span class='underline'>weak nerd arms</sp
 ***step 2:***  
 pour out the coconut water but hold onto it - we'll be using that in the next part.
 
-***step 3:*  
+***step 3:***  
 find the 'equator' of the **coconut** and, using the **skull**, bash it as violently as you can. gradually roll the coconut along this equator as you do this.
 
 ***step 4:***  
@@ -190,7 +190,7 @@ enjoy!
 {% include collapsible.html title="experiment notes" content="
 - *preface*  
 
-i made dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped. after resting, i made two more dozen that came out very cleanly - and, of course, one dozen cookies allows me four trials of casting this extract!
+i made dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped. after resting, i made two more dozen that came out very cleanly - and, of course, two dozen cookies allows me four trials of casting this extract!
 
 - *description*  
 
