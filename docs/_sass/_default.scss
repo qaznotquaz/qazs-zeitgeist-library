@@ -259,6 +259,11 @@ body {
     color: rgba(0, 0, 0, 0);
     text-decoration: black line-through;
   }
+
+  .scramble {
+    display: inline-block;
+    font-size: 13pt;
+  }
 }
 
 @if variable-exists(background-image) {
