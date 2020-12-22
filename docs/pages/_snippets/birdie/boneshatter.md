@@ -5,6 +5,7 @@ character: birdie
 prof-font: "'Times New Roman', Times, serif"
 prof-font-size-big: 17pt
 prof-font-size-smol: 13pt
+published: false
 ordinal: 4
 ---
 {% include collapsible.html title="cover page" content="
@@ -159,7 +160,8 @@ take a deep breath.
 
 - **part 3:** baking!
 
-[whip the eg]
+***step 22:***  
+we're going to take a few moments first here to sort out the rest of our ingredients.
 
 [mix tallow, oil, sugar, and eggs]
 
