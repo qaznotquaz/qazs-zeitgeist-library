@@ -33,7 +33,7 @@ uh. here we go.
 \- <span class='underline'>reasonable lung capacity</span> <span class='note'>I would say so! -3 Points. Will discuss in detail.</span>  
 \- three (3) rat stomachs *(you need two and you'll mess up one)*  
 \- a small item with sentimental value that you're unwilling to part with *(not something fragile or weak - it will be submerged.)*  
-\- ten (10) grams mercury  
+\- ten (10) grams mercury *(frozen solid until needed)*  
 \- 0.5 tsp lady lawless' transmuting tincture *(would usually prefer the powder, but we can't use that here)*
 
 ***a note about flavor***  
@@ -92,7 +92,7 @@ with caution, empty the contents of **two rat stomachs** into the same container
 while swirling, add the **transmuting tincture**.
 
 *step 10:*  
-still swirling, hold the **mercury** and **disposable items** in your hand over the container. let the mercury flow in as it melts and, as it does, channel **four parts neutral energy** and **one part negative energy** through it according to *the nameless dis-completion pattern*. you can stop channeling after all the mercury has flowed into the container, but hold on to those disposable items you used - we'll be watching them later.  
+still swirling, hold the **mercury** and **disposable items** in your hand over the container. *(don't worry about the frostburn, you'll be fine)*. let the mercury flow in as it melts and, as it does, channel **four parts neutral energy** and **one part negative energy** through it according to *the nameless dis-completion pattern*. you can stop channeling after all the mercury has flowed into the container, but hold on to those disposable items you used - we'll be watching them later.  
 *pay attention to your other items while you do this - if they begin melting, you're channeling too much negative energy. similarly, if they aren't melting, you're not channeling enough negative energy. <span class='underline'>i still don't get where the sweet spot is supposed to be.</span>* <span class='note'>Just when they are beginning to soften in your hand.</span>
 
 ---
