@@ -5,7 +5,7 @@ character: birdie
 prof-font: "'Times New Roman', Times, serif"
 prof-font-size-big: 17pt
 prof-font-size-smol: 13pt
-published: false
+published: true
 ordinal: 4
 ---
 {% include collapsible.html title="cover page" content="
@@ -112,7 +112,7 @@ channel a rushing font of **positive energy** into the **skull** according to a 
 ***step 11:***  
 as the **bones** beneath your hand fracture and eventually disintegrate, make sure your hand stays in contact with the pile, even if *(or, especially if)* that means placing your hand directly against the **burning coconut**.
 
-*listen closely to the sounds*
+*listen closely to the sounds~*
 
 ***step 12:***  
 the **bone pile** should reduce to powder fairly quickly, so be ready to channel any **excess positive energy** over to the **chalk**. once the chalk starts to dissolve, quickly move your hand from the fire and place it on the **egg**.
@@ -122,7 +122,7 @@ the **bone pile** should reduce to powder fairly quickly, so be ready to channel
 ***step 13:***  
 just like the last step, be ready to channel **excess positive energy** into the **egg** once the **chalk** fully dissolves. as soon as the egg cracks, cease channeling (lest ye be next). be attentive!
 
-*what a satisfying* **crunch**
+*what a satisfying* **crunch.**
 
 ***step 14:***  
 put out the fire *(if it hasn't already put itself out)*, set aside **bonemeal**, and discard **eggshell** *(if you want, you can add it to the chalk but again - we already have way more than we need here)*.
@@ -161,17 +161,29 @@ take a deep breath.
 - **part 3:** baking!
 
 ***step 22:***  
-we're going to take a few moments first here to sort out the rest of our ingredients.
+we're going to take a few moments first here to sort out the rest of our ingredients. take the **dry mixture** you've just obtained and, with a sifter *(or whatever your preferred method of separating powders is),* separate the **coconut flour** from the **slaked lime**. set these aside.
 
-[mix tallow, oil, sugar, and eggs]
+***step 23:***  
+wet ingredients! mix **tallow** and **sugar** together until smooth. once they are, beat in **coconut oil** and **cassowary egg** *(the whites and yolk, not the shell - got that backwards one time. don't do that, they don't come out well),* also until smooth. if you want, try a taste! no really, do go on.
 
-[separately, mix flour, bonemeal, slaked lime, beeswing, salt]
+smile.
 
-[mix wet and dry]
+***step 24:***  
+dry ingredients! mix **coconut flour**, **bonemeal**, **slaked lime**, **beeswing**, and **salt** together thoroughly. make sure you measure the proportions right, this is why we made them separate in the first place! you can get a little more aggressive here - powders are a lot less cooperative with being evenly mixed.
 
-[roll into balls, coat with flakes, put on slab]
+***step 25:***  
+gradually add the **dry** ingredients to the **wet**, incorporating everything together neatly. when you're done, you should have a decently smooth, bone-white **dough**. *(you have GOT to try a taste of the dough here - it's delicious, and this is the last chance you'll have to do so safely)*
 
-[channel + to bake]
+***step 26:***  
+get out your **coconut flakes** and your **mineral slab**. divide the **dough** into six little balls, roll each of them in the **flakes** to coat them, and arrange them on the **slab**.
+
+***step 27:***  
+time for the third *(and final)* preparation channel. you've been enjoying this so far, right? i sure hope so! you're going to be channeling an **unrestricted amount of positive energy** into the **slab** according to another modified pattern. it's based on *gorkchuk's basic kiln*, but we're replacing all of its safety measures with the main motifs from *[gnome name?]'s instant*.
+
+obviously, things are going to get a little hot. *bask* in the *gentle wave of heat* as it washes over you, but maintain the channel into the **slab**. smile *giddily* and laugh - think of the *thrill*, the *rush*. your hands might *burn*, wouldn't that be ***nice?*** if your sleeves are touching the slab, *they may already be on fire*. exciting!
+
+***step 28:***  
+as soon as you realize you may have burnt the **cookies**, stop channeling and put out any residual fires. the **cookies** will have come out *just right!*
 
 ---
 
@@ -200,11 +212,31 @@ i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , and therr
 
 ---
 
-- *first trial*
+- *my first trial*
 
 ---
 
-- *second trial*
+- *my second trial*
+
+---
+
+- *my third trial*
+
+---
+
+- *my fourth trial*
+
+---
+
+- *first accidental trial*
+
+---
+
+- *second accidental trial*
+
+---
+
+- *third accidental trial*
 
 "%}
 
