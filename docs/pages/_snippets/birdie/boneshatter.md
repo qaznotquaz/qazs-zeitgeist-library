@@ -218,7 +218,7 @@ i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , and therr
 
 ---
 
-#intended trials
+# intended trials
 
 - *first trial*
 
@@ -240,7 +240,7 @@ someone shouted 'shit, help!', i think, and the nurse came straight back in.
 
 while i was recovering after the first trial, by the way, my friends all began to eat some of their reward cookies a little early. they quite enjoyed the taste! they continued eating them and each happened to finish their cookies about the same time as my second trial.
 
-#accidental trials
+# accidental trials
 
 - *trial alpha*
 
