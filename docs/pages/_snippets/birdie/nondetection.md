@@ -9,7 +9,7 @@ ordinal: 4
 {% include collapsible.html title="hidden on my person" content="
 # if you do not remember this or cannot decode it, you have been found by the university.
 
-if you don't remember this, ask your friends about it. this was originally in my pocket.
+if you don't remember this, ask your friends about it. this was originally in my pocket. contained within is everything i remember right now about the location of the university and my time there.
 
 ---
 

@@ -17,7 +17,7 @@ ordinal: 5
 - *birdie*  
 - *LKME 5215*  
 - *professor van hohenheim* 
-- nilsday, october 32nd, 1544-a.s.
+- nilsday, spectres 32nd, 1544-a.s.
 " %}
 
 {% include collapsible.html title="intro" content="
@@ -178,7 +178,7 @@ gradually add the **dry** ingredients to the **wet**, incorporating everything t
 get out your **coconut flakes** and your **mineral slab**. divide the **dough** into six little balls, roll each of them in the **flakes** to coat them, and arrange them on the **slab**.
 
 ***step 27:***  
-time for the third *(and final)* preparation channel. you've been enjoying this so far, right? i sure hope so! you're going to be channeling an **unrestricted amount of positive energy** into the **slab** according to another modified pattern. it's based on *gorkchuk's basic kiln*, but we're replacing all of its safety measures with the main motifs from *[gnome name?]'s instant*.
+time for the third *(and final)* preparation channel. you've been enjoying this so far, right? i sure hope so! you're going to be channeling an **unrestricted amount of positive energy** into the **slab** according to another modified pattern. it's based on *gorkchuk's basic kiln*, but we're replacing all of its safety measures with the main motifs from *snaps's instant*.
 
 obviously, things are going to get a little hot. *bask* in the *gentle wave of heat* as it washes over you, but maintain the channel into the **slab**. smile *giddily* and laugh - think of the *thrill*, the *rush*. your hands might *burn*, wouldn't that be ***nice?*** if your sleeves are touching the slab, *they may already be on fire*. exciting!
 
@@ -194,7 +194,11 @@ enjoy :)
 " %}
 
 {% include collapsible.html title="serving instructions" content="
-[content unwritten]
+the first thing to remember about this is that eating cookies is always meant to be an enjoyable experience. these are no exception, despite what you may figure from their magical properties! when you eat them, make sure *not to get into a rhythm* or anything. maybe eat a few all at once and then the others with a few seconds between, or perhaps just shove them all in your face and try to swallow it without choking? however you do it, have fun! *revel* in the crunch they make in your mouth, the mess of crumbs scattering aimlessly, the chalky white powder staining your clothes. you'll be using *wolfram's tectonic fury* again, with an **unrestricted amount of positive energy**. don't worry about the source or the target, they'll sort themselves out. make other modifications if you would enjoy doing so.
+
+make sure to get through the entire batch! normally, you would want to stop channeling *before* hurting yourself, but here? stop whenever the hell you want. it'll hurt no matter what, but why come all this way only to skimp on the most important step? go all out! have some fun, scare some people with your screams, show them the *bone fragments* sticking out of your skin! laugh in *revelrous bliss*, cry in *cathartic horror*, *let it all out*. have a grand old time.
+
+if you're infusing, this step will still leave you sore despite the fact that your bones are fine.
 
 ---
 
@@ -204,39 +208,55 @@ enjoy!
 {% include collapsible.html title="experiment notes" content="
 - *preface*  
 
-i made dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped. after resting, i made two more dozen that came out very cleanly - and, of course, two dozen cookies allows me four trials of casting this extract!
+i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped. after resting, i made two more dozen that came out very cleanly - and, of course, two dozen cookies allows me four trials of casting this extract!
+
+i infused one dozen, out of an interest in noting the differences in infused and non-infused casting of this spell. my results were not as i expected, but they *were* enlightening.
 
 - *description*  
 
-i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , and therry) to my bed in the infirmary to spectate and spot me. *(they were each given a dozen non-magical coconut cookies for their troubles. or, at least, that was what was meant to happen)*
+i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , and therry) to my bed in the infirmary to spectate and spot me. *(they were each given a dozen non-magical coconut cookies for their troubles. or, at least... that was what was meant to happen)*
 
 ---
 
-- *my first trial*
+#intended trials
+
+- *first trial*
+
+the first trial went nominally. it was a control - imbibing and channeling normally. i heard cracks developing underneath my skin after the first few bites, and i began to feel them expanding as i started in on the second cookie. my arms were a bit difficult to use once the bones began to properly fragment, but i managed to get the rest of the cookies into my mouth before crumpling into a heap. the pain has left the remaining memories in somewhat of a haze, but i remember it fondly. i only stopped channeling when i passed out.
+
+attached are some sketches therry did while i recovered. they tried to piece together every bone fragment they could find - notice how nothing quite fits together like it should? the bones didn't break like bones normally break. they broke because they *grew* unevenly. just like you can shatter metal by deforming it unevenly, so too can we shatter bones with *healing magic*.
 
 ---
 
-- *my second trial*
+- *second trial*
+
+i woke up maybe an hour or so later? after and enduring the pain of re-assembly, i barely waited for the nurse to leave before shoving the entire second batch into my mouth. now, here's the important thing about this - *it went badly*. this is the trial where everybody realized something had gone wrong all at once. i began to channel just the same as i did for the last batch, but... well. this wasn't an extract. unbounded positive energy flowed directly through me with no guidance, and i won't deny - it was elating! my bones felt fine, though, and i began to develop dry cracks in my skin and absolutely an *killer* headache, among other expected symptoms of raw channeling.
+
+someone shouted 'shit, help!', i think, and the nurse came straight back in. 
 
 ---
 
-- *my third trial*
+- *note*
+
+while i was recovering after the first trial, by the way, my friends all began to eat some of their reward cookies a little early. they quite enjoyed the taste! they continued eating them and each happened to finish their cookies about the same time as my second trial.
+
+#accidental trials
+
+- *trial alpha*
+
+[jakes had an infusion]
 
 ---
 
-- *my fourth trial*
+- *trial beta*
+
+[therry had an inert extract]
 
 ---
 
-- *first accidental trial*
+- *trial gamma*
 
----
-
-- *second accidental trial*
-
----
-
-- *third accidental trial*
+[??? had a hell of a time]
 
 "%}
 
