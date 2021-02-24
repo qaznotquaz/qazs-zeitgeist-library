@@ -2,6 +2,7 @@
 layout: characters/nobody
 title: Falling Asleep
 character: nobody
+ordinal: 2
 ---
 {% include collapsible.html title="Dear Diary," content="
 *falling asleep.*
