@@ -5,7 +5,7 @@ character: birdie
 prof-font: "'Times New Roman', Times, serif"
 prof-font-size-big: 17pt
 prof-font-size-smol: 13pt
-published: true
+published: false
 ordinal: 5
 ---
 {% include collapsible.html title="cover page" content="
@@ -230,7 +230,7 @@ attached are some sketches therry did while i recovered. they tried to piece tog
 
 - *second trial*
 
-i woke up maybe an hour or so later? after and enduring the pain of re-assembly, i barely waited for the nurse to leave before shoving the entire second batch into my mouth. now, here's the important thing about this - *it went badly*. this is the trial where everybody realized something had gone wrong all at once. i began to channel just the same as i did for the last batch, but... well. this wasn't an extract. unbounded positive energy flowed directly through me with no guidance, and i won't deny - it was elating! my bones felt fine, though, and i began to develop dry cracks in my skin and absolutely an *killer* headache, among other expected symptoms of raw channeling.
+i woke up maybe an hour or so later? after and enduring the pain of re-assembly, i barely waited for the nurse to leave before shoving the entire second batch into my mouth. now, here's the important thing about this - *it went badly*. this is the trial where everybody realized something had gone wrong all at once. i began to channel just the same as i did for the last batch, but... well. this wasn't an extract. unbounded positive energy flowed directly through me with no guidance, and i won't deny - it was elating! my bones felt fine, though, and i began to develop dry cracks in my skin and an absolutely *killer* headache, among other expected symptoms of raw channeling.
 
 someone shouted 'shit, help!', i think, and the nurse came straight back in. 
 
