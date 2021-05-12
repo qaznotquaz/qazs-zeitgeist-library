@@ -252,11 +252,11 @@ jakes was the next to pop. really, much the same as i did in my control trial! m
 
 therry didn't show any outward effects, but they apparently experienced a distinctly uncomfortable sensation. i'd wager they ate an entire extract but, of course, never cast it. below i've copied what they said about it when i interviewed them more the next day:
 
-"You're an asshole, first of all! You're a moron, why did you even let that mixup happen? It's some wonder that <span class='scramble'>FRENDD</span> is still okay after all that, not to mention- ah right, the question.
+\"You're an asshole, first of all! You're a moron, why did you even let that mixup happen? It's some wonder that <span class='scramble'>FRENDD</span> is still okay after all that, not to mention- ah right, the question.
 
 For a good several seconds, I just thought it was nausea - I've never been queasy around gore before, but I've also never watched... and *heard*... someone break all their bones at once before. Then I thought it was a panic attack. I wish it was a panic attack. It's like someone was wrenching their hand through my soul. It was this... painless, disgusting sensation that was expecting to be filled. It stayed there, twisting and turning, for like ten minutes or something. I retched twice, or at least I thought I did - apparently I looked just fine to you lot.
 
-Somehow, I didn't even notice it leave."
+Somehow, I didn't even notice it leave.\"
 
 ---
 
