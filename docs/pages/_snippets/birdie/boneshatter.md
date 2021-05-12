@@ -214,7 +214,7 @@ i infused one dozen, out of an interest in noting the differences in infused and
 
 - *description*  
 
-i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry and) to my bed in the infirmary to spectate and spot me. *(i made four dozen batches of  non-magical coconut cookies - one for each of them - for their troubles. or, at least... that was what was meant to happen)*
+i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry and   ) to my bed in the infirmary to spectate and spot me. *(i made four dozen batches of  non-magical coconut cookies - one for each of them - for their troubles. or, at least... that was what was meant to happen)*
 
 ---
 
@@ -262,9 +262,13 @@ Somehow, I didn't even notice it leave.\"
 
 - *trial gamma*
 
-[??? had a hell of a time]
+<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='scramble'>it?</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and   . instead, i think <span class='scramble'>he?</span> dispelled <span class='scramble'>its?</span> bones? it's not really clear, but <span class='scramble'>she?</span> certainly did end up in a loose pile on the floor. <span class='scramble'>he?</span> hadn't yet realized <span class='scramble'>she?</span> had already eaten a full extract, methinks, and the extract redireced that spell in all the wrong ways. obviously, <span class='scramble'>they?</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='scramble'>xir?</span> soul haven't been so simple. <span class='scramble'>he?</span> has managed to set <span class='scramble'>her?</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='scramble'>her?</span> bones are also the *only* thing that <span class='scramble'>it?</span> can direct <span class='scramble'>his?</span> spells towards. today should mark the tenth day since, with no apparent changes.
+
+i don't think i'll be doing any experiments with therry's help again for... quite some time.
 
 ---
+
+<span id='headache'></span>
 <br>
 <br>
 <br>
@@ -276,6 +280,11 @@ Somehow, I didn't even notice it leave.\"
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 ---
 
 "%}
