@@ -5,7 +5,7 @@ character: birdie
 prof-font: "'Times New Roman', Times, serif"
 prof-font-size-big: 17pt
 prof-font-size-smol: 13pt
-published: false
+published: true
 ordinal: 5
 ---
 {% include collapsible.html title="cover page" content="
@@ -238,19 +238,25 @@ someone shouted 'shit, help!', i think, and the nurse came straight back in.
 
 - *note*
 
-while i was recovering after the first trial, by the way, my friends all began to eat some of their reward cookies a little early. they quite enjoyed the taste! they continued eating them and each happened to finish their cookies about the same time as my second trial.
+while i was recovering after the first trial, by the way, my friends all began to eat some of their reward cookies a little early. they quite enjoyed the taste! they continued eating them and each happened to finish their cookies about the same time as my second trial. for what it's worth, it was certainly an experience to remember!
 
 # accidental trials
 
 - *trial alpha*
 
-[jakes had an infusion]
+jakes was the next to pop. really, much the same as i did in my control trial! must've gotten an infusion. he recalls similarly little of it, but he also has the highest pain tolerance of all of us so i really think he got the long end of the stick here, what with the 'joy' part of the juice. er, cookie. extract- you know what i mean. i think i secreted an entire femur's worth of his bone fragments into my bag amongst the chaos.
 
 ---
 
 - *trial beta*
 
-[therry had an inert extract]
+therry didn't show any outward effects, but they apparently experienced a distinctly uncomfortable sensation. i'd wager they ate an entire extract but, of course, never cast it. below i've copied what they said about it when i interviewed them more the next day:
+
+"You're an asshole, first of all! You're a moron, why did you even let that mixup happen? It's some wonder that <span class='scramble'>FRENDD</span> is still okay after all that, not to mention- ah right, the question.
+
+For a good several seconds, I just thought it was nausea - I've never been queasy around gore before, but I've also never watched... and *heard*... someone break all their bones at once before. Then I thought it was a panic attack. I wish it was a panic attack. It's like someone was wrenching their hand through my soul. It was this... painless, disgusting sensation that was expecting to be filled. It stayed there, twisting and turning, for like ten minutes or something. I retched twice, or at least I thought I did - apparently I looked just fine to you lot.
+
+Somehow, I didn't even notice it leave."
 
 ---
 
@@ -277,6 +283,5 @@ while i was recovering after the first trial, by the way, my friends all began t
 " %}
 
 {% include collapsible.html title="<span class='reread'>my reread notes</span>" content="
-<span class='reread'>[content unwritten]
-
+<span class='reread'>an experience to remember, huh? yeah, for sure, definitely... good grief, that's aggravating. this whole thing. this is *insane*, by the way. fucking boneshatter. i already know that i used to be able to make much more powerful extracts, and that i can extract spells that are atypical for alchemists, but this is just wacky! what am i even supposed to do with this, anyways? guess i'll use it as soon as i can manage to prepare it safely
 " %}
