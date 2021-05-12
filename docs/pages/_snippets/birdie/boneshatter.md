@@ -208,13 +208,13 @@ enjoy!
 {% include collapsible.html title="experiment notes" content="
 - *preface*  
 
-i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped. after resting, i made two more dozen that came out very cleanly - and, of course, two dozen cookies allows me four trials of casting this extract!
+i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped. after resting, i made two-and-a-half more dozen that came out very cleanly - and, of course, that many cookies allows me five trials of casting this extract!
 
 i infused one dozen, out of an interest in noting the differences in infused and non-infused casting of this spell. my results were not as i expected, but they *were* enlightening.
 
 - *description*  
 
-i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , and therry) to my bed in the infirmary to spectate and spot me. *(they were each given a dozen non-magical coconut cookies for their troubles. or, at least... that was what was meant to happen)*
+i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry and) to my bed in the infirmary to spectate and spot me. *(i made four dozen batches of  non-magical coconut cookies - one for each of them - for their troubles. or, at least... that was what was meant to happen)*
 
 ---
 
@@ -263,6 +263,20 @@ Somehow, I didn't even notice it leave.\"
 - *trial gamma*
 
 [??? had a hell of a time]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+---
 
 "%}
 
