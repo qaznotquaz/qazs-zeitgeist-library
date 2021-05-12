@@ -252,17 +252,17 @@ jakes was the next to pop. really, much the same as i did in my control trial! m
 
 therry didn't show any outward effects, but they apparently experienced a distinctly uncomfortable sensation. i'd wager they ate an entire extract but, of course, never cast it. below i've copied what they said about it when i interviewed them more the next day:
 
-\"You're an asshole, first of all! You're a moron, why did you even let that mixup happen? It's some wonder that <span class='scramble'>FRENDD</span> is still okay after all that, not to mention- ah right, the question.
+\"*You're an asshole, first of all! You're a moron, why did you even let that mixup happen? It's some wonder that <span class='scramble'>FRENDD</span> is still okay after all that, not to mention- ah right, the question.*
 
-For a good several seconds, I just thought it was nausea - I've never been queasy around gore before, but I've also never watched... and *heard*... someone break all their bones at once before. Then I thought it was a panic attack. I wish it was a panic attack. It's like someone was wrenching their hand through my soul. It was this... painless, disgusting sensation that was expecting to be filled. It stayed there, twisting and turning, for like ten minutes or something. I retched twice, or at least I thought I did - apparently I looked just fine to you lot.
+*For a good several seconds, I just thought it was nausea - I've never been queasy around gore before, but I've also never watched... and heard... someone break all their bones at once before. Then I thought it was a panic attack. I wish it was a panic attack. It's like someone was wrenching their hand through my soul. It was this... painless, disgusting sensation that was expecting to be filled. It stayed there, twisting and turning, for like ten minutes or something. I retched twice, or at least I thought I did - apparently I looked just fine to you lot.*
 
-Somehow, I didn't even notice it leave.\"
+*Somehow, I didn't even notice it leave.*\"
 
 ---
 
 - *trial gamma*
 
-<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='scramble'>IIT</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and   . instead, i think <span class='scramble'>HE?</span> dispelled <span class='scramble'>IITS?</span> bones? it's not really clear, but <span class='scramble'>FRENDD</span> certainly did end up in a loose pile on the floor. <span class='scramble'>HE?</span> hadn't yet realized <span class='scramble'>SHE?</span> had already eaten a full extract, methinks, and the extract redireced that spell in all the wrong ways. obviously, <span class='scramble'>THEY?</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='scramble'>XIIR?</span> soul haven't been so simple. <span class='scramble'>HE?</span> has managed to set <span class='scramble'>HIIS?</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='scramble'>HER?</span> bones are also the *only* thing that <span class='scramble'>IIT?</span> can direct <span class='scramble'>HIIS?</span> spells towards. today should mark the tenth day since, with no apparent changes.
+<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='scramble'>IIT</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and   . instead, i think <span class='scramble'>HE</span> dispelled <span class='scramble'>IITS</span> bones? it's not really clear, but <span class='scramble'>FRENDD</span> certainly did end up in a loose pile on the floor. <span class='scramble'>HE</span> hadn't yet realized <span class='scramble'>SHE</span> had already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, <span class='scramble'>THEY</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='scramble'>XIIR</span> soul haven't been so simple. <span class='scramble'>HE?</span> has managed to set <span class='scramble'>HIIS</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='scramble'>HER</span> bones are also the *only* thing that <span class='scramble'>IIT</span> can direct <span class='scramble'>HIIS</span> spells towards. today should mark the tenth day since, with no apparent changes.
 
 i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</span>'s help again for... quite some time.
 
@@ -284,8 +284,6 @@ i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</
 <br>
 <br>
 <br>
-
----
 
 "%}
 
