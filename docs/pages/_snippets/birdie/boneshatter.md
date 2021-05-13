@@ -38,7 +38,7 @@ enjoy :)
 *we'll use these to make some of the following ingredients, which are marked with an arrow*  
 \- one (1) entire coconut *(surprisingly instrumental)*  
 \- 1 human skull *(obviously)*  
-\- 1 cassowary egg *(if you'd like to get  a tougher egg from a magical beast be my guest)*
+\- 1 cassowary egg *(if you'd like to get  a tougher egg from a magical beast be my guest)*  
 \- the last piece of white chalk in your lab teacher's room *(if you can't frustrate someone with loss by stealing their chalk, you'll have to antagonize the cassowary and that takes a lot more effort)*
 
 - **wet**
@@ -262,7 +262,7 @@ therry didn't show any outward effects, but they apparently experienced a distin
 
 - *trial gamma*
 
-<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='headache'>it?</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and <span class='headache'>someone</span>. instead, i think <span class='headache'>he?</span> dispelled <span class='headache'>its?</span> own bones. it's not really clear, but <span class='scramble'>FRENDD</span> certainly did end up in a loose pile on the floor. <span class='headache'>he?</span> hadn't yet realized <span class='headache'>she?</span> had already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, <span class='headache'>they?</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='headache'>xir?</span> soul haven't been so simple. <span class='headache'>he?</span> has managed to set <span class='headache'>his?</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='headache'>her?</span> bones are also the *only* thing that <span class='headache'>it?</span> can direct <span class='headache'>his?</span> spells towards. today should mark the tenth day since, with no apparent changes.
+<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think he was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and <span class='headache'>someone</span>. instead, i think he dispelled his own bones. it's not really clear, but he certainly did end up in a loose pile on the floor. he hadn't yet realized he'd already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, he made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on his soul haven't been so simple. since, he has managed to set his bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, his bones are also the *only* thing that he can direct spells towards. today should mark the tenth day since, with no apparent changes.
 
 i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</span>'s help again for... quite some time.
 
