@@ -259,6 +259,11 @@ body {
     color: rgba(0, 0, 0, 0);
     text-decoration: black line-through;
   }
+  
+  .headache, .blank {
+    display: inline;
+    color: rgba(0, 0, 0, 0);
+  }
 
   .scramble {
     display: inline-block;
