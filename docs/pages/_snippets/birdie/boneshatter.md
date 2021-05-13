@@ -222,7 +222,7 @@ i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry an
 
 - *first trial*
 
-the first trial went nominally. it was a control - imbibing and channeling normally. i heard cracks developing underneath my skin after the first few bites, and i began to feel them expanding as i started in on the second cookie. my arms were a bit difficult to use once the bones began to properly fragment, but i managed to get the rest of the cookies into my mouth before crumpling into a heap. the pain has left the remaining memories in somewhat of a haze, but i remember it fondly. i only stopped channeling when i passed out.
+the first trial went nominally. it was a control - imbibing- er, consuming and channeling normally. i heard cracks developing underneath my skin after the first few bites, and i began to feel them expanding as i started in on the second cookie. my arms were a bit difficult to use once the bones began to properly fragment, but i managed to get the rest of the cookies into my mouth before crumpling into a heap. the pain has left the remaining memories in somewhat of a haze, but i remember it fondly. i only stopped channeling when i passed out.
 
 attached are some sketches therry did while i recovered. they tried to piece together every bone fragment they could find - notice how nothing quite fits together like it should? the bones didn't break like bones normally break. they broke because they *grew* unevenly. just like you can shatter metal by deforming it unevenly, so too can we shatter bones with *healing magic*.
 
@@ -230,7 +230,7 @@ attached are some sketches therry did while i recovered. they tried to piece tog
 
 - *second trial*
 
-i woke up maybe an hour or so later? after and enduring the pain of re-assembly, i barely waited for the nurse to leave before shoving the entire second batch into my mouth. now, here's the important thing about this - *it went badly*. this is the trial where everybody realized something had gone wrong all at once. i began to channel just the same as i did for the last batch, but... well. this wasn't an extract. unbounded positive energy flowed directly through me with no guidance, and i won't deny - it was elating! my bones felt fine, though, and i began to develop dry cracks in my skin and an absolutely *killer* headache, among other expected symptoms of raw channeling.
+i woke up maybe an hour or so later. after enduring the pain of re-assembly, i barely waited for the nurse to leave before shoving the entire second batch into my mouth. now, here's the important thing about this - *it went badly*. this is the trial where everybody realized something had gone wrong all at once. i began to channel just the same as i did for the last batch, but... well. this wasn't an extract. unbounded positive energy flowed directly through me with no guidance, and i won't deny - it was elating! my bones felt fine, though, and i began to develop dry cracks in my skin and an absolutely *killer* headache, among other expected symptoms of raw channeling.
 
 someone shouted 'shit, help!', i think, and the nurse came straight back in. 
 
@@ -262,13 +262,13 @@ therry didn't show any outward effects, but they apparently experienced a distin
 
 - *trial gamma*
 
-<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='scramble'>IIT</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and   . instead, i think <span class='scramble'>HE</span> dispelled <span class='scramble'>IITS</span> bones? it's not really clear, but <span class='scramble'>FRENDD</span> certainly did end up in a loose pile on the floor. <span class='scramble'>HE</span> hadn't yet realized <span class='scramble'>SHE</span> had already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, <span class='scramble'>THEY</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='scramble'>XIIR</span> soul haven't been so simple. <span class='scramble'>HE?</span> has managed to set <span class='scramble'>HIIS</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='scramble'>HER</span> bones are also the *only* thing that <span class='scramble'>IIT</span> can direct <span class='scramble'>HIIS</span> spells towards. today should mark the tenth day since, with no apparent changes.
+<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='headache'>it?</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and   . instead, i think <span class='headache'>he?</span> dispelled <span class='headache'>its?</span> bones? it's not really clear, but <span class='scramble'>FRENDD</span> certainly did end up in a loose pile on the floor. <span class='headache'>he?</span> hadn't yet realized <span class='headache'>she?</span> had already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, <span class='headache'>they?</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='headache'>xir?</span> soul haven't been so simple. <span class='headache'>he?</span> has managed to set <span class='headache'>his?</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='headache'>her?</span> bones are also the *only* thing that <span class='headache'>it?</span> can direct <span class='headache'>his?</span> spells towards. today should mark the tenth day since, with no apparent changes.
 
 i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</span>'s help again for... quite some time.
 
 ---
 
-<span id='headache'></span>
+<span id='headache'>you're not sure why, but you've got a killer headache.</span>
 <br>
 <br>
 <br>
