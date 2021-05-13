@@ -2,7 +2,7 @@
 layout: characters/birdie
 title: nondetection (intermission)
 character: birdie
-published: true
+published: false
 ordinal: 4
 ---
 
