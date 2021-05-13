@@ -214,7 +214,7 @@ i infused one dozen, out of an interest in noting the differences in infused and
 
 - *description*  
 
-i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry and   ) to my bed in the infirmary to spectate and spot me. *(i made four dozen batches of  non-magical coconut cookies - one for each of them - for their troubles. or, at least... that was what was meant to happen)*
+i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry and <span class='headache'>someone</span>) to my bed in the infirmary to spectate and spot me. *(i made four dozen batches of  non-magical coconut cookies - one for each of them - for their troubles. or, at least... that was what was meant to happen)*
 
 ---
 
@@ -262,13 +262,13 @@ therry didn't show any outward effects, but they apparently experienced a distin
 
 - *trial gamma*
 
-<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='headache'>it?</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and   . instead, i think <span class='headache'>he?</span> dispelled <span class='headache'>its?</span> bones? it's not really clear, but <span class='scramble'>FRENDD</span> certainly did end up in a loose pile on the floor. <span class='headache'>he?</span> hadn't yet realized <span class='headache'>she?</span> had already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, <span class='headache'>they?</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='headache'>xir?</span> soul haven't been so simple. <span class='headache'>he?</span> has managed to set <span class='headache'>his?</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='headache'>her?</span> bones are also the *only* thing that <span class='headache'>it?</span> can direct <span class='headache'>his?</span> spells towards. today should mark the tenth day since, with no apparent changes.
+<span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think <span class='headache'>it?</span> was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and <span class='headache'>someone</span>. instead, i think <span class='headache'>he?</span> dispelled <span class='headache'>its?</span> own bones. it's not really clear, but <span class='scramble'>FRENDD</span> certainly did end up in a loose pile on the floor. <span class='headache'>he?</span> hadn't yet realized <span class='headache'>she?</span> had already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, <span class='headache'>they?</span> made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on <span class='headache'>xir?</span> soul haven't been so simple. <span class='headache'>he?</span> has managed to set <span class='headache'>his?</span> bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, <span class='headache'>her?</span> bones are also the *only* thing that <span class='headache'>it?</span> can direct <span class='headache'>his?</span> spells towards. today should mark the tenth day since, with no apparent changes.
 
 i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</span>'s help again for... quite some time.
 
 ---
 
-<span id='headache'>you're not sure why, but you've got a killer headache.</span>
+<span class='headache'>you're not sure why, but you've got a killer headache.</span>
 <br>
 <br>
 <br>
