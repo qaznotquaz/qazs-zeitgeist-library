@@ -39,7 +39,7 @@ enjoy :)
 \- one (1) entire coconut *(surprisingly instrumental)*  
 \- 1 human skull *(obviously)*  
 \- 1 cassowary egg *(if you'd like to get  a tougher egg from a magical beast be my guest)*  
-\- the last piece of white chalk in your lab teacher's room *(if you can't frustrate someone with loss by stealing their chalk, you'll have to antagonize the cassowary and that takes a lot more effort)*
+\- the last piece of white chalk in your lab teacher's room *(if you can't frustrate someone with loss by stealing their chalk, you'll have to antagonize the cassowary and that takes a lot more effort)* <span class='note'>I was wondering where that went.</span>  
 
 - **wet**
 
@@ -54,7 +54,9 @@ enjoy :)
 ^ ca. 15 cm³ (1/8th cup) bonemeal  
 ^ 1/8th tsp slaked lime *(also leavening)*  
 \- 1/4th tsp beeswing *(leavening)*  
-\- dash of death's dust *(why do we have a fun name for this? it's literally just table salt)*  
+\- dash of death's dust *(why do we have a fun name for this? it's literally just table salt)* <span class='note'>It is called Death's Dust because death lurks within it, waiting to be torn free of its bonds.</span>  
+  
+- <span class='note'>Volumetric measurements like these are impractical in the field. Consider revising with weight measurements instead.</span>
 
 ---
 
