@@ -167,6 +167,10 @@ $prof-red: #d00;
 
   .note {
     color: $prof-red;
+    
+    i, em, b, strong {
+      color: $prof-red;
+    }
   }
 
   .reread {
