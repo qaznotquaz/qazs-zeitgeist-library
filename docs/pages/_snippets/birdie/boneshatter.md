@@ -156,7 +156,8 @@ gather that whole **mixture** together into your **rag** and hold it over a cont
 ***step 19:***  
 you'll be channeling **five parts positive energy** and **one part neutral energy** past the rag and into the **mixture** according to a pattern that is most similar to *lucy's purifying flame*. sorry, lucy, but i have to modify this one a lot.
 
-all of your angles must be even sharper, which also means there will have to be more turns. hopefully, you will recognize some motifs in the resulting pattern from the *gemini bifurcation*, if you're familiar with that one. if you're not, just... make sure it's symmetrical, ok. *(if you are familiar but don't see what motifs you're supposed to recognize, you're certainly doing it wrong!)*
+all of your angles must be even sharper, which also means there will have to be more turns. hopefully, you will recognize some motifs in the resulting pattern from the *gemini bifurcation*, if you're familiar with that one. if you're not, just... make sure it's symmetrical, ok. *(if you are familiar but don't see what motifs you're supposed to recognize, you're certainly doing it wrong!)*  
+<span class='note'>It would have probably been easier for you to design a channel from scratch to do this, but I'm glad you appreciate the classics.</span>
 
 ***step 20:***  
 don't rush this channeling. enjoy the warmth, and gradually squeeze the liquid out - you should end up with pure **coconut oil** draining into the container below. enjoy the smell, too!
@@ -182,7 +183,8 @@ smile.
 dry ingredients! mix **coconut flour**, **bonemeal**, **slaked lime**, **beeswing**, and **salt** together thoroughly. make sure you measure the proportions right, this is why we made them separate in the first place! you can get a little more aggressive here - powders are a lot less cooperative with being evenly mixed.
 
 ***step 25:***  
-gradually add the **dry** ingredients to the **wet**, incorporating everything together neatly. when you're done, you should have a decently smooth, bone-white **dough**. *(you have GOT to try a taste of the dough here - it's delicious, and this is the last chance you'll have to do so safely)*
+gradually add the **dry** ingredients to the **wet**, incorporating everything together neatly. when you're done, you should have a decently smooth, bone-white **dough**. *(you have GOT to try a taste of the dough here - it's delicious, and this is the last chance you'll have to do so safely)*  
+<span class='note'>I'm certain the dough would be delicious, to someone with any affinity for coconut. Alas, I am not such a someone.</span>
 
 ***step 26:***  
 get out your **coconut flakes** and your **mineral slab**. divide the **dough** into six little balls, roll each of them in the **flakes** to coat them, and arrange them on the **slab**.
