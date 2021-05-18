@@ -210,7 +210,9 @@ the first thing to remember about this is that eating cookies is always meant to
 
 make sure to get through the entire batch! normally, you would want to stop channeling *before* hurting yourself, but here? stop whenever the hell you want. it'll hurt no matter what, but why come all this way only to skimp on the most important step? go all out! have some fun, scare some people with your screams, show them the *bone fragments* sticking out of your skin! laugh in *revelrous bliss*, cry in *cathartic horror*, *let it all out*. have a grand old time.
 
-if you're infusing, this step will still leave you sore despite the fact that your bones are fine.
+if you're infusing, this step will still leave you sore despite the fact that your bones are fine.  
+  
+<span class='note'>As a note, do *not* attempt to cast this while under any form of pain reducing effect. Passing out from the pain and releasing all of that positive energy is the only reason the caster is able to survive this extract.</span>
 
 ---
 
@@ -220,11 +222,13 @@ enjoy!
 {% include collapsible.html title="experiment notes" content="
 - *preface*  
 
-i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped. after resting, i made two-and-a-half more dozen that came out very cleanly - and, of course, that many cookies allows me five trials of casting this extract!
+i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped<span class='note'>**</span>. after resting, i made two-and-a-half more dozen that came out very cleanly - and, of course, that many cookies allows me five trials of casting this extract!
 
 i infused one dozen, out of an interest in noting the differences in infused and non-infused casting of this spell. my results were not as i expected, but they *were* enlightening.
+  
+<span class='note'>** I assume you are referring to the batch you made with the shell of the cassowary egg instead of the yolk and white. I am curious about how that would have turned out.</span>
 
-- *description*  
+- *description*
 
 i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry and <span class='headache'>someone</span>) to my bed in the infirmary to spectate and spot me. *(i made four dozen batches of  non-magical coconut cookies - one for each of them - for their troubles. or, at least... that was what was meant to happen)*
 
