@@ -104,7 +104,8 @@ if there's any **coconut meat** remaining on the **shell**, *gently* pry it off 
 
 ***step 7:***  
 once you have all of your **coconut meat** separated out, continue using the **bone knife** and shred it into fairly small flakes. don't be too cautious here, *it's absolutely fine to bleed on these*. set aside the **coconut flakes** once you're done shredding them, we won't need them til the next part.  
-<span class='note'>After experimentation, I have determined that it is mandatory for the Alchemist to bleed in this step. The wound primes the coconut flakes, allowing the Blood aspect to persist, even through the purifying channel of Steps 19-20. This aspect appears to provide a portion of the target for the casting, enabling the spell to affect living biological material. -5 points, failure to properly document a requirement.</span>
+<span class='note'>After experimentation, I have determined that it is mandatory for the Alchemist to bleed in this step. The wound primes the coconut flakes, allowing the Blood aspect to persist, even through the purifying channel of Steps 19-20. This aspect appears to provide a portion of the target for the casting, enabling the spell to affect living biological material.  
+-5 points, failure to properly document a requirement.</span>
 
 ***step 8:***  
 clear your work area! you'll need to carefully arrange things for this channel and can't have shit just lying around. prepare a bowl and put the **egg** in it, and set that in front of you. place the **stick of chalk** to one side. and, on the other side, gather your **skull** and **bone tools** neatly on top of your **pile of coconut shell**. 
