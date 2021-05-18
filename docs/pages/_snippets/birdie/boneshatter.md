@@ -56,7 +56,7 @@ enjoy :)
 ^ 1/8th tsp slaked lime *(also leavening)*  
 \- 1/4th tsp beeswing *(leavening)*  
 \- dash of death's dust *(why do we have a fun name for this? it's literally just table salt)*  
-<span class='note'>It is called Death's Dust because death lurks within it, waiting to be torn free of its bonds.</span>  
+<span class='note'>It is called Death’s Dust because death lurks within it, waiting to be torn free of its bonds. Also because some alchemists are pretentious and want their recipes to sound more dangerous than they are.</span>  
   
   
 <span class='note'>Volumetric measurements like these are impractical in the field. Consider revising with weight measurements instead.</span>
@@ -103,13 +103,15 @@ your workspace should be a mess by this point - that's good! find all the **smas
 if there's any **coconut meat** remaining on the **shell**, *gently* pry it off with your **bone knife**. you can relax while you do this and snack on some of the **coconut meat** you've already dislodged! we already have way more than we'll need. *(unless you'd like to make a massive batch - let me know how that goes! i barely have enough energy to make a dozen, so i really haven't been able to test huge batches)*
 
 ***step 7:***  
-once you have all of your **coconut meat** separated out, continue using the **bone knife** and shred it into fairly small flakes. don't be too cautious here, *it's absolutely fine to bleed on these*. set aside the **coconut flakes** once you're done shredding them, we won't need them til the next part.
+once you have all of your **coconut meat** separated out, continue using the **bone knife** and shred it into fairly small flakes. don't be too cautious here, *it's absolutely fine to bleed on these*. set aside the **coconut flakes** once you're done shredding them, we won't need them til the next part.  
+<span class='note'>After experimentation, I have determined that it is mandatory for the Alchemist to bleed in this step. The wound primes the coconut flakes, allowing the Blood aspect to persist, even through the purifying channel of Steps 19-20. This aspect appears to provide a portion of the target for the casting, enabling the spell to affect living biological material. -5 points, failure to properly document a requirement.</span>
 
 ***step 8:***  
 clear your work area! you'll need to carefully arrange things for this channel and can't have shit just lying around. prepare a bowl and put the **egg** in it, and set that in front of you. place the **stick of chalk** to one side. and, on the other side, gather your **skull** and **bone tools** neatly on top of your **pile of coconut shell**. 
 
 ***step 9:***
-set the **coconut shell** beneath the bones alight and quickly place a hand on both the **chalk** and the **skull**.
+set the **coconut shell** beneath the bones alight and quickly place a hand on both the **chalk** and the **skull**.  
+<span class='note'>I assume this is why you included a firestarter in your equipment list, though I would be shocked if any alchemist skilled enough to produce this extract could not light such a fire without resorting to outside help.</span>
 
 ***step 10:***  
 channel a rushing font of **positive energy** into the **skull** according to a variation on *wolfram's tectonic fury* pattern. although we're giving it significantly smaller targets than normal, we don't want to reduce the source accordingly!
@@ -117,17 +119,19 @@ channel a rushing font of **positive energy** into the **skull** according to a 
 ***step 11:***  
 as the **bones** beneath your hand fracture and eventually disintegrate, make sure your hand stays in contact with the pile, even if *(or, especially if)* that means placing your hand directly against the **burning coconut**.
 
-*listen closely to the sounds~*
+*listen closely to the sounds~*<span class='note'>\*</span>
 
 ***step 12:***  
 the **bone pile** should reduce to powder fairly quickly, so be ready to channel any **excess positive energy** over to the **chalk**. once the chalk starts to dissolve, quickly move your hand from the fire and place it on the **egg**.
 
-*isn't the crackling pleasant?*
+*isn't the crackling pleasant?*<span class='note'>\*</span>
  
 ***step 13:***  
 just like the last step, be ready to channel **excess positive energy** into the **egg** once the **chalk** fully dissolves. as soon as the egg cracks, cease channeling (lest ye be next). be attentive!
 
-*what a satisfying* **crunch.**
+*what a satisfying* **crunch.**<span class='note'>\*</span>  
+  
+<span class='note'>* In general, I would not recommend advising alchemists to divide their focus, especially not whilst channeling Wolfram's. As I'm sure you know, losing focus with Wolfram's can have unpleasant side-effects.</span>
 
 ***step 14:***  
 put out the fire *(if it hasn't already put itself out)*, set aside **bonemeal**, and discard **eggshell** *(if you want, you can add it to the chalk but again - we already have way more than we need here)*.
