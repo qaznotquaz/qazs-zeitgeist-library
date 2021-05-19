@@ -272,7 +272,8 @@ while i was recovering after the first trial, by the way, my friends all began t
 
 jakes was the next to pop. really, much the same as i did in my control trial! must've gotten an infusion. he recalls similarly little of it, but he also has the highest pain tolerance of all of us so i really think he got the long end of the stick here, what with the 'joy' part of the juice. er, cookie. extract- you know what i mean. i think i secreted an entire femur's worth of his bone fragments into my bag amongst the chaos.
   
-<span class='note'>-2 points, Critical Physical Injuries to Bystander  
+<span class='note'>-2 points, Critical Physical Injuries to Bystander
+
 <s>-1 point, Unsanctioned requisition of bone matter from living subject.</s> Subject apparently provided consent for this requisition in advance.</span>
 
 ---
@@ -302,11 +303,18 @@ i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</
 
 ---
 
-<span class='headache'>- trial delta
+- <span class='headache'>trial delta</span>
 
--5 points? you're not sure why, but...  
+<span class='headache'>-5 points? you're not sure why, but...  
 +3 points? you've got a killer headache.</span>
-
+  
+  
+  
+  
+  
+  
+  
+  
 
 "%}
 
