@@ -171,6 +171,16 @@ $prof-red: #d00;
     i, em, b, strong {
       color: $prof-red;
     }
+    
+    s {
+      color: $prof-red;
+      text-decoration: line-through $prof-red;
+    }
+    
+    .underline {
+      color: $prof-red;
+      text-decoration: underline $prof-red;
+    }
   }
 
   .reread {
