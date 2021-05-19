@@ -301,7 +301,7 @@ i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</
 
 ---
 
-- <span class='headache'>trial delta</span>
+- <span class='headache'>trial delta?</span>
 
 <span class='headache'>-5 points? you're not sure why, but...</span>
 <br><br><br><br><br><br>
