@@ -264,7 +264,7 @@ someone shouted 'shit, help!', i think, and the nurse came straight back in.
 
 while i was recovering after the first trial, by the way, my friends all began to eat some of their reward cookies a little early. they quite enjoyed the taste! they continued eating them and each happened to finish their cookies about the same time as my second trial. for what it's worth, it was certainly an experience to remember!  
   
-<span class='note'>-??? points. As much as I appreciate your rigorous approach to research, I am required by University policy to remove points for injuring unintended subjects, based on the severity of their injuries.</span>
+<span class='note'>As much as I appreciate your rigorous approach to research, I am required by University policy to remove points for injuring unintended subjects, based on the severity of their injuries.</span>
 
 # accidental trials
 
