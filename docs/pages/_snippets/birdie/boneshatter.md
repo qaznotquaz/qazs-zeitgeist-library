@@ -25,9 +25,11 @@ ordinal: 5
 
 most people have them. but... when's the last time you thought 'wow, i'm really glad my bones are intact!'? when is the last time you thanked your bones for supporting you all the time? probably not recently, unless you'd perhaps broken one. 
 
-i intend to fix that. with this extract, you'll never take your bones for granted again. it's not free, it's not easy, but it pays off well. it's my most ambitious project yet, though. and, since extracts really don't have to be liquid, i've decided to make this much more enjoyable to both prepare and ingest. in fact, i even found myself refactoring it all to use positive energy instead of the typical negative energy!
+i intend to fix that. with this extract, you'll never take your bones for granted again. it's not free, it's not easy, but it pays off well. it's my most ambitious project yet, though. and, since extracts really don't have to be liquid, i've decided to make this much more enjoyable to both prepare and ingest. in fact, i even found myself refactoring it all to use positive energy instead of the typical negative energy!<span class='note'>*</span>
 
 enjoy :)
+
+<span class='note'>+10, going considerably above and beyond assignment requirements</span>
 " %}
 
 {% include collapsible.html title="you will need:" content="
@@ -40,7 +42,8 @@ enjoy :)
 \- 1 human skull *(obviously)*  
 \- 1 cassowary egg *(if you'd like to get  a tougher egg from a magical beast be my guest)*  
 \- the last piece of white chalk in your lab teacher's room *(if you can't frustrate someone with loss by stealing their chalk, you'll have to antagonize the cassowary and that takes a lot more effort)*  
-<span class='note'>I was wondering where that went.</span>  
+<span class='note'>I was wondering where that went.  
++2 points for ingenuity.</span>  
 
 - **wet**
 
@@ -56,7 +59,8 @@ enjoy :)
 ^ 1/8th tsp slaked lime *(also leavening)*  
 \- 1/4th tsp beeswing *(leavening)*  
 \- dash of death's dust *(why do we have a fun name for this? it's literally just table salt)*  
-<span class='note'>It is called Death’s Dust because death lurks within it, waiting to be torn free of its bonds. Also because some alchemists are pretentious and want their recipes to sound more dangerous than they are.</span>  
+<span class='note'>It is called Death’s Dust because death lurks within it, waiting to be torn free of its bonds. Also because some alchemists are pretentious and want their recipes to sound more dangerous than they are.  
++1 point for questioning the facts</span>  
   
   
 <span class='note'>Volumetric measurements like these are impractical in the field. Consider revising with weight measurements instead.</span>
@@ -120,19 +124,19 @@ channel a rushing font of **positive energy** into the **skull** according to a 
 ***step 11:***  
 as the **bones** beneath your hand fracture and eventually disintegrate, make sure your hand stays in contact with the pile, even if *(or, especially if)* that means placing your hand directly against the **burning coconut**.
 
-*listen closely to the sounds~*<span class='note'>\*</span>
+*listen closely to the sounds~*<span class='note'>\**</span>
 
 ***step 12:***  
 the **bone pile** should reduce to powder fairly quickly, so be ready to channel any **excess positive energy** over to the **chalk**. once the chalk starts to dissolve, quickly move your hand from the fire and place it on the **egg**.
 
-*isn't the crackling pleasant?*<span class='note'>\*</span>
+*isn't the crackling pleasant?*<span class='note'>\**</span>
  
 ***step 13:***  
 just like the last step, be ready to channel **excess positive energy** into the **egg** once the **chalk** fully dissolves. as soon as the egg cracks, cease channeling (lest ye be next). be attentive!
 
-*what a satisfying* **crunch.**<span class='note'>\*</span>  
+*what a satisfying* **crunch.**<span class='note'>\**</span>  
   
-<span class='note'>* In general, I would not recommend advising alchemists to divide their focus, especially not whilst channeling Wolfram's. As I'm sure you know, losing focus with Wolfram's can have unpleasant side-effects.</span>
+<span class='note'>** In general, I would not recommend advising alchemists to divide their focus, especially not whilst channeling Wolfram's. As I'm sure you know, losing focus with Wolfram's can have unpleasant side-effects.</span>
 
 ***step 14:***  
 put out the fire *(if it hasn't already put itself out)*, set aside **bonemeal**, and discard **eggshell** *(if you want, you can add it to the chalk but again - we already have way more than we need here)*.
@@ -222,11 +226,11 @@ enjoy!
 {% include collapsible.html title="experiment notes" content="
 - *preface*  
 
-i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped<span class='note'>**</span>. after resting, i made two-and-a-half more dozen that came out very cleanly - and, of course, that many cookies allows me five trials of casting this extract!
+i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped<span class='note'>***</span>. after resting, i made two-and-a-half more dozen that came out very cleanly - and, of course, that many cookies allows me five trials of casting this extract!
 
 i infused one dozen, out of an interest in noting the differences in infused and non-infused casting of this spell. my results were not as i expected, but they *were* enlightening.
   
-<span class='note'>** I assume you are referring to the batch you made with the shell of the cassowary egg instead of the yolk and white. I am curious about how that would have turned out.</span>
+<span class='note'>*** I assume you are referring to the batch you made with the shell of the cassowary egg instead of the yolk and white. I am curious about how that would have turned out.</span>
 
 - *description*
 
@@ -240,7 +244,9 @@ i brought a few friends (jakes, <span class='scramble'>FRENDD</span> , therry an
 
 the first trial went nominally. it was a control - imbibing- er, consuming and channeling normally. i heard cracks developing underneath my skin after the first few bites, and i began to feel them expanding as i started in on the second cookie. my arms were a bit difficult to use once the bones began to properly fragment, but i managed to get the rest of the cookies into my mouth before crumpling into a heap. the pain has left the remaining memories in somewhat of a haze, but i remember it fondly. i only stopped channeling when i passed out.
 
-attached are some sketches therry did while i recovered. they tried to piece together every bone fragment they could find - notice how nothing quite fits together like it should? the bones didn't break like bones normally break. they broke because they *grew* unevenly. just like you can shatter metal by deforming it unevenly, so too can we shatter bones with *healing magic*.
+attached are some sketches therry did while i recovered. they tried to piece together every bone fragment they could find - notice how nothing quite fits together like it should? the bones didn't break like bones normally break. they broke because they *grew* unevenly. just like you can shatter metal by deforming it unevenly, so too can we shatter bones with *healing magic*.  
+  
+<span class='note'>+3 points, the attached sketches were most illuminating.</span>
 
 ---
 
@@ -248,19 +254,26 @@ attached are some sketches therry did while i recovered. they tried to piece tog
 
 i woke up maybe an hour or so later. after enduring the pain of re-assembly, i barely waited for the nurse to leave before shoving the entire second batch into my mouth. now, here's the important thing about this - *it went badly*. this is the trial where everybody realized something had gone wrong all at once. i began to channel just the same as i did for the last batch, but... well. this wasn't an extract. unbounded positive energy flowed directly through me with no guidance, and i won't deny - it was elating! my bones felt fine, though, and i began to develop dry cracks in my skin and an absolutely *killer* headache, among other expected symptoms of raw channeling.
 
-someone shouted 'shit, help!', i think, and the nurse came straight back in. 
+someone shouted 'shit, help!', i think, and the nurse came straight back in.
+  
+<span class='note'>-2 points, failure to properly inspect implements before channeling.</span>
 
 ---
 
 - *note*
 
-while i was recovering after the first trial, by the way, my friends all began to eat some of their reward cookies a little early. they quite enjoyed the taste! they continued eating them and each happened to finish their cookies about the same time as my second trial. for what it's worth, it was certainly an experience to remember!
+while i was recovering after the first trial, by the way, my friends all began to eat some of their reward cookies a little early. they quite enjoyed the taste! they continued eating them and each happened to finish their cookies about the same time as my second trial. for what it's worth, it was certainly an experience to remember!  
+  
+<span class='note'>-??? points. As much as I appreciate your rigorous approach to research, I am required by University policy to remove points for injuring unintended subjects, based on the severity of their injuries.</span>
 
 # accidental trials
 
 - *trial alpha*
 
 jakes was the next to pop. really, much the same as i did in my control trial! must've gotten an infusion. he recalls similarly little of it, but he also has the highest pain tolerance of all of us so i really think he got the long end of the stick here, what with the 'joy' part of the juice. er, cookie. extract- you know what i mean. i think i secreted an entire femur's worth of his bone fragments into my bag amongst the chaos.
+  
+<span class='note'>-2 points, Critical Physical Injuries to Bystander  
+<s>-1 point, Unsanctioned requisition of bone matter from living subject.</s> Subject apparently provided consent for this requisition in advance.</span>
 
 ---
 
@@ -273,6 +286,9 @@ therry didn't show any outward effects, but they apparently experienced a distin
 *For a good several seconds, I just thought it was nausea - I've never been queasy around gore before, but I've also never watched... and heard... someone break all their bones at once before. Then I thought it was a panic attack. I wish it was a panic attack. It's like someone was wrenching their hand through my soul. It was this... painless, disgusting sensation that was expecting to be filled. It stayed there, twisting and turning, for like ten minutes or something. I retched twice, or at least I thought I did - apparently I looked just fine to you lot.*
 
 *Somehow, I didn't even notice it leave.*\"
+  
+<span class='note'>+2 points, the inclusion of the subject interview was very wise of you. Sometimes the best sources of information are the test subjects themselves.  
+-0.5 points, Short-Term spiritual injuries to bystander</span>
 
 ---
 
@@ -280,26 +296,17 @@ therry didn't show any outward effects, but they apparently experienced a distin
 
 <span class='scramble'>FRENDD</span> botched an attempt at fixing the situation. i think he was the one who called for assistance, but not before trying to completely dispel the obvious immediate effects on myself, jakes, and <span class='headache'>someone</span>. instead, i think he dispelled his own bones. it's not really clear, but he certainly did end up in a loose pile on the floor. he hadn't yet realized he'd already eaten a full extract, methinks, and the extract redirected that spell in all the wrong ways. obviously, he made a full physical recovery fairly quickly - didn't even miss class the next day, as you should recall - but, the effects on his soul haven't been so simple. since, he has managed to set his bones on fire, fortify them as though steel, banish them, and even perform augury with them, all without removing any of them. uh, his bones are also the *only* thing that he can direct spells towards. today should mark the tenth day since, with no apparent changes.
 
-i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</span>'s help again for... quite some time.
+i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</span>'s help again for... quite some time.  
+  
+<span class='note'>-3 points, Critical Physical Injuries, and Medium-Term spiritual injuries to bystander.</span>
 
 ---
 
-<span class='headache'>you're not sure why, but you've got a killer headache.</span>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<span class='headache'>- trial delta
+
+-5 points? you're not sure why, but...  
++3 points? you've got a killer headache.</span>
+
 
 "%}
 
