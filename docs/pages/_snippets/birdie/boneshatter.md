@@ -313,17 +313,19 @@ i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</
 {% include collapsible.html title="<span class='note'>Professor's Notes</span>" content="
 <ul><li class='note'>Report</li></ul>
 
-<span class='note'>[content unwritten]
+<span class='note'>I am genuinely impressed by your work here. When I first read the title on this report I was worried that you had found an original formulation of the spell somewhere, and replicated it. I would not have been surprised if you somehow had found a spell pattern for it tucked away in some dusty tome in the Library, despite the fact that it has been banned essentially anywhere that civilization has advanced enough to have laws. Having experienced the effects of both the original and your new formulation, I can conclude that your formulation of the spell achieves similar effect to the original. This alone would have been enough to complete the requirements of the assignment, but you redesigned the entire spell to use Positive Energy, shattering bone with targeted healing. This ludicrous ingenuity is exactly what I have come to expect from your assignments, and I was pleased to see it here, in your final assignment as a student with our University.</span>
 
-<span class='underline note'>Report Grade: 
+<span class='note'>My own opinions aside, I found your report to be extremely well-prepared. As usual, your capitalization is sorely lacking, but I've given up taking points off for it. The instructions you provided for preparing the extract were a breeze to follow (no pun intended). As I mentioned in my notes on your process, I had to make a second attempt at preparing your extract, which meant I had to steal chalk twice. Xvim was not happy. Other than that setback, your instructions were easy to follow, and I found myself enjoying the process, up until it came time to experience my handiwork. That was, as expected, agony. Overall, masterful work.</spawn>
+
+<span class='underline note'>Report Grade: 108
 
 ---
 
 <ul><li class='note'>Lab</li></ul>
 
-<span class='note'>[content unwritten]
+<span class='note'>I appreciate the candor and accuracy you held to in your summary of events, even if they were not the results that were originally intended. Your commitment to the pursuit of knowledge amazes me. A lesser alchemist may not even have documented such failures, but you went above and beyond merely documenting them, capturing as many details as you possibly could, including taking samples of bone matter for later study. While I am required by University policy to discourage you from performing testing on living subjects, I approve of your rigorous approach to understanding even the most severe of failures, despite what I'm sure was substantial physical and emotional trauma. I look forward to working with you on our research, instead of grading your assignments. You have a bright future ahead of you at this University, birdie.</span>
 
-<span class='underline note'>Lab Grade: 
+<span class='underline note'>Lab Grade: 96
 " %}
 
 {% include collapsible.html title="<span class='reread'>my reread notes</span>" content="
