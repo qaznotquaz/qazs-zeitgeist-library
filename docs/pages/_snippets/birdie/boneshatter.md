@@ -17,7 +17,7 @@ ordinal: 5
 - *birdie*  
 - *LKME 5215*  
 - *professor van hohenheim* 
-- nilsday, spectres 32nd, 1544-a.s.
+- nilsday, spectres 32nd, 1544-a.s.  
 <span class='note'>You used a *properly formatted date?*</span>
 " %}
 
