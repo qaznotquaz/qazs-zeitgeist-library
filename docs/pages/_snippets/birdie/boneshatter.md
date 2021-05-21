@@ -18,6 +18,7 @@ ordinal: 5
 - *LKME 5215*  
 - *professor van hohenheim* 
 - nilsday, spectres 32nd, 1544-a.s.
+<span class='note'>You used a *properly formatted date?*</span>
 " %}
 
 {% include collapsible.html title="intro" content="
