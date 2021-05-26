@@ -1,4 +1,7 @@
-&default-colors:
+alexa:
+  character: lexa
+  fullname: Alexander Kyano
+  setting: Zeitgeist
   bg-1: '#fff'
   bg-2: '#fff'
   bg-3: '#fff'
@@ -6,31 +9,38 @@
   acc-1: '#fff'
   acc-2: '#fff'
 
----
-
-alexa:
-  character: lexa
-  fullname: Alexander Kyano
-  setting: Zeitgeist
-  <<: *default-colors
-
 xander:
   character: alex
   fullname: Alexander Laskea
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 fate:
   character: fate
   fullname: Fate
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 key:
   character: key
   fullname: Key
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 vivian:
   character: vivian
@@ -48,13 +58,23 @@ anise:
   character: anise
   fullname: Anise
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 phoebe:
   character: phoebe
   fullname: Phoebe
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 ip3-k:
   character: ip3-k
@@ -71,31 +91,56 @@ swan:
   character: swan
   fullname: Dr. Swan
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 avie:
   character: avie
   fullname: Avie Birdsong
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 eeni:
   character: eeni
   fullname: '@eenimeenimynimo'
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 honey:
   character: honey
   fullname: "\"honey\""
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 null_vibes:
   character: null_vibes
   fullname: NULL_VIBES
   setting: Zeitgeist
-  <<: *default-colors
+  bg-1: '#fff'
+  bg-2: '#fff'
+  bg-3: '#fff'
+  text-color: '#fff'
+  acc-1: '#fff'
+  acc-2: '#fff'
 
 nobody:
   character: nobody
