@@ -2,6 +2,6 @@
 character: vivian
 ---
 
-{% include character.scss character=page.character %}
+{% include character.scss character=page.skin %}
 @import "characters/vivian";
 @import "default";
