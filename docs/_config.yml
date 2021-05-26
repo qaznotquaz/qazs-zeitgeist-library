@@ -7,7 +7,7 @@ collections:
   snippets:
     output: true
   profiles:
-    output: false
+    output: true
   navigation:
     output: true
     permalink: /:name/
