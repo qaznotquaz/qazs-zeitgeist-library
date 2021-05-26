@@ -2,6 +2,6 @@
 skin: birdie
 ---
 
-{% include character.scss character=page.skin %}
+{% include character.scss who=page.skin %}
 @import "characters/birdie";
 @import "default";

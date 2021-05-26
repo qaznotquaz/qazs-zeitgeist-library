@@ -1,4 +1,4 @@
-{% assign character = site.data.characters[include.skin] %}
+{% assign character = site.data.characters[include.who] %}
 
 $bg-1: {{ character.bg-1 }};
 $bg-2: {{ character.bg-2 }};
