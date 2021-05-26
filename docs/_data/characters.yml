@@ -1,63 +1,42 @@
-alexa:
-  character: alexa
-  fullname: Alexandra Laskea
-  setting: Zeitgeist
+&default-colors:
   bg-1: '#fff'
   bg-2: '#fff'
   bg-3: '#fff'
   text-color: '#fff'
   acc-1: '#fff'
   acc-2: '#fff'
+
+---
+
+alexa:
+  character: lexa
+  fullname: Alexander Kyano
+  setting: Zeitgeist
+  <<: *default-colors
 
 xander:
-  character: xander
+  character: alex
   fullname: Alexander Laskea
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
-
-admin:
-  character: admin
-  fullname: '[ADMIN]'
-  setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
-  hide: true
+  <<: *default-colors
 
 fate:
   character: fate
   fullname: Fate
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 key:
   character: key
   fullname: Key
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 vivian:
   character: vivian
   fullname: Vivian Vivlio
   setting: Zeitgeist
+  web-desc: The pen is mightier than the sword.
   bg-1: '#666'
   bg-2: '#dca'
   bg-3: '#975'
@@ -69,23 +48,13 @@ anise:
   character: anise
   fullname: Anise
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 phoebe:
   character: phoebe
   fullname: Phoebe
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 ip3-k:
   character: ip3-k
@@ -102,61 +71,37 @@ swan:
   character: swan
   fullname: Dr. Swan
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 avie:
   character: avie
   fullname: Avie Birdsong
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 eeni:
   character: eeni
   fullname: '@eenimeenimynimo'
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 honey:
   character: honey
   fullname: "\"honey\""
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 null_vibes:
   character: null_vibes
   fullname: NULL_VIBES
   setting: Zeitgeist
-  bg-1: '#fff'
-  bg-2: '#fff'
-  bg-3: '#fff'
-  text-color: '#fff'
-  acc-1: '#fff'
-  acc-2: '#fff'
+  <<: *default-colors
 
 nobody:
   character: nobody
   fullname: Nobody
   setting: Zeitgeist
+  web-desc: I guess that makes me nobody.
   bg-1: '#e7e7e7'
   bg-2: '#d7d7d7'
   bg-3: '#232323'
@@ -168,6 +113,7 @@ birdie:
   character: birdie
   fullname: birdie
   setting: Untitled Setting.
+  web-desc: Well, it's not as though he makes *good* decisions.
   bg-1: '#ffe'
   bg-2: '#e7e7e7'
   bg-3: '#aaf'

@@ -1,7 +1,7 @@
 ---
 layout: characters/vivian
 title: Interview
-character: vivian
+skin: vivian
 ---
 {% include collapsible.html title="Is this thing on?" content="
 *Let's see, okay, is this thing working... Can you hear th-? Yes? Thank you. Is the street noise too loud? No? Thank you. Yes, than- Mhm. I'll keep that in mind, miss. That should be plenty of time. Thank you.*

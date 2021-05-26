@@ -1,6 +1,6 @@
-{% assign setting=site.data.characters[page.character].setting %}
-{% assign charrie=site.data.characters[page.character] %}
-{% assign posts=site.snippets | where: "character", page.character | sort: "ordinal" %}
+{% assign setting=site.data.characters[page.skin].setting %}
+{% assign this-skin=site.data.characters[page.skin] %}
+{% assign posts=site.snippets | where: "skin", page.skin | sort: "ordinal" %}
 
 <div id="sidebar" class="collapsible-hover">
     <ul>
@@ -8,9 +8,9 @@
             <a>{{ setting | default: "Zeitgeist" }}</a>
         </li>
         {% for post in posts %}
-        <li style="background: {{ charrie.bg-2 }};
-                        border-color: {{ charrie.acc-1 }};
-                        color: {{ charrie.text-color }}">
+        <li style="background: {{ this-skin.bg-2 }};
+                        border-color: {{ this-skin.acc-1 }};
+                        color: {{ this-skin.text-color }}">
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}

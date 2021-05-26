@@ -1,7 +1,7 @@
 ---
 layout: characters/birdie
 title: Invisibility
-character: birdie
+skin: birdie
 prof-font: "'Alex Brush', cursive"
 ordinal: 2
 prof-font-size-big: 24pt

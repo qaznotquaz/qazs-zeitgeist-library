@@ -1,7 +1,7 @@
 ---
 layout: characters/birdie
 title: You Do Not Know Me. (placeholder)
-character: birdie
+skin: birdie
 prof-font: "Reenie Beanie, sans-serif"
 published: false
 ordinal: 8

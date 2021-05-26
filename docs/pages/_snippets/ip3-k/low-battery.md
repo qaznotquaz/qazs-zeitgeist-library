@@ -1,7 +1,7 @@
 ---
 layout: characters/ip3-k
 title: 0% battery remaining. the device will now shut down.
-character: ip3-k
+skin: ip3-k
 ---
 {% include collapsible.html title="YOU ARE A HOLOPHONE." content="
 You are a **Holophone,** experimental model **IP3-K**. You have a *camera* on both faces, a *microphone*, and a *clear glass body*. You're powered off at the moment, so there is nothing to distinguish you  from a hand-sized sheet of glass besides a solid black, inch-thick stripe of metal at the bottom. That would be your *power bank*, and it's **depleted.**

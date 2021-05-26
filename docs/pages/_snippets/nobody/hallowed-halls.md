@@ -1,7 +1,7 @@
 ---
 layout: characters/nobody
 title: Hallowed Halls
-character: nobody
+skin: nobody
 ordinal: 1
 ---
 {% include collapsible.html title="Dear Diary," content="hallowed halls, these once were. are? am? were?

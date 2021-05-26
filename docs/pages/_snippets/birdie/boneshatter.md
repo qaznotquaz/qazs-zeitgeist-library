@@ -1,7 +1,7 @@
 ---
 layout: characters/birdie
 title: Boneshatter (draft)
-character: birdie
+skin: birdie
 prof-font: "'Times New Roman', Times, serif"
 prof-font-size-big: 17pt
 prof-font-size-smol: 13pt

@@ -1,7 +1,7 @@
 ---
 layout: characters/birdie
 title: Mad Genius (placeholder)
-character: birdie
+skin: birdie
 prof-font: "Reenie Beanie, sans-serif"
 published: false
 ordinal: 7

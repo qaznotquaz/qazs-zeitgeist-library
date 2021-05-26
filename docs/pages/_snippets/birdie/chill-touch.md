@@ -1,7 +1,7 @@
 ---
 layout: characters/birdie
 title: Chill Touch (placeholder)
-character: birdie
+skin: birdie
 prof-font: "Reenie Beanie, sans-serif"
 published: false
 ordinal: 6

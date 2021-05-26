@@ -1,7 +1,7 @@
 ---
 layout: characters/birdie
 title: Liquefy
-character: birdie
+skin: birdie
 prof-font: "'Rock Salt', sans serif"
 prof-font-size-big: 12pt
 prof-font-size-smol: 11pt

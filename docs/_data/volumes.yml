@@ -1,9 +1,10 @@
 concentration:
   name: Concentration
-  characters:
-    - birdie
+  skin: birdie
+  classification: complete
+  description: A series of old assignment notes from birdie, the alchemist.
   entries:
-    - cure-light-wounds.md
+    - page, cure-light-wounds.md
     - invisibility.md
     - liquefy.md
     - boneshatter.md
@@ -11,8 +12,7 @@ concentration:
 
 journalism:
   name: Journalism
-  characters:
-    - vivian
+  skin: vivian
   entries:
     - interview.md
     - fountain-pen.md
