@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: vivian, the journalist
+title: Vivian Vivlio
 skin: vivian
 published: true
 ---

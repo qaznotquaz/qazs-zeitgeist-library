@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: nobody, a witness
+title: Nobody.
 skin: nobody
 published: true
 ---
