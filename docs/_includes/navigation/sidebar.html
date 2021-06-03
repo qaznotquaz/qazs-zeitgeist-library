@@ -6,20 +6,19 @@
 {% for entry in entries %}
     {% if page.name==entry %}
         {% unless forloop.first %}
-            {% assign pind=forloop.index0 %}
             {% assign prevpage=site.snippets | where: "name", entries[forloop.index0 - 1] | first %}
             {% assign prevlink=site.baseurl | append prevpage.url %}
             {% assign prevtxt='prev' %}
         {% endunless %}
 
         {% unless forloop.last %}
-            {% assign nind=forloop.index0 %}
             {% assign nextpage=site.snippets | where: "name", entries[forloop.index0 + 1] | first %}
             {% assign nextlink=site.baseurl | append nextpage.url %}
             {% assign nexttxt='next' %}
         {% endunless %}
     {% endif %}
     {% assign ugh=entry %}
+    {% assign ind=forloop.index0 %}
 {% endfor %}
 
 <div id="sidebar" class="collapsible-hover">
@@ -30,12 +29,12 @@
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ page.name }}">{{ pind | default: 'none' }}</a>
+            <a href="{{ ind | default: 'none' }}">{{ page.name | default: 'none' }}</a>
         </li>
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ ugh }}">{{ nind | default: 'none' }}</a>
+            <a href="{{ ugh }}">{{ ugh | default: 'none' }}</a>
         </li>
     </ul>
 </div>
