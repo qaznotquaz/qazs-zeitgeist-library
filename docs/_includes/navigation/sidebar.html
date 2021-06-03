@@ -6,13 +6,13 @@
 {% for entry in entries %}
     {% if page.id==entry %}
         {% unless forloop.first %}
-            {% assign prevpage=forloop.index0 %}
+            {% assign prevpage=forloop.index0-1 %}
             {% assign prevlink=site.baseurl %}
             {% assign prevtxt='prev' %}
         {% endunless %}
 
         {% unless forloop.last %}
-            {% assign nextpage=forloop.index0 %}
+            {% assign nextpage=forloop.index0+1 %}
             {% assign nextlink=site.baseurl %}
             {% assign nexttxt='next' %}
         {% endunless %}
