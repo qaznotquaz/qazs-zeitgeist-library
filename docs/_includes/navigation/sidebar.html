@@ -6,16 +6,17 @@
 {% for entry in entries %}
     {% if page.id==entry %}
         {% unless forloop.first %}
-            {% assign pind=forloop.index0 | plus: 1 %}
-            {% assign prevpage=site.snippets | where: "id", entries[pind] | first %}
-            {% assign prevlink=site.baseurl | append prevpage.url %}
-            {% assign prevtxt='prev' %}
+            {% assign pind=forloop.index0 | minus: 1 %}
+            {% assign ppage=site.snippets | where: "id", entries[pind] | first %}
+            {% assign plink=site.baseurl | append: ppage.url %}
+            {% assign ptxt='prev' %}
         {% endunless %}
 
         {% unless forloop.last %}
-            {% assign nextpage=forloop.index0 | plus: 1 %}
-            {% assign nextlink=site.baseurl %}
-            {% assign nexttxt='next' %}
+            {% assign nind=forloop.index0 | plus: 1 %}
+            {% assign npage=site.snippets | where: "id", entries[nind] | first %}
+            {% assign nlink=site.baseurl | append: npage.url %}
+            {% assign ntxt='next' %}
         {% endunless %}
     {% endif %}
 
@@ -31,12 +32,12 @@
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ prevpage | default: 'none' }}">{{ prevtxt | default: 'none' }}</a>
+            <a href="{{ ppage | default: 'none' }}">{{ ptxt | default: 'none' }}</a>
         </li>
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ nextpage | default: 'none' }}">{{ nexttxt | default: 'none' }}</a>
+            <a href="{{ npage | default: 'none' }}">{{ ntxt | default: 'none' }}</a>
         </li>
     </ul>
 </div>
