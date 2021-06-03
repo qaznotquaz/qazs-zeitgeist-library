@@ -6,13 +6,13 @@
 {% for entry in entries %}
     {% if page.id==entry %}
         {% unless forloop.first %}
-            {% assign prevpage=site.snippets | where: "id", entries[forloop.index0 - 1] | first %}
+            {% assign prevpage=forloop.index0 %}
             {% assign prevlink=site.baseurl | append prevpage.url %}
             {% assign prevtxt='prev' %}
         {% endunless %}
 
         {% unless forloop.last %}
-            {% assign nextpage=site.snippets | where: "id", entries[forloop.index0 + 1] | first %}
+            {% assign nextpage=forloop.index0 %}
             {% assign nextlink=site.baseurl | append nextpage.url %}
             {% assign nexttxt='next' %}
         {% endunless %}
@@ -21,7 +21,7 @@
     {% assign enttry=entry %}
     {% assign pidd=page.id %}
 {% endfor %}
-
+<!--assign prevpage=site.snippets | where: "id", entries[forloop.index0 - 1] | first-->
 <div id="sidebar" class="collapsible-hover">
     <ul>
         <li id="home">
