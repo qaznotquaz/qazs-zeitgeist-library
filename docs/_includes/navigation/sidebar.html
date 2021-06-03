@@ -5,18 +5,17 @@
 
 {% for entry in entries %}
     {% if page.name==entry %}
-        {% if forloop.first %}
-            {% assign prv="none" %}
-        {% else %}
+        {% unless forloop.first %}
             {% assign prevpage=site.snippets | where: "name", entries[forloop.index0 - 1] | first %}
-            {% assign prv='<a href="' | append: site.baseurl | append: prevpage.url | append: '">prev</a>' %}
-        {% endif %}
-        {% if forloop.last %}
-            {% assign nxt="none" %}
-        {% else %}
+            {% assign prevlink=site.baseurl | append prevpage.url %}
+            {% assign prevtxt='prev' %}
+        {% endunless %}
+
+        {% unless forloop.last %}
             {% assign nextpage=site.snippets | where: "name", entries[forloop.index0 + 1] | first %}
-            {% assign nxt='<a href="' | append: site.baseurl | append: nextpage.url | append: '">next</a>' %}
-        {% endif %}
+            {% assign nextlink=site.baseurl | append nextpage.url %}
+            {% assign nexttxt='next' %}
+        {% endunless %}
     {% endif %}
 {% endfor %}
 
@@ -28,12 +27,12 @@
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            {{ prv }}
+            <a href="{{ prevlink }}">{{ prevtxt | default: 'none' }}</a>
         </li>
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            {{ nxt }}
+            <a href="{{ nextlink }}">{{ nexttxt | default: 'none' }}</a>
         </li>
     </ul>
 </div>
