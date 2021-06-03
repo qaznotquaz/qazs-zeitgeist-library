@@ -17,7 +17,11 @@
             {% assign nexttxt='next' %}
         {% endunless %}
     {% endif %}
+
+    {% assign blah=entry %}
 {% endfor %}
+
+{% assign blah2=volume.name %}
 
 <div id="sidebar" class="collapsible-hover">
     <ul>
@@ -27,12 +31,12 @@
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ prevlink }}">{{ prevtxt | default: 'none' }}</a>
+            <a href="{{ prevlink }}">{{ blah | default: 'none' }}</a>
         </li>
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ nextlink }}">{{ nexttxt | default: 'none' }}</a>
+            <a href="{{ nextlink }}">{{ blah2 | default: 'none' }}</a>
         </li>
     </ul>
 </div>
