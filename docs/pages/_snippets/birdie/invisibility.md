@@ -3,9 +3,9 @@ layout: characters/birdie
 title: Invisibility
 skin: birdie
 prof-font: "'Alex Brush', cursive"
-ordinal: 2
 prof-font-size-big: 24pt
 prof-font-size-smol: 18pt
+volume: concentration
 ---
 {% include collapsible.html title="cover page" content="
 # the university

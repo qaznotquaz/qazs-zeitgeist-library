@@ -1,9 +1,3 @@
----
-layout: characters/nobody
-title: Falling Asleep
-skin: nobody
-ordinal: 2
----
 {% include collapsible.html title="Dear Diary," content="
 *falling asleep.*
 

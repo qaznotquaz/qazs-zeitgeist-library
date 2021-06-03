@@ -5,7 +5,7 @@ skin: birdie
 prof-font: "'Rock Salt', sans serif"
 prof-font-size-big: 12pt
 prof-font-size-smol: 11pt
-ordinal: 3
+volume: concentration
 ---
 {% include collapsible.html title="cover page" content="
 # the university

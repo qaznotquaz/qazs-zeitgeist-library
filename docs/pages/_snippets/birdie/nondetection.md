@@ -2,8 +2,7 @@
 layout: characters/birdie
 title: nondetection (intermission)
 skin: birdie
-published: false
-ordinal: 4
+volume: concentration
 ---
 
 {% include collapsible.html title="hidden on my person" content="

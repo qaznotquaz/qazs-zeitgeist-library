@@ -4,4 +4,4 @@ title: Fountain Pen
 skin: vivian
 volume: journalism2
 ---
-{% include_relative fountain-pen.md %}
+dead page
