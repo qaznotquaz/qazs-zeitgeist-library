@@ -4,15 +4,15 @@
 {% assign entries=site.data.volumes[page.volume].entries %}
 
 {% for entry in entries %}
-    {% if page.name==entry %}
+    {% if page.id==entry %}
         {% unless forloop.first %}
-            {% assign prevpage=site.snippets | where: "name", entries[forloop.index0 - 1] | first %}
+            {% assign prevpage=site.snippets | where: "id", entries[forloop.index0 - 1] | first %}
             {% assign prevlink=site.baseurl | append prevpage.url %}
             {% assign prevtxt='prev' %}
         {% endunless %}
 
         {% unless forloop.last %}
-            {% assign nextpage=site.snippets | where: "name", entries[forloop.index0 + 1] | first %}
+            {% assign nextpage=site.snippets | where: "id", entries[forloop.index0 + 1] | first %}
             {% assign nextlink=site.baseurl | append nextpage.url %}
             {% assign nexttxt='next' %}
         {% endunless %}
