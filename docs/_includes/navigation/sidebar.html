@@ -8,14 +8,14 @@
         {% unless forloop.first %}
             {% assign pind=forloop.index0 | minus: 1 %}
             {% assign ppage=site.snippets | where: "id", entries[pind] | first %}
-            {% assign plink=site.baseurl | append: ppage.url %}
+            {% assign plink='' | append: site.baseurl | append: ppage.url %}
             {% assign ptxt='prev' %}
         {% endunless %}
 
         {% unless forloop.last %}
             {% assign nind=forloop.index0 | plus: 1 %}
             {% assign npage=site.snippets | where: "id", entries[nind] | first %}
-            {% assign nlink=site.baseurl | append: npage.url %}
+            {% assign nlink='' | append: site.baseurl | append: npage.url %}
             {% assign ntxt='next' %}
         {% endunless %}
     {% endif %}
