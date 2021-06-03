@@ -7,13 +7,13 @@
     {% if page.id==entry %}
         {% unless forloop.first %}
             {% assign prevpage=forloop.index0 %}
-            {% assign prevlink=site.baseurl | append prevpage.url %}
+            {% assign prevlink=site.baseurl %}
             {% assign prevtxt='prev' %}
         {% endunless %}
 
         {% unless forloop.last %}
             {% assign nextpage=forloop.index0 %}
-            {% assign nextlink=site.baseurl | append nextpage.url %}
+            {% assign nextlink=site.baseurl %}
             {% assign nexttxt='next' %}
         {% endunless %}
     {% endif %}
@@ -30,12 +30,12 @@
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ pidd | default: 'none' }}">{{ enttry | default: 'none' }}</a>
+            <a href="{{ prevpage | default: 'none' }}">{{ nextpage | default: 'none' }}</a>
         </li>
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ nextlink | default: 'none' }}">{{ nexttxt | default: 'none' }}</a>
+            <a href="{{ prevtxt | default: 'none' }}">{{ nexttxt | default: 'none' }}</a>
         </li>
     </ul>
 </div>
