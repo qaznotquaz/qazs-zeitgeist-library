@@ -2,6 +2,6 @@
 layout: characters/nobody
 title: Falling Asleep
 skin: nobody
-collection: firsts
+volume: firsts
 ---
 {% include_relative falling-asleep.md %}
