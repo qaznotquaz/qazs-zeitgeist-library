@@ -1,7 +1,7 @@
 url: "https://qaznotquaz.github.io"
-baseurl: "/qazs-zeitgeist-library"
-title: Qaz's Zeitgeist Library
-description: Welcome to the Zeitgeist.
+baseurl: "/qazs-library"
+title: Qaz's Library
+description: enjoy your stay!
 
 collections:
   snippets:

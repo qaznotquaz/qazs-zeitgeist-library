@@ -1,15 +1,10 @@
----
-layout: characters/vivian
-title: Interview
-skin: vivian
----
 {% include collapsible.html title="Is this thing on?" content="
 *Let's see, okay, is this thing working... Can you hear th-? Yes? Thank you. Is the street noise too loud? No? Thank you. Yes, than- Mhm. I'll keep that in mind, miss. That should be plenty of time. Thank you.*
 
 *Stream going public in three, two...*" %}
 
 {% include collapsible.html title="Click." content="
-One second. The street noise is loud. A building is to the left - clean glass and dark metal. Reflections spark across it, from the street. A street is to the right - blurs of motion and neon. Streetlights glisten down. Reflections spark off the sidewalk. It's starting to rain.
+One second. The street noise is loud. A building is to the left - clean glass and dark metal. Reflections spark across it, from the street. A street is to the right - blurs of motion and neon. Streetlights listen down. Reflections spark off the sidewalk. It's starting to rain.
 
 Two seconds. The reporter smiles. She's got an umbrella and an overcoat - both ink-dark and slick with rain. Her braided hair drapes down her left shoulder, also ink-dark and slick. Her **voice** is clear, quick, and squeaky as she speaks into her headset.
 

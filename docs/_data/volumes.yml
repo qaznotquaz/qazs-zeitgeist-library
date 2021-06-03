@@ -1,7 +1,6 @@
 concentration:
   name: Concentration
   skin: birdie
-  classification: complete series
   description: A series of old assignment notes from birdie, the alchemist.
   entries:
     - cure-light-wounds.md
@@ -10,10 +9,26 @@ concentration:
     - boneshatter.md
     - chill-touch.md
 
-journalism:
+journalism1:
   name: Journalism
   skin: vivian
-  classification: complete series
+  description: Vivian Vivlio's writings.
   entries:
-    - interview.md
-    - fountain-pen.md
+    - interview-1.md
+    - fountain-pen-1.md
+
+journalism2:
+  name: Journalisms
+  skin: vivian
+  description: Also Vivian Vivlio's writings.
+  entries:
+    - fountain-pen-2.md
+    - interview-2.md
+
+witnessing:
+  name: Witnessing
+  skin: nobody
+  description: A unique account.
+  entries:
+    - falling-asleep.md
+    - hallowed-halls.md
