@@ -14,16 +14,16 @@ journalism1:
   skin: vivian
   description: Vivian Vivlio's writings.
   entries:
-    - interview-1.md
-    - fountain-pen-1.md
+    - /snippets/vivian/interview-1.md
+    - /snippets/vivian/fountain-pen-1.md
 
 journalism2:
   name: Journalisms
   skin: vivian
   description: Also Vivian Vivlio's writings.
   entries:
-    - fountain-pen-2.md
-    - interview-2.md
+    - /snippets/vivian/fountain-pen-2.md
+    - /snippets/vivian/interview-2.md
 
 witnessing:
   name: Witnessing
