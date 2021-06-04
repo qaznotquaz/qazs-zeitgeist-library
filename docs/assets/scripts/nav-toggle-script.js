@@ -29,8 +29,12 @@ function expandHover() {
     e.innerHTML = e.getAttribute('swatch-text')
 
     requestAnimationFrame(function () {
-        // have the element transition to the width of its inner content
-        e.style.width = e.scrollWidth + 10 + 'px';
+        const width = e.scrollWidth + 10;
+
+        requestAnimationFrame(function () {
+            // have the element transition to the width of its inner content
+            e.style.width = width + 'px';
+        });
     });
 }
 
