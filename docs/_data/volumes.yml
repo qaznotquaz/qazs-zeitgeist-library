@@ -2,30 +2,30 @@ firsts:
   name: First!
   description: Each first page.
   entries:
-    - /snippets/birdie/cure-light-wounds-2
-    - /snippets/vivian/interview-2
-    - /snippets/nobody/falling-asleep-2
+    - /volumes/firsts/cure-light-wounds
+    - /volumes/firsts/interview
+    - /volumes/firsts/falling-asleep
 
 concentration:
   name: Concentration
   description: A series of old assignment notes from birdie, the alchemist.
   entries:
-    - /snippets/birdie/cure-light-wounds-1
-    - /snippets/birdie/invisibility
-    - /snippets/birdie/liquefy
-    - /snippets/birdie/boneshatter
-    - /snippets/birdie/chill-touch
+    - /volumes/concentration/cure-light-wounds
+    - /volumes/concentration/invisibility
+    - /volumes/concentration/liquefy
+    - /volumes/concentration/boneshatter
+    - /volumes/concentration/chill-touch
 
-journalism1:
+journalism:
   name: Journalism
   description: Vivian Vivlio's writings.
   entries:
-    - /snippets/vivian/interview-1
-    - /snippets/vivian/fountain-pen-1
+    - /snippets/vivian/interview
+    - /snippets/vivian/fountain-pen
 
 witnessing:
   name: Witnessing
   description: A unique account, from a true witness.
   entries:
-    - /snippets/nobody/falling-asleep-1
     - /snippets/nobody/hallowed-halls
+    - /snippets/nobody/falling-asleep

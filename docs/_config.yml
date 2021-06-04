@@ -4,14 +4,14 @@ title: Qaz's Library
 description: enjoy your stay!
 
 collections:
-  snippets:
+  volumes:
     output: true
   profiles:
     output: true
   navigation:
     output: true
-    permalink: /:name/
+    permalink: /:slug
 
 collections_dir: pages
 
-permalink: /:collection/:categories/:slug/
+permalink: /:categories/:slug

@@ -2,6 +2,6 @@
 layout: characters/vivian
 title: Interview
 skin: vivian
-volume: firsts
+volume: journalism
 ---
-{% include_relative interview.md %}
+{% include canonical-copy/interview.md %}

@@ -4,4 +4,4 @@ title: Interview
 skin: vivian
 volume: journalism
 ---
-{% include_relative interview.md %}
+{% include canonical-copy/interview.md %}

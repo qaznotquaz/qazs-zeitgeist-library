@@ -2,6 +2,6 @@
 layout: characters/nobody
 title: Falling Asleep
 skin: nobody
-collection: witnessing
+volume: witnessing
 ---
-{% include_relative falling-asleep.md %}
+{% include canonical-copy/falling-asleep.md %}

@@ -2,7 +2,7 @@
 layout: characters/nobody
 title: Hallowed Halls
 skin: nobody
-collection: witnessing
+volume: witnessing
 ---
 {% include collapsible.html title="Dear Diary," content="hallowed halls, these once were. are? am? were?
 
