@@ -7,7 +7,7 @@ prof-font-size-big: 17pt
 prof-font-size-smol: 13pt
 volume: concentration
 ---
-{% include collapsible.html.liquid title="cover page" content="
+{% include collapsible.html title="cover page" content="
 # the university
 
 - **boneshatter**  
@@ -21,7 +21,7 @@ volume: concentration
 <span class='note'>You used a *properly formatted date?*</span>
 " %}
 
-{% include collapsible.html.liquid title="intro" content="
+{% include collapsible.html title="intro" content="
 - bones.
 
 most people have them. but... when's the last time you thought 'wow, i'm really glad my bones are intact!'? when is the last time you thanked your bones for supporting you all the time? probably not recently, unless you'd perhaps broken one. 
@@ -33,7 +33,7 @@ enjoy :)
 <span class='note'>+10, going considerably above and beyond assignment requirements</span>
 " %}
 
-{% include collapsible.html.liquid title="you will need:" content="
+{% include collapsible.html title="you will need:" content="
 ***ingredients:***
 
 - **raw**
@@ -81,7 +81,7 @@ enjoy :)
 *yields one boneshatter extract in the form of half a dozen fluffy coconut cookies*
 " %}
 
-{% include collapsible.html.liquid title="steps" content="
+{% include collapsible.html title="steps" content="
 
 *a quick forewarning - you may want to read these steps through in advance before trying them at home.*
 
@@ -210,7 +210,7 @@ enjoy :)
 
 " %}
 
-{% include collapsible.html.liquid title="serving instructions" content="
+{% include collapsible.html title="serving instructions" content="
 the first thing to remember about this is that eating cookies is always meant to be an enjoyable experience. these are no exception, despite what you may figure from their magical properties! when you eat them, make sure *not to get into a rhythm* or anything. maybe eat a few all at once and then the others with a few seconds between, or perhaps just shove them all in your face and try to swallow it without choking? however you do it, have fun! *revel* in the crunch they make in your mouth, the mess of crumbs scattering aimlessly, the chalky white powder staining your clothes. you'll be using *wolfram's tectonic fury* again, with an **unrestricted amount of positive energy**. don't worry about the source or the target, they'll sort themselves out. make other modifications if you would enjoy doing so.
 
 make sure to get through the entire batch! normally, you would want to stop channeling *before* hurting yourself, but here? stop whenever the hell you want. it'll hurt no matter what, but why come all this way only to skimp on the most important step? go all out! have some fun, scare some people with your screams, show them the *bone fragments* sticking out of your skin! laugh in *revelrous bliss*, cry in *cathartic horror*, *let it all out*. have a grand old time.
@@ -224,7 +224,7 @@ if you're infusing, this step will still leave you sore despite the fact that yo
 enjoy!
 "%}
 
-{% include collapsible.html.liquid title="experiment notes" content="
+{% include collapsible.html title="experiment notes" content="
 - *preface*  
 
 i made one dozen as a practice batch, but decided to let them spoil because they didn't come out as well as i'd hoped<span class='note'>***</span>. after resting, i made two-and-a-half more dozen that came out very cleanly - and, of course, that many cookies allows me five trials of casting this extract!
@@ -311,7 +311,7 @@ i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</
 
 "%}
 
-{% include collapsible.html.liquid title="<span class='note'>Professor's Notes</span>" content="
+{% include collapsible.html title="<span class='note'>Professor's Notes</span>" content="
 <ul><li class='note'>Report</li></ul>
 
 <span class='note'>I am genuinely impressed by your work here. When I first read the title on this report I was worried that you had found an original formulation of the spell somewhere, and replicated it. I would not have been surprised if you somehow had found a spell pattern for it tucked away in some dusty tome in the Library, despite the fact that it has been banned essentially anywhere that civilization has advanced enough to have laws. Having experienced the effects of both the original and your new formulation, I can conclude that your formulation of the spell achieves similar effect to the original. This alone would have been enough to complete the requirements of the assignment, but you redesigned the entire spell to use Positive Energy, shattering bone with targeted healing. This ludicrous ingenuity is exactly what I have come to expect from your assignments, and I was pleased to see it here, in your final assignment as a student with our University.</span>
@@ -329,6 +329,6 @@ i don't think i'll be doing any experiments with <span class='scramble'>FRENDD</
 <span class='underline note'>Lab Grade: 96
 " %}
 
-{% include collapsible.html.liquid title="<span class='reread'>my reread notes</span>" content="
+{% include collapsible.html title="<span class='reread'>my reread notes</span>" content="
 <span class='reread'>an experience to remember, huh? yeah, for sure, definitely... good grief, that's aggravating. this whole thing. this is *insane*, by the way. fucking boneshatter. i already know that i used to be able to make much more powerful extracts, and that i can extract spells that are atypical for alchemists, but this is just wacky! what am i even supposed to do with this, anyways? guess i'll use it as soon as i can manage to prepare it safely
 " %}

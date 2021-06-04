@@ -5,6 +5,6 @@ skin: birdie
 prof-font: "Reenie Beanie, sans-serif"
 volume: concentration
 ---
-{% include collapsible.html.liquid title="-" content="
+{% include collapsible.html title="-" content="
 <span class='note'>
 " %}
