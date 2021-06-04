@@ -36,8 +36,9 @@ function expandHover() {
         e.style.overflow = "hidden";
     });
 }
-
+/*
 for (const element of document.getElementsByClassName('collapsible-hover')) {
     element.addEventListener('mouseenter', expandHover);
     element.addEventListener('mouseleave', collapseHover);
 }
+ */

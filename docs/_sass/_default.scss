@@ -152,7 +152,7 @@ body {
   &:hover ul {
     li {
       a {
-        display: block;
+        // display: block;
       }
     }
   }
@@ -176,10 +176,6 @@ body {
       border-left: 0;
       border-right: 0;
       border-bottom-width: 4px;
-
-      a {
-        display: none;
-      }
     }
   }
 }
