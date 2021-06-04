@@ -69,7 +69,7 @@ html {
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  padding: 5px;
+  padding: 0;
   white-space: nowrap;
 }
 
@@ -106,13 +106,15 @@ a:active {
       @include swatch;
       margin-right: 10px;
 
-      div {
-        display: none;
-      }
-
       &:hover {
         div {
-          display: block;
+          a {
+            display: flex;
+            height: 100%;
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+          }
         }
       }
     }
@@ -163,7 +165,6 @@ body {
 
     li {
       @include swatch;
-      padding: 0;
       margin-top: -4px;
       height: 100px;
       font-size: 25pt;
