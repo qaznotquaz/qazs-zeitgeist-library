@@ -4,4 +4,4 @@ title: Interview
 skin: vivian
 volume: firsts
 ---
-{% include canonical-copy/interview.md.liquid %}
+{% include canonical-copy/interview.md %}
