@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: nondetection (intermission)
 skin: birdie
 volume: concentration

@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: Invisibility
 skin: birdie
 prof-font: "'Alex Brush', cursive"

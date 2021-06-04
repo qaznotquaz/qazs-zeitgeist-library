@@ -1,7 +1,7 @@
 ---
 layout: snippet
 title: ""
-character: nobody
+skin: nobody
 ---
 
 ignore this page.

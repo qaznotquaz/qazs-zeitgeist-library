@@ -1,5 +1,5 @@
 ---
-layout: characters/nobody
+layout: snippet
 title: Hallowed Halls
 skin: nobody
 volume: witnessing

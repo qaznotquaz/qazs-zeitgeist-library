@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: Boneshatter (draft)
 skin: birdie
 prof-font: "'Times New Roman', Times, serif"

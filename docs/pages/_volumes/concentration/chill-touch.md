@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: Chill Touch (placeholder)
 skin: birdie
 prof-font: "Reenie Beanie, sans-serif"

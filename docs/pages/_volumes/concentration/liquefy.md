@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: Liquefy
 skin: birdie
 prof-font: "'Rock Salt', sans serif"

@@ -1,5 +1,5 @@
 ---
-layout: characters/vivian
+layout: snippet
 title: Interview
 skin: vivian
 volume: firsts

@@ -1,5 +1,5 @@
 ---
-layout: characters/vivian
+layout: snippet
 title: Fountain Pen
 skin: vivian
 volume: journalism

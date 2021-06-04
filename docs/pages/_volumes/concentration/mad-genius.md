@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: Mad Genius (placeholder)
 skin: birdie
 prof-font: "Reenie Beanie, sans-serif"

@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: You Do Not Know Me. (placeholder)
 skin: birdie
 prof-font: "Reenie Beanie, sans-serif"

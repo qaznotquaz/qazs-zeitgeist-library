@@ -1,5 +1,5 @@
 ---
-layout: characters/nobody
+layout: snippet
 title: Falling Asleep
 skin: nobody
 volume: firsts

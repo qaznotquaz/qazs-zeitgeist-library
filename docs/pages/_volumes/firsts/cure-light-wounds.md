@@ -1,5 +1,5 @@
 ---
-layout: characters/birdie
+layout: snippet
 title: Cure Light Wounds
 skin: birdie
 prof-font: "'Jim Nightshade', serif"

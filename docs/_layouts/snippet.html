@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
-{%- include head.html -%}
+{% include head.html %}
 <body>
-  {%- include navigation/sidebar.html type="snippet" -%}
-  {%- include content-section.html type="snippet" -%}
+	{% include navigation/sidebar.html type="snippet" %}
+	{% include content-section.html type="snippet" %}
+	{% assign skin-link = 'character-skins/' | append: page.skin | append: '.html' %}
+	{% include {{ skin-link }} %}
 </body>
 <script src="/qazs-library/assets/scripts/section-collapse-script.js"></script>
 <script src="/qazs-library/assets/scripts/hover-toggle-script.js"></script>
