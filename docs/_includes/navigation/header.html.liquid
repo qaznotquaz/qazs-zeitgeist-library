@@ -1,16 +1,18 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <header>
 	<div id="top-nav">
 		<ul>
 			{% for swatch in site.data.banner-swatches['swatches'] %}
 				{% if swatch.name == 'volume' %}
-					{% unless page.layout == 'snippet' %}
+					{% if page.layout == 'volume' or page.layout == 'profile' or page.layout == 'index' %}
 						{% continue %}
-					{% endunless %}
-					{% assign link = 'https://qaznotquaz.github.io/qazs-library/volumes' | append: page.volume %}
+					{% endif %}
+					{% assign link = 'https://qaznotquaz.github.io/qazs-library/volumes/' | append: page.volume %}
 				{% elsif swatch.name == 'character' %}
-					{% unless page.layout == 'snippet' %}
+					{% if page.layout == 'volume' or page.layout == 'profile' or page.layout == 'index' %}
 						{% continue %}
-					{% endunless %}
+					{% endif %}
 					{% assign charrie = site.data.characters[page.skin] %}
 					{% assign char-block-col = charrie.bg-2 %}
 					{% assign char-bord-col = charrie.acc-1 %}
@@ -20,7 +22,7 @@
 						border-color: {{ char-bord-col | default: swatch.bord-col }};
 						color: {{ char-text-col | default: swatch.text-col }}"
 				    class="collapsible-hover">
-					<div><a href="{{ link | default: swatch.hard-link }}">{{ swatch.icon }}</a></div>
+					<div><a href="{{ link | default: swatch.hard-link }}"><i class="fas {{ swatch.icon }}"></i></a></div>
 				</li>
 			{% endfor %}
 		</ul>
