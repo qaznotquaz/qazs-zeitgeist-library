@@ -20,12 +20,12 @@ journalism:
   name: Journalism
   description: Vivian Vivlio's writings.
   entries:
-    - /snippets/vivian/interview
-    - /snippets/vivian/fountain-pen
+    - /volumes/journalism/interview
+    - /volumes/journalism/fountain-pen
 
 witnessing:
   name: Witnessing
   description: A unique account, from a true witness.
   entries:
-    - /snippets/nobody/hallowed-halls
-    - /snippets/nobody/falling-asleep
+    - /volumes/witnessing/hallowed-halls
+    - /volumes/witnessing/falling-asleep
