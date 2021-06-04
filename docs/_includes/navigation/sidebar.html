@@ -1,20 +1,19 @@
 {% assign setting=site.data.characters[page.skin].setting %}
 {% assign this-skin=site.data.characters[page.skin] %}
-{% assign posts=site.snippets | where: "skin", page.skin | sort: "ordinal" %}
 {% assign entries=site.data.volumes[page.volume].entries %}
 
 {% for entry in entries %}
     {% if page.id==entry %}
         {% unless forloop.first %}
             {% assign pind=forloop.index0 | minus: 1 %}
-            {% assign ppage=site.snippets | where: "id", entries[pind] | first %}
+            {% assign ppage=site.volumes | where: "id", entries[pind] | first %}
             {% assign plink='' | append: site.baseurl | append: ppage.url %}
             {% assign ptxt='ᐃ' %}
         {% endunless %}
 
         {% unless forloop.last %}
             {% assign nind=forloop.index0 | plus: 1 %}
-            {% assign npage=site.snippets | where: "id", entries[nind] | first %}
+            {% assign npage=site.volumes | where: "id", entries[nind] | first %}
             {% assign nlink='' | append: site.baseurl | append: npage.url %}
             {% assign ntxt='ᐁ' %}
         {% endunless %}
