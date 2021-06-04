@@ -7,12 +7,14 @@
 						{% continue %}
 					{% endif %}
 					{% assign link = 'https://qaznotquaz.github.io/qazs-library/volumes/' | append: page.volume %}
+					{% assign swatch-text = swatch.name | append: ': ' | append: page.volume %}
 				{% elsif swatch.name == 'character' %}
 					{% if page.layout == 'volume' or page.layout == 'profile' or page.layout == 'index' %}
 						{% continue %}
 					{% endif %}
 					{% assign link = 'https://qaznotquaz.github.io/qazs-library/profiles/' | append: page.skin %}
 					{% assign charrie = site.data.characters[page.skin] %}
+					{% assign swatch-text = swatch.name | append: ': ' | append: charrie.fullname %}
 					{% assign char-block-col = charrie.bg-2 %}
 					{% assign char-bord-col = charrie.acc-1 %}
 					{% assign char-text-col = charrie.text-color %}
@@ -23,10 +25,11 @@
 						color: {{ char-text-col | default: swatch.text-col }}"
 				        class="banner-swatch"
 						icon-text="<i class='fas {{ swatch.icon }}'></i>"
-						swatch-text="{{ charrie.fullname | default: swatch.name }}">
-					<!--intentionally blank-->
+						swatch-text="{{ swatch-text | default: swatch.name }}">
+					<a href='{{ link | default: swatch.hard-link }}'></a>
 				</li>
 				{% assign charrie = false %}
+				{% assign swatch-text = false %}
 				{% assign char-block-col = false %}
 				{% assign char-bord-col = false %}
 				{% assign char-text-col = false %}
