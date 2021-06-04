@@ -7,7 +7,7 @@
 						{% continue %}
 					{% endunless %}
 					{% assign link = 'https://qaznotquaz.github.io/qazs-library/volumes' | append: page.volume %}
-					{% elseif swatch.name='character' %}
+				{% elsif swatch.name == 'character' %}
 					{% unless page.layout == 'snippet' %}
 						{% continue %}
 					{% endunless %}
