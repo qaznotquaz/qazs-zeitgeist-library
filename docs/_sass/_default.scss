@@ -163,6 +163,7 @@ body {
 
     li {
       @include swatch;
+      padding: 0;
       margin-top: -4px;
       height: 100px;
       font-size: 25pt;
@@ -177,6 +178,8 @@ body {
         display: block;
         height: 100%;
         width: 100%;
+        vertical-align: center;
+        text-align: center;
         text-decoration: none;
       }
     }
