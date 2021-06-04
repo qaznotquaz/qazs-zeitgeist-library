@@ -11,6 +11,7 @@
 					{% if page.layout == 'volume' or page.layout == 'profile' or page.layout == 'index' %}
 						{% continue %}
 					{% endif %}
+					{% assign link = 'https://qaznotquaz.github.io/qazs-library/profiles/' | append: page.skin %}
 					{% assign charrie = site.data.characters[page.skin] %}
 					{% assign char-block-col = charrie.bg-2 %}
 					{% assign char-bord-col = charrie.acc-1 %}
@@ -22,6 +23,10 @@
 				    class="collapsible-hover">
 					<div><a href="{{ link | default: swatch.hard-link }}"><i class="fas {{ swatch.icon }}"></i></a></div>
 				</li>
+				{% assign charrie = false %}
+				{% assign char-block-col = false %}
+				{% assign char-bord-col = false %}
+				{% assign char-text-col = false %}
 			{% endfor %}
 		</ul>
 	</div>
