@@ -28,12 +28,9 @@ function expandHover() {
     const e = this;
     e.innerHTML = e.getAttribute('swatch-text')
 
-    // get the width of the element's inner content, regardless of its actual size
-    const width = e.scrollWidth;
-
     requestAnimationFrame(function () {
         // have the element transition to the width of its inner content
-        e.style.width = width + 10 + 'px';
+        e.style.width = e.scrollWidth + 10 + 'px';
     });
 }
 
