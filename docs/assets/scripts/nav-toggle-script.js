@@ -1,6 +1,6 @@
 function collapseHover() {
     const e = this
-    e.firstChild.innerHTML = e.getAttribute('icon-text')
+    e.innerHTML = e.getAttribute('icon-text')
 
     // get the width of the element's inner content, regardless of its actual size
     const width = e.scrollWidth;
@@ -26,7 +26,7 @@ function collapseHover() {
 
 function expandHover() {
     const e = this;
-    e.firstChild.innerHTML = e.getAttribute('swatch-text')
+    e.innerHTML = e.getAttribute('swatch-text')
 
     requestAnimationFrame(function () {
         const width = e.scrollWidth + 10;
@@ -37,5 +37,5 @@ function expandHover() {
 for (const element of document.getElementsByClassName('banner-swatch')) {
     element.addEventListener('mouseenter', expandHover);
     element.addEventListener('mouseleave', collapseHover);
-    element.firstChild.innerHTML = element.getAttribute('icon-text')
+    element.innerHTML = element.getAttribute('icon-text')
 }

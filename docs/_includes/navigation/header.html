@@ -25,8 +25,7 @@
 						color: {{ char-text-col | default: swatch.text-col }}"
 				        class="banner-swatch"
 						icon-text="<i class='fas {{ swatch.icon }}'></i>"
-						swatch-text="{{ swatch-text | default: swatch.name }}">
-					<a href='{{ link | default: swatch.hard-link }}'></a>
+						swatch-text="<a href='{{ link | default: swatch.hard-link }}'>{{ swatch-text | default: swatch.name }}</a>">
 				</li>
 				{% assign charrie = false %}
 				{% assign swatch-text = false %}
