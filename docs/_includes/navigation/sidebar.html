@@ -3,7 +3,7 @@
 {% assign entries=site.data.volumes[page.volume].entries %}
 
 {% for entry in entries %}
-    {% if page.id==entry %}
+    {% if page.id == entry %}
         {% unless forloop.first %}
             {% assign pind=forloop.index0 | minus: 1 %}
             {% assign ppage=site.volumes | where: "id", entries[pind] | first %}
