@@ -18,9 +18,6 @@
             {% assign ntxt='ᐁ' %}
         {% endunless %}
     {% endif %}
-
-    {% assign pid=page.id %}
-    {% assign ent=entry %}
 {% endfor %}
 
 <div id="sidebar" class="collapsible-hover">
@@ -31,12 +28,12 @@
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ plink }}">{{ pid }}</a>
+            <a href="{{ plink }}">{{ ptxt }}</a>
         </li>
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
-            <a href="{{ nlink }}">{{ ent }}</a>
+            <a href="{{ nlink }}">{{ ntxt }}</a>
         </li>
     </ul>
 </div>
