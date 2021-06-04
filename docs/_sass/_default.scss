@@ -67,6 +67,7 @@ html {
   font-size: 10pt;
   display: flex;
   align-items: center;
+  justify-content: center;
   font-weight: bold;
   padding: 5px;
   white-space: nowrap;
@@ -138,10 +139,9 @@ body {
   transition: width 0.2s ease-in-out;
   border-right: 4px solid $acc-1;
   bottom: 0;
-  justify-content: center;
 
   #home {
-    font-size: 20pt;
+    font-size: 23pt;
     height: 53px;
     width: 100%;
     margin: 0;
