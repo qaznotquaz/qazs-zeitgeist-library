@@ -7,7 +7,7 @@ prof-font-size-big: 12pt
 prof-font-size-smol: 11pt
 volume: concentration
 ---
-{% include collapsible.html title="cover page" content="
+{% include collapsible.html.liquid title="cover page" content="
 # the university
 
 - **liquefy**  
@@ -19,13 +19,13 @@ volume: concentration
 - <span><s>tuesday</s> <span class='note'>This is a day, not a date.</span></span>
 " %}
 
-{% include collapsible.html title="intro" content="
+{% include collapsible.html.liquid title="intro" content="
 have you ever wanted to drink an eight-pound block of lead? no? <s>me neither!</s> <span class='note'>-2 Points: Blatant falsehood.</span>
 
 uh. here we go.
 " %}
 
-{% include collapsible.html title="you will need:" content="
+{% include collapsible.html.liquid title="you will need:" content="
 ***ingredients:***  
 \- one (1) liter **🜉** *(aqua vitae)*  
 \- 0.5 liters pitcher-plant juice or similar *(if you use something else, make sure to proportion it based on strength)*  
@@ -53,7 +53,7 @@ uh. here we go.
 *yields one liquefy extract*
 " %}
 
-{% include collapsible.html title="steps" content="
+{% include collapsible.html.liquid title="steps" content="
 
 - **part 1:** the drowning jar.
 
@@ -111,7 +111,7 @@ kept moist, this extract should last the whole day an extract should last before
 
 " %}
 
-{% include collapsible.html title="serving instructions" content="
+{% include collapsible.html.liquid title="serving instructions" content="
 you have a few options for preparing to drink this extract. what you *could* do is just chug it down, but you're likely to retch while channeling which - i shouldn't need to tell you - would be disastrous. so, this is where we want that **overwhelming flavor**. produce a **whole pepper** along with the extract and chew on it until the pain has filled your mouth. swallow that, then chug the extract down while channeling **neutral energy** according to *the nameless dis-completion pattern*. <span class='underline'>since you're an alchemist, you'll have to stay in contact with your target</span> as you unseal the **drowning jar** and begin the spell. unless you're draining your target into the jar, you don't need to worry too much about handling either particularly carefully at this point. <span class='note'>Good insight.</span>
 
 if you *are* draining your target into the jar, then make sure to *hold* the object, and point the mouth of the jar *directly at* the target *(even if that means the jar turns upside-down!)*. the hunger should do the rest of the work - just make sure to right the bottle before ceasing channeling.
@@ -123,7 +123,7 @@ either way, you'll want to produce your disposable items once you have a free ha
 enjoy!
 "%}
 
-{% include collapsible.html title="experiment notes" content="
+{% include collapsible.html.liquid title="experiment notes" content="
 - *description*
 
 we each did two trials on an **eight-pound block of lead**. once *without* draining it into a jar, and once *with*. most students had to resort to boro beads to complete both tests in a reasonable timeframe. i refused to. they didn't let me go til last. probably a good call, in retrospect.
@@ -157,7 +157,7 @@ and, honestly? the taste wasn't particularly interesting.
 
 "%}
 
-{% include collapsible.html title="<span class='note'>Professor's Notes</span>" content="
+{% include collapsible.html.liquid title="<span class='note'>Professor's Notes</span>" content="
 <ul><li class='note' style='font-size: 11pt'>Report</li></ul>
 
 <span class='note'>The average student had to hold their breath for about a minute - or, at most, two. You, on the other hand, spent seven minutes and thirty-four seconds doing this on your first extract, and eight minutes flat on your second. Not only did you distract the class with the visual spectacle of it, you also went through our entire on-hand storage of purest water. We made sure you were supplied with enough to complete your preparations, of course, but only so that the students could complete theirs.
@@ -188,7 +188,7 @@ and, honestly? the taste wasn't particularly interesting.
 <span class='underline note'>Lab Grade: 95
 " %}
 
-{% include collapsible.html title="<span class='reread'>my reread notes</span>" content="
+{% include collapsible.html.liquid title="<span class='reread'>my reread notes</span>" content="
 <span class='reread'>i'm concerned about this. just like the last one, i don't remember learning this spell. i don't even have enough Authority to cast this spell normally right now, let alone enough to channel it for a whole minute. invisibility is draining enough, and that only has *one* channel in its preparation!
 
 ...i don't think the university only took my memories. i don't know how, but they must have taken my Authority when i left too.
