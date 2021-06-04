@@ -21,7 +21,7 @@
 						border-color: {{ char-bord-col | default: swatch.bord-col }};
 						color: {{ char-text-col | default: swatch.text-col }}"
 				    class="collapsible-hover">
-					<div><a href="{{ link | default: swatch.hard-link }}"><i class="fas {{ swatch.icon }}"></i></a></div>
+					<a href="{{ link | default: swatch.hard-link }}"><i class="fas {{ swatch.icon }}"></i></a>
 				</li>
 				{% assign charrie = false %}
 				{% assign char-block-col = false %}

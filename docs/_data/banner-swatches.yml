@@ -9,7 +9,7 @@ swatches:
     icon: fa-book
     block-col: '#e5d7bf'
     bord-col: '#8b7355'
-    text-col: '#111'
+    text-col: '#333'
   - name: character
     icon: fa-theater-masks
   - name: preferences
@@ -17,4 +17,4 @@ swatches:
     hard-link: https://qaznotquaz.github.io/qazs-library/preferences
     block-col: '#aaa'
     bord-col: '#000'
-    text-col: '#333'
+    text-col: '#111'
