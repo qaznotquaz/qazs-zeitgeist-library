@@ -1,0 +1,28 @@
+<header>
+	<div id="top-nav">
+		<ul>
+			{% for swatch in site.data.banner-swatches['swatches'] %}
+				{% if swatch.name == 'volume' %}
+					{% unless page.layout == 'snippet' %}
+						{% continue %}
+					{% endunless %}
+					{% assign link = 'https://qaznotquaz.github.io/qazs-library/volumes' | append: page.volume %}
+					{% elseif swatch.name='character' %}
+					{% unless page.layout == 'snippet' %}
+						{% continue %}
+					{% endunless %}
+					{% assign charrie = site.data.characters[page.skin] %}
+					{% assign char-block-col = charrie.bg-2 %}
+					{% assign char-bord-col = charrie.acc-1 %}
+					{% assign char-text-col = charrie.text-color %}
+				{% endif %}
+				<li style="background: {{ char-block-col | default: swatch.block-col }};
+						border-color: {{ char-bord-col | default: swatch.bord-col }};
+						color: {{ char-text-col | default: swatch.text-col }}"
+				    class="collapsible-hover">
+					<div><a href="{{ link | default: swatch.hard-link }}">{{ swatch.icon }}</a></div>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</header>

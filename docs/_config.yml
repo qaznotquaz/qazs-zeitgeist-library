@@ -10,8 +10,8 @@ collections:
     output: true
   navigation:
     output: true
-    permalink: /:slug/
+    permalink: /:slug
 
 collections_dir: pages
 
-permalink: /:collection/:categories/:slug/
+permalink: /:collection/:categories/:slug

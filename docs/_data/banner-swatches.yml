@@ -1,0 +1,20 @@
+swatches:
+  - name: home
+    icon: 🏠
+    hard-link: https://qaznotquaz.github.io/qazs-library/index
+    block-col: '#fff'
+    bord-col: '#777'
+    text-col: '#777'
+  - name: volume
+    icon: 📓
+    block-col: '#e5d7bf'
+    bord-col: '#ccbfaa'
+    text-col: '#777'
+  - name: character
+    icon: 👤
+  - name: preferences
+    icon: 🛠
+    hard-link: https://qaznotquaz.github.io/qazs-library/preferences
+    block-col: '#aaa'
+    bord-col: '#333'
+    text-col: '#333'

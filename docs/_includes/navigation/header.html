@@ -1,32 +1,29 @@
-{% assign setting=site.data.characters[page.skin].setting %}
-{% assign characters=site.data.characters | where: "setting", setting %}
 
 <header>
     <div id="top-nav">
-        <!--
         <ul>
-            {% for charrie in characters %}
-                {% unless charrie.hide %}
-                    {% if charrie.bg-1=="#fff" %}
-                        {% assign displayname="tba" %}
-                    {% else %}
-                        {% assign displayname=charrie.fullname %}
-                    {% endif %}
-                    <li style="background: {{ charrie.bg-2 }};
-                            border-color: {{ charrie.acc-1 }};
-                            color: {{ charrie.text-color }}"
-                        class="collapsible-hover">
-                        <div>{{ displayname | upcase }}</div>
-                    </li>
-                {% endunless %}
+            {% for swatch in site.data.banner-swatches['swatches'] %}
+                {% if swatch.name='volume' %}
+                    {% unless page.layout='snippet' %}
+                        {% continue %}
+                    {% endunless %}
+                    {% assign link='https://qaznotquaz.github.io/qazs-library/volumes' | append: page.volume %}
+                {% else if swatch.name='character' %}
+                    {% unless page.layout='snippet' %}
+                        {% continue %}
+                    {% endunless %}
+                    {% assign charrie=site.data.characters[page.skin] %}
+                    {% assign char-block-col=charrie.bg-2 %}
+                    {% assign char-bord-col=charrie.acc-1 %}
+                    {% assign char-text-col=charrie.text-color %}
+                {% endif %}
+                <li style="background: {{ char-block-col | default: swatch.block-col }};
+                            border-color: {{ char-bord-col | default: swatch.bord-col }};
+                            color: {{ char-text-col | default: swatch.text-col }}"
+                    class="collapsible-hover">
+                    <div><a href="{{ link | default: swatch.hard-link }}">{{ swatch.icon }}</a></div>
+                </li>
             {% endfor %}
-            <li style="background: rgba(1,1,1,0);
-                            border-color: rgba(1,1,1,0);
-                            color: black" class="collapsible-hover">
-                <span>
-                    (black strikes are censored language)
-                </span>
         </ul>
-        -->
     </div>
 </header>
