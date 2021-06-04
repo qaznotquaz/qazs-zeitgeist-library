@@ -138,9 +138,9 @@ body {
   transition: width 0.2s ease-in-out;
   border-right: 4px solid $acc-1;
   bottom: 0;
+  font-size: 23pt;
 
   #home {
-    font-size: 25pt;
     height: 49px;
     width: 100%;
     margin: 0;
@@ -172,8 +172,7 @@ body {
     li {
       @include swatch;
       margin-top: -4px;
-      height: 100px;
-      font-size: 25pt;
+      height: 75px;
       font-weight: normal;
       width: 100%;
       border-top-width: 4px;

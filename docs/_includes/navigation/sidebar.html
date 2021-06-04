@@ -6,26 +6,25 @@
 {% for entry in entries %}
     {% if page.id==entry %}
         {% unless forloop.first %}
+            {% assign pind=forloop.index0 | minus: 1 %}
             {% assign ppage=site.snippets | where: "id", entries[pind] | first %}
             {% assign plink='' | append: site.baseurl | append: ppage.url %}
             {% assign ptxt='ᐃ' %}
         {% endunless %}
 
         {% unless forloop.last %}
+            {% assign nind=forloop.index0 | plus: 1 %}
             {% assign npage=site.snippets | where: "id", entries[nind] | first %}
             {% assign nlink='' | append: site.baseurl | append: npage.url %}
             {% assign ntxt='ᐁ' %}
         {% endunless %}
     {% endif %}
-
-    {% assign enttry=entry %}
-    {% assign pidd=page.id %}
 {% endfor %}
 
 <div id="sidebar" class="collapsible-hover">
     <ul>
         <li id="home">
-            <a>⌂</a>
+            <a>☰</a>
         </li>
         <li style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
