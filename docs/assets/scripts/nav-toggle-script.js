@@ -1,5 +1,7 @@
 function collapseHover() {
     const e = this
+    e.innerHTML = e.getAttribute('icon-text')
+
     // get the width of the element's inner content, regardless of its actual size
     const width = e.scrollWidth;
 
@@ -25,6 +27,7 @@ function collapseHover() {
 
 function expandHover() {
     const e = this;
+    e.innerHTML = e.getAttribute('swatch-text')
 
     // get the width of the element's inner content, regardless of its actual size
     const width = e.scrollWidth;
@@ -36,9 +39,9 @@ function expandHover() {
         e.style.overflow = "hidden";
     });
 }
-/*
-for (const element of document.getElementsByClassName('collapsible-hover')) {
+
+for (const element of document.getElementsByClassName('banner-swatch')) {
     element.addEventListener('mouseenter', expandHover);
     element.addEventListener('mouseleave', collapseHover);
+    element.innerHTML = element.getAttribute('icon-text')
 }
- */
