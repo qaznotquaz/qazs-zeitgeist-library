@@ -23,7 +23,7 @@
 						color: {{ char-text-col | default: swatch.text-col }}"
 				        class="banner-swatch"
 						icon-text="<i class='fas {{ swatch.icon }}'></i>"
-						swatch-text="{{ swatch.name }}">
+						swatch-text="{{ charrie.fullname | default: swatch.name }}">
 					<!--intentionally blank-->
 				</li>
 				{% assign charrie = false %}

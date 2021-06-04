@@ -15,10 +15,9 @@ function collapseHover() {
     requestAnimationFrame(function () {
         e.style.width = width + 'px';
         e.style.transition = elementTransition;
-        e.style.overflow = null;
 
         // on the next frame (as soon as the previous style change has taken effect),
-        // have the element transition to height: 0
+        // have the element transition to width: 0
         requestAnimationFrame(function () {
             e.style.width = null;
         });
@@ -32,11 +31,9 @@ function expandHover() {
     // get the width of the element's inner content, regardless of its actual size
     const width = e.scrollWidth;
 
-    // have the element transition to the width of its inner content
-    e.style.width = width + 10 + 'px';
-
     requestAnimationFrame(function () {
-        e.style.overflow = "hidden";
+        // have the element transition to the width of its inner content
+        e.style.width = width + 10 + 'px';
     });
 }
 
