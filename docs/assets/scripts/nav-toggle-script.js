@@ -27,15 +27,10 @@ function collapseHover() {
 function expandHover() {
     const e = this;
     e.innerHTML = e.getAttribute('swatch-text')
-    e.justifyContent = null;
 
     requestAnimationFrame(function () {
         const width = e.scrollWidth + 10;
         e.style.width = width + 'px';
-
-        requestAnimationFrame(function () {
-            e.justifyContent = 'center';
-        });
     });
 }
 

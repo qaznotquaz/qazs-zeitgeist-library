@@ -68,10 +68,8 @@ html {
   transition: width 0.1s ease-in-out;
   font-size: 10pt;
   display: flex;
-  align-items: center;
-  justify-content: center;
   font-weight: bold;
-  padding: 0;
+  padding: 5px;
   white-space: nowrap;
 }
 
@@ -176,6 +174,8 @@ body {
       border-left: 0;
       border-right: 0;
       border-bottom-width: 4px;
+      justify-content: center;
+      align-items: center;
 
       a {
         display: flex;
