@@ -8,14 +8,14 @@
             {% assign pind=forloop.index0 | minus: 1 %}
             {% assign ppage=site.volumes | where: "id", entries[pind] | first %}
             {% assign plink='' | append: site.baseurl | append: ppage.url %}
-            {% assign ptxt='ᐃ' %}
+            {% assign ptxt='<i class="fas fa-chevron-up"></i>' %}
         {% endunless %}
 
         {% unless forloop.last %}
             {% assign nind=forloop.index0 | plus: 1 %}
             {% assign npage=site.volumes | where: "id", entries[nind] | first %}
             {% assign nlink='' | append: site.baseurl | append: npage.url %}
-            {% assign ntxt='ᐁ' %}
+            {% assign ntxt='<i class="fas fa-chevron-down"></i>' %}
         {% endunless %}
     {% endif %}
 {% endfor %}
