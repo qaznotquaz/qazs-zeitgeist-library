@@ -19,12 +19,15 @@
 					{% assign char-bord-col = charrie.acc-1 %}
 					{% assign char-text-col = charrie.text-color %}
 				{% endif %}
-				<li style="background: {{ char-block-col | default: swatch.block-col }};
-						border-color: {{ char-bord-col | default: swatch.bord-col }};
-						color: {{ char-text-col | default: swatch.text-col }}"
-				        class="banner-swatch"
-						icon-text="<i class='fas {{ swatch.icon }}'></i>"
-						swatch-text="<a href='{{ link | default: swatch.hard-link }}'>{{ swatch-text | default: swatch.name }}</a>">
+				<li>
+					<a href="{{ link | default: swatch.hard-link }}"
+					   style=" background: {{ char-block-col | default: swatch.block-col }};
+						       border-color: {{ char-bord-col | default: swatch.bord-col }};
+						       color: {{ char-text-col | default: swatch.text-col }}"
+				       class="banner-swatch"
+				       icon-text="<i class='fas {{ swatch.icon }}'></i>"
+				       swatch-text="{{ swatch-text | default: swatch.name }}">
+					</a>
 				</li>
 				{% assign charrie = false %}
 				{% assign swatch-text = false %}

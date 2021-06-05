@@ -108,12 +108,9 @@ a:active {
     flex: 1;
 
     li {
-      // @include swatch;
-      margin-right: 10px;
-      // padding-left: 0;
-
       a {
-        @include swatch;
+        @include swatch;margin-right: 10px;
+        padding-left: 0;
         display: flex;
         height: 100%;
         width: 100%;
