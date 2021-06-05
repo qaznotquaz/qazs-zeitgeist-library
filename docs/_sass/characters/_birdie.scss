@@ -181,6 +181,17 @@ $prof-red: #d00;
       color: $prof-red;
       text-decoration: underline $prof-red;
     }
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+
+      li {
+        margin: 4px;
+      }
+    }
   }
 
   .reread {
@@ -191,17 +202,6 @@ $prof-red: #d00;
 
 hr {
   border-color: #34f;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-
-  li {
-    margin: 4px;
-  }
 }
 
 h1 {
