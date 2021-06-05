@@ -23,14 +23,19 @@
 <div id="sidebar">
     <ul>
         <li id="hamburger">
-            <a><i class="fas fa-bars"></i></a>
+            <i class="fas fa-bars"></i>
         </li>
-        <li style="background: {{ this-skin.bg-2 }};
+        <li class="elevator-button" style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
             <a href="{{ plink }}">{{ ptxt }}</a>
         </li>
-        <li style="background: {{ this-skin.bg-2 }};
+        <li id="urhere" style="background: {{ this-skin.bg-2 }};
+                border-color: {{ this-skin.acc-1 }};
+                color: {{ this-skin.text-color }}">
+            <a>{{ page.title }}</a>
+        </li>
+        <li class="elevator-button" style="background: {{ this-skin.bg-2 }};
                         border-color: {{ this-skin.acc-1 }};
                         color: {{ this-skin.text-color }}">
             <a href="{{ nlink }}">{{ ntxt }}</a>

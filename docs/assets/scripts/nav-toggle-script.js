@@ -31,7 +31,7 @@ function expand(e) {
 function expandSwatch() {
     const e = this;
 
-    e.innerHTML = e.getAttribute('swatch-text')
+    e.innerHTML = e.getAttribute('icon-text') + e.getAttribute('swatch-text')
 
     expand(e);
 }
@@ -47,14 +47,22 @@ function collapseSwatch() {
 function toggleSidebar() {
     const e = this;
     const sidebar = document.getElementById('sidebar')
+    const urhere = document.getElementById('urhere')
+    const elevatorButtons = document.getElementsByClassName('elevator-button')
 
     if (e.getAttribute('out') === 'yes') {
         e.setAttribute('out', 'no');
-        e.innerHTML = '<a><i class="fas fa-bars"></i></a>'
+        urhere.style.height = "0px";
+        elevatorButtons[0].style.height = "75px";
+        elevatorButtons[1].style.height = "75px";
+        e.innerHTML = '<i class="fas fa-bars"></i>'
         collapse(sidebar);
     } else {
         e.setAttribute('out', 'yes')
-        e.innerHTML = 'hopefully this menu expands?'
+        urhere.style.height = "50px";
+        elevatorButtons[0].style.height = "50px";
+        elevatorButtons[1].style.height = "50px";
+        e.innerHTML = '<i class="fas fa-bars"></i> Nav-Menu'
         expand(sidebar);
     }
 }
