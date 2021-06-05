@@ -109,6 +109,7 @@ a:active {
 
     li {
       height: 27px;
+      min-width: 27px;
       margin-right: 10px;
 
       a {
@@ -166,9 +167,10 @@ body {
 
     li {
       @include swatch;
+      padding: 9px;
       margin-top: -4px;
       height: 100px;
-      font-size: 21pt;
+      font-size: 20pt;
       font-weight: normal;
       width: 100%;
       border-top-width: 4px;
