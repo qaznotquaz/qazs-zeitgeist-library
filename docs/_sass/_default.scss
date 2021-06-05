@@ -118,6 +118,10 @@ a:active {
         height: 100%;
         width: 100%;
         align-items: center;
+
+        .i {
+          margin-right: 4px;
+        }
       }
     }
   }
@@ -144,10 +148,6 @@ body {
   border-right: 4px solid $acc-1;
   bottom: 0;
 
-  .i {
-    margin-right: 8px;
-  }
-
   #hamburger {
     font-size: 19pt;
     height: 49px;
@@ -161,6 +161,10 @@ body {
 
   #urhere {
     overflow: hidden;
+  }
+
+  #elevator-down {
+    margin-top: -75px;
   }
 
   ul {
@@ -193,6 +197,10 @@ body {
         height: 100%;
         width: 100%;
         align-items: center;
+
+        .i {
+          margin-right: 8px;
+        }
       }
     }
   }

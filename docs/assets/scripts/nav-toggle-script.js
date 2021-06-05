@@ -54,6 +54,7 @@ function toggleSidebar() {
     if (e.getAttribute('out') === 'yes') {
         e.setAttribute('out', 'no');
         up.style.height = null;
+        urhere.style.height = null;
         dn.style.height = null;
         dn.style.marginTop = "-75px"
         e.innerHTML = '<i class="fas fa-bars"></i>'
@@ -61,6 +62,7 @@ function toggleSidebar() {
     } else {
         e.setAttribute('out', 'yes')
         up.style.height = "50px";
+        urhere.style.height = "50px";
         dn.style.height = "50px";
         dn.style.marginTop = null;
         e.innerHTML = '<i class="fas fa-bars"></i> Nav-Menu'
