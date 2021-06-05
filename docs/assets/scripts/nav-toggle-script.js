@@ -48,26 +48,21 @@ function toggleSidebar() {
     const e = this;
     const sidebar = document.getElementById('sidebar')
     const urhere = document.getElementById('urhere')
-    const elevatorButtons = document.getElementsByClassName('elevator-button')
+    const up = document.getElementById('elevator-up')
+    const dn = document.getElementById('elevator-down')
 
     if (e.getAttribute('out') === 'yes') {
         e.setAttribute('out', 'no');
-        urhere.style.height = null;
-        urhere.style.border = null;
-        urhere.style.marginTop = null;
-        urhere.style.padding = null;
-        elevatorButtons[0].style.height = null;
-        elevatorButtons[1].style.height = null;
+        up.style.height = null;
+        dn.style.height = null;
+        dn.style.marginTop = "-25px"
         e.innerHTML = '<i class="fas fa-bars"></i>'
         collapse(sidebar);
     } else {
         e.setAttribute('out', 'yes')
-        urhere.style.height = "50px";
-        urhere.style.border = "2px";
-        urhere.style.marginTop = "-4px";
-        urhere.style.padding = "9px";
-        elevatorButtons[0].style.height = "50px";
-        elevatorButtons[1].style.height = "50px";
+        up.style.height = "50px";
+        dn.style.height = "50px";
+        dn.style.marginTop = null;
         e.innerHTML = '<i class="fas fa-bars"></i> Nav-Menu'
         expand(sidebar);
     }
