@@ -1,6 +1,4 @@
-function collapse() {
-    const e = this
-
+function collapse(e) {
     // get the width of the element's inner content, regardless of its actual size
     const width = e.scrollWidth;
 
@@ -23,9 +21,7 @@ function collapse() {
     });
 }
 
-function expand() {
-    const e = this;
-
+function expand(e) {
     requestAnimationFrame(function () {
         const width = e.scrollWidth + 10;
         e.style.width = width + 'px';
@@ -37,7 +33,7 @@ function expandSwatch() {
 
     e.innerHTML = e.getAttribute('swatch-text')
 
-    expand();
+    expand(e);
 }
 
 function collapseSwatch() {
@@ -45,7 +41,7 @@ function collapseSwatch() {
 
     e.innerHTML = e.getAttribute('icon-text')
 
-    collapse();
+    collapse(e);
 }
 
 function toggleSidebar() {
@@ -54,15 +50,15 @@ function toggleSidebar() {
     if (e.getAttribute('out') === 'yes') {
         e.setAttribute('out', 'no');
         e.innerHTML = '<a><i class="fas fa-bars"></i></a>'
-        collapse();
+        collapse(e);
     } else {
         e.setAttribute('out', 'yes')
         e.innerHTML = 'hopefully this menu expands?'
-        expand();
+        expand(e);
     }
 }
 
-document.getElementById('hamburger').addEventListener('onclick', (toggleSidebar));
+document.getElementById('hamburger').addEventListener('click', toggleSidebar);
 
 for (const element of document.getElementsByClassName('banner-swatch')) {
     element.addEventListener('mouseenter', expandSwatch);
