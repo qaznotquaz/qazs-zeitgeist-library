@@ -56,7 +56,7 @@ function toggleSidebar() {
         up.style.height = null;
         urhere.style.height = null;
         dn.style.height = null;
-        dn.style.marginTop = "-75px"
+        dn.style.marginTop = null;
         e.innerHTML = '<i class="fas fa-bars"></i>'
         collapse(sidebar);
     } else {
@@ -64,7 +64,7 @@ function toggleSidebar() {
         up.style.height = "50px";
         urhere.style.height = "50px";
         dn.style.height = "50px";
-        dn.style.marginTop = null;
+        dn.style.marginTop = "-4px";
         e.innerHTML = '<i class="fas fa-bars"></i> Nav-Menu'
         expand(sidebar);
     }
