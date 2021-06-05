@@ -1,6 +1,5 @@
-function collapseHover() {
+function collapse() {
     const e = this
-    e.innerHTML = e.getAttribute('icon-text')
 
     // get the width of the element's inner content, regardless of its actual size
     const width = e.scrollWidth;
@@ -24,9 +23,8 @@ function collapseHover() {
     });
 }
 
-function expandHover() {
+function expand() {
     const e = this;
-    e.innerHTML = e.getAttribute('swatch-text')
 
     requestAnimationFrame(function () {
         const width = e.scrollWidth + 10;
@@ -34,8 +32,40 @@ function expandHover() {
     });
 }
 
+function expandSwatch() {
+    const e = this;
+
+    e.innerHTML = e.getAttribute('swatch-text')
+
+    expand();
+}
+
+function collapseSwatch() {
+    const e = this;
+
+    e.innerHTML = e.getAttribute('icon-text')
+
+    collapse();
+}
+
+function toggleSidebar() {
+    const e = this;
+
+    if (e.getAttribute('out') === 'yes') {
+        e.setAttribute('out', 'no');
+        e.innerHTML = '<a><i class="fas fa-bars"></i></a>'
+        collapse();
+    } else {
+        e.setAttribute('out', 'yes')
+        e.innerHTML = 'hopefully this menu expands?'
+        expand();
+    }
+}
+
+document.getElementById('hamburger').addEventListener('onclick', (toggleSidebar));
+
 for (const element of document.getElementsByClassName('banner-swatch')) {
-    element.addEventListener('mouseenter', expandHover);
-    element.addEventListener('mouseleave', collapseHover);
+    element.addEventListener('mouseenter', expandSwatch);
+    element.addEventListener('mouseleave', collapseSwatch);
     element.innerHTML = element.getAttribute('icon-text')
 }
