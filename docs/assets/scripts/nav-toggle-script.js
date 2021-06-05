@@ -52,14 +52,20 @@ function toggleSidebar() {
 
     if (e.getAttribute('out') === 'yes') {
         e.setAttribute('out', 'no');
-        urhere.style.height = "0px";
-        elevatorButtons[0].style.height = "75px";
-        elevatorButtons[1].style.height = "75px";
+        urhere.style.height = null;
+        urhere.style.border = null;
+        urhere.style.marginTop = null;
+        urhere.style.padding = null;
+        elevatorButtons[0].style.height = null;
+        elevatorButtons[1].style.height = null;
         e.innerHTML = '<i class="fas fa-bars"></i>'
         collapse(sidebar);
     } else {
         e.setAttribute('out', 'yes')
         urhere.style.height = "50px";
+        urhere.style.border = "2px";
+        urhere.style.marginTop = "-4px";
+        urhere.style.padding = "9px";
         elevatorButtons[0].style.height = "50px";
         elevatorButtons[1].style.height = "50px";
         e.innerHTML = '<i class="fas fa-bars"></i> Nav-Menu'
