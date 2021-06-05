@@ -186,7 +186,7 @@ body {
       border-right: 0;
       border-bottom-width: 4px;
       align-items: center;
-      transition: height 0.1s ease-in-out;
+      transition: height 0.1s ease-in-out, margin-top 0.1s ease-in-out;
 
       a {
         display: flex;

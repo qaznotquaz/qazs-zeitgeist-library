@@ -55,7 +55,7 @@ function toggleSidebar() {
         e.setAttribute('out', 'no');
         up.style.height = null;
         dn.style.height = null;
-        dn.style.marginTop = "-25px"
+        dn.style.marginTop = "-75px"
         e.innerHTML = '<i class="fas fa-bars"></i>'
         collapse(sidebar);
     } else {
