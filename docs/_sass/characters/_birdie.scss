@@ -165,6 +165,19 @@ $prof-red: #d00;
     text-decoration: underline $prof-red;
   }
 
+  div {
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+
+      li {
+        margin: 4px;
+      }
+    }
+  }
+
   .note {
     color: $prof-red;
     
@@ -180,17 +193,6 @@ $prof-red: #d00;
     .underline {
       color: $prof-red;
       text-decoration: underline $prof-red;
-    }
-
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      text-align: center;
-
-      li {
-        margin: 4px;
-      }
     }
   }
 
