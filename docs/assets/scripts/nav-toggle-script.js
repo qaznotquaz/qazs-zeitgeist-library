@@ -46,15 +46,16 @@ function collapseSwatch() {
 
 function toggleSidebar() {
     const e = this;
+    const sidebar = document.getElementById('sidebar')
 
     if (e.getAttribute('out') === 'yes') {
         e.setAttribute('out', 'no');
         e.innerHTML = '<a><i class="fas fa-bars"></i></a>'
-        collapse(e);
+        collapse(sidebar);
     } else {
         e.setAttribute('out', 'yes')
         e.innerHTML = 'hopefully this menu expands?'
-        expand(e);
+        expand(sidebar);
     }
 }
 
